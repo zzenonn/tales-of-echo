@@ -8,6 +8,9 @@ title: Tales of Echo
   <div class="subtitle">A collection of roleplay threads</div>
 </div>
 
+<input type="text" class="search-box" id="search" placeholder="Search by title or character..." autocomplete="off">
+<div class="no-results" id="no-results">No threads found.</div>
+
 <div class="campaign-section">
   <h2>The Spark Saga</h2>
   <ul class="thread-list">
@@ -339,3 +342,29 @@ title: Tales of Echo
     </li>
   </ul>
 </div>
+
+<script>
+document.getElementById('search').addEventListener('input', function() {
+  var q = this.value.toLowerCase().trim();
+  var sections = document.querySelectorAll('.campaign-section');
+  var totalVisible = 0;
+
+  sections.forEach(function(section) {
+    var items = section.querySelectorAll('.thread-list li');
+    var sectionVisible = 0;
+
+    items.forEach(function(li) {
+      var title = li.querySelector('.thread-title').textContent.toLowerCase();
+      var meta = li.querySelector('.thread-meta').textContent.toLowerCase();
+      var match = !q || title.indexOf(q) !== -1 || meta.indexOf(q) !== -1;
+      li.style.display = match ? '' : 'none';
+      if (match) sectionVisible++;
+    });
+
+    section.style.display = sectionVisible > 0 ? '' : 'none';
+    totalVisible += sectionVisible;
+  });
+
+  document.getElementById('no-results').style.display = (q && totalVisible === 0) ? 'block' : 'none';
+});
+</script>

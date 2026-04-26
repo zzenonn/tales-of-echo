@@ -61,6 +61,35 @@
       margin-top: 0.3rem;
     }
 
+    .search-box {
+      width: 100%;
+      padding: 0.7rem 1rem;
+      font-family: 'Inter', sans-serif;
+      font-size: 0.9rem;
+      background: var(--bg-surface);
+      color: var(--text);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      margin-bottom: 1.5rem;
+      outline: none;
+      transition: border-color 0.2s;
+    }
+
+    .search-box:focus {
+      border-color: var(--accent);
+    }
+
+    .search-box::placeholder {
+      color: var(--text-muted);
+    }
+
+    .no-results {
+      color: var(--text-muted);
+      font-style: italic;
+      padding: 1rem 0;
+      display: none;
+    }
+
     .campaign-section {
       margin-bottom: 3rem;
     }
