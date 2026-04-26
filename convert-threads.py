@@ -60,8 +60,30 @@ def format_timestamp_short(ts):
     return dt.strftime("%b %d, %Y · %I:%M %p UTC")
 
 
-def clean_content(content):
-    content = re.sub(r"<@!?(\d+)>", "@user", content)
+DISCORD_ID_TO_USERNAME = {
+    "125961933802307584": "papasimba145",
+    "128691687169064961": "electrochemistry",
+    "1363238430640832655": "michaa_isblu",
+    "155436835013656576": "pyroshadow",
+    "160196380323741696": "stressey_depressey",
+    "206175579358232578": ".tsukikage.",
+    "222579812114366464": "eclipse5359",
+    "247172584993587200": "b3nis",
+    "278357187246555137": "nemo3267",
+    "544474001288986624": "zzenonn",
+    "697171541208596510": "penny5746",
+}
+
+
+def clean_content(content, campaign=None):
+    def resolve_mention(m):
+        uid = m.group(1)
+        username = DISCORD_ID_TO_USERNAME.get(uid, "")
+        if username:
+            char_map = CAMPAIGN_CHARACTER_MAP.get(campaign, {}) if campaign else {}
+            return char_map.get(username, username)
+        return "@user"
+    content = re.sub(r"<@!?(\d+)>", resolve_mention, content)
     content = re.sub(r"<#(\d+)>", "#channel", content)
     content = re.sub(r"<@&(\d+)>", "@role", content)
     content = re.sub(r"<a?:(\w+):\d+>", r":\1:", content)
@@ -171,6 +193,21 @@ def convert_thread(json_path, output_path=None, campaign=None):
             title += "..."
         status = "Unknown"
 
+    # Clean markdown formatting and Discord mentions from title
+    title = clean_content(title, campaign)
+    title = re.sub(r"[*_~`]", "", title)
+    title = re.sub(r"\[{1,2}(.*?)\]{1,2}", r"\1", title)
+    title = re.sub(r"^\[{1,2}\s*", "", title)       # leading [[ without closing
+    title = re.sub(r"\s*\]{1,2}$", "", title)       # trailing ]]
+    title = re.sub(r"\(\((.*?)\)\)", r"\1", title)
+    title = re.sub(r"^\(\(\s*", "", title)           # leading (( without closing
+    title = re.sub(r"\s*\)\)$", "", title)           # trailing ))
+    title = re.sub(r"^>+\s*", "", title)
+    title = re.sub(r"^#{1,3}\s*", "", title)
+    title = re.sub(r"#channel", "", title)           # leftover channel refs
+    title = re.sub(r"\s{2,}", " ", title)
+    title = title.strip()
+
     # Gather unique authors in order and assign colors
     authors = []
     seen = set()
@@ -215,7 +252,7 @@ def convert_thread(json_path, output_path=None, campaign=None):
         if is_title_message(msg):
             continue
 
-        content = clean_content(msg["content"])
+        content = clean_content(msg["content"], campaign)
         if not content.strip():
             continue
 
