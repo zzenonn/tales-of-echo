@@ -6,3 +6,4 @@ Gemfile.lock
 .mcp.json
 .claude/
 *.zip
+.venv/
