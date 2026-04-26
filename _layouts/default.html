@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }} — Tales of Echo</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,600;1,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #1a1a2e;
+      --bg-surface: #16213e;
+      --bg-card: #1e2a47;
+      --text: #e0e0e0;
+      --text-muted: #8892a4;
+      --accent: #c9a84c;
+      --accent-dim: #8b6f2e;
+      --border: #2a3555;
+      --link: #7eb8da;
+      --link-hover: #a8d4f0;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: 'Crimson Pro', Georgia, serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.7;
+      font-size: 18px;
+    }
+
+    a { color: var(--link); text-decoration: none; transition: color 0.2s; }
+    a:hover { color: var(--link-hover); }
+
+    .container {
+      max-width: 820px;
+      margin: 0 auto;
+      padding: 2rem 1.5rem;
+    }
+
+    /* Index page */
+    .site-header {
+      text-align: center;
+      padding: 3rem 0 2rem;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 2rem;
+    }
+
+    .site-header h1 {
+      font-family: 'Crimson Pro', serif;
+      font-size: 2.8rem;
+      font-weight: 600;
+      color: var(--accent);
+      letter-spacing: 0.02em;
+    }
+
+    .site-header .subtitle {
+      color: var(--text-muted);
+      font-size: 1.1rem;
+      margin-top: 0.3rem;
+    }
+
+    .campaign-section {
+      margin-bottom: 3rem;
+    }
+
+    .campaign-section h2 {
+      font-family: 'Crimson Pro', serif;
+      font-size: 1.6rem;
+      color: var(--accent);
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 0.5rem;
+      margin-bottom: 1rem;
+    }
+
+    .thread-list {
+      list-style: none;
+    }
+
+    .thread-list li {
+      border-left: 3px solid var(--border);
+      padding: 0.8rem 1rem;
+      margin-bottom: 0.5rem;
+      background: var(--bg-surface);
+      border-radius: 0 6px 6px 0;
+      transition: border-color 0.2s, background 0.2s;
+    }
+
+    .thread-list li:hover {
+      border-left-color: var(--accent);
+      background: var(--bg-card);
+    }
+
+    .thread-list .thread-title {
+      font-size: 1.05rem;
+      font-weight: 500;
+    }
+
+    .thread-list .thread-meta {
+      font-family: 'Inter', sans-serif;
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      margin-top: 0.2rem;
+    }
+
+    .thread-list .thread-meta .status {
+      display: inline-block;
+      padding: 1px 8px;
+      border-radius: 10px;
+      font-size: 0.65rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    .status-closed { background: #5c2030; color: #f0a0a0; }
+    .status-open { background: #1e4d30; color: #90dda0; }
+    .status-solo { background: #3b2060; color: #c8a0f0; }
+    .status-complete { background: #1e3a5c; color: #90c0f0; }
+    .status-unknown { background: #2a2a3a; color: #8892a4; }
+
+    /* Thread page */
+    .thread-header {
+      text-align: center;
+      padding: 2rem 0;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 2rem;
+    }
+
+    .thread-header h1 {
+      font-family: 'Crimson Pro', serif;
+      font-size: 2rem;
+      color: var(--accent);
+      margin-bottom: 0.6rem;
+    }
+
+    .thread-header .meta {
+      font-family: 'Inter', sans-serif;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      line-height: 1.8;
+    }
+
+    .thread-header .meta span {
+      display: inline-block;
+      margin: 0 0.5rem;
+    }
+
+    .back-link {
+      font-family: 'Inter', sans-serif;
+      font-size: 0.85rem;
+      display: inline-block;
+      margin-bottom: 1rem;
+    }
+
+    /* Chat bubbles */
+    .chat {
+      display: flex;
+      flex-direction: column;
+      gap: 0.4rem;
+    }
+
+    .msg-group {
+      margin-bottom: 1.2rem;
+    }
+
+    .msg-author {
+      font-family: 'Inter', sans-serif;
+      font-size: 0.8rem;
+      font-weight: 600;
+      margin-bottom: 0.3rem;
+      padding-left: 0.5rem;
+    }
+
+    .msg-bubble {
+      background: var(--bg-card);
+      border-radius: 12px;
+      padding: 1rem 1.2rem;
+      margin-bottom: 0.3rem;
+      border-left: 3px solid var(--border);
+      position: relative;
+    }
+
+    .msg-bubble p {
+      margin-bottom: 0.8rem;
+    }
+
+    .msg-bubble p:last-child {
+      margin-bottom: 0;
+    }
+
+    .msg-bubble .timestamp {
+      font-family: 'Inter', sans-serif;
+      font-size: 0.65rem;
+      color: var(--text-muted);
+      margin-top: 0.5rem;
+      text-align: right;
+    }
+
+    .msg-bubble.ooc {
+      background: transparent;
+      border-left-color: var(--accent-dim);
+      font-style: italic;
+      color: var(--text-muted);
+      font-size: 0.9rem;
+      padding: 0.6rem 1rem;
+    }
+
+    .msg-bubble.ooc .ooc-label {
+      font-family: 'Inter', sans-serif;
+      font-size: 0.7rem;
+      font-weight: 600;
+      color: var(--accent-dim);
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    /* Character colors */
+    .color-0 .msg-author { color: #7eb8da; }
+    .color-0 .msg-bubble { border-left-color: #7eb8da; }
+    .color-1 .msg-author { color: #da7e7e; }
+    .color-1 .msg-bubble { border-left-color: #da7e7e; }
+    .color-2 .msg-author { color: #7eda98; }
+    .color-2 .msg-bubble { border-left-color: #7eda98; }
+    .color-3 .msg-author { color: #c9a84c; }
+    .color-3 .msg-bubble { border-left-color: #c9a84c; }
+    .color-4 .msg-author { color: #b87eda; }
+    .color-4 .msg-bubble { border-left-color: #b87eda; }
+    .color-5 .msg-author { color: #da7eb8; }
+    .color-5 .msg-bubble { border-left-color: #da7eb8; }
+    .color-6 .msg-author { color: #7edac9; }
+    .color-6 .msg-bubble { border-left-color: #7edac9; }
+    .color-7 .msg-author { color: #dabc7e; }
+    .color-7 .msg-bubble { border-left-color: #dabc7e; }
+
+    .thread-footer {
+      text-align: center;
+      font-family: 'Inter', sans-serif;
+      font-size: 0.7rem;
+      color: var(--text-muted);
+      padding: 2rem 0 1rem;
+      border-top: 1px solid var(--border);
+      margin-top: 2rem;
+    }
+
+    /* Discord-style markdown */
+    .msg-bubble blockquote {
+      border-left: 3px solid var(--text-muted);
+      padding-left: 0.8rem;
+      margin: 0.5rem 0;
+      color: var(--text-muted);
+    }
+
+    .msg-bubble strong { font-weight: 600; }
+    .msg-bubble em { font-style: italic; }
+
+    @media (max-width: 600px) {
+      .container { padding: 1rem; }
+      .site-header h1 { font-size: 2rem; }
+      .thread-header h1 { font-size: 1.5rem; }
+      body { font-size: 16px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    {{ content }}
+  </div>
+</body>
+</html>

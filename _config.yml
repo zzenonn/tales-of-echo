@@ -1,12 +1,7 @@
 title: Tales of Echo
 description: A collection of roleplay threads from Tales of Echo
-theme: jekyll-theme-midnight
 baseurl: "/tales-of-echo"
 url: ""
-
-markdown: kramdown
-kramdown:
-  input: GFM
 
 exclude:
   - threads/
@@ -15,3 +10,5 @@ exclude:
   - discord-fetch.env.example
   - convert-threads.py
   - "*.json"
+  - rp.zip
+  - .mcp.json
