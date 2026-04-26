@@ -208,18 +208,22 @@ def convert_thread(json_path, output_path=None, campaign=None):
     title = re.sub(r"\s{2,}", " ", title)
     title = title.strip()
 
-    # Gather unique authors in order and assign colors
+    # Gather unique authors in order and assign colors + sides
     authors = []
     seen = set()
     author_color = {}
+    author_side = {}
     color_idx = 0
+    side_idx = 0
     for msg in messages:
         name = get_author_name(msg["author"], campaign)
         if name not in seen:
             seen.add(name)
             authors.append(name)
             author_color[name] = color_idx
+            author_side[name] = "side-left" if side_idx % 2 == 0 else "side-right"
             color_idx = (color_idx + 1) % 8
+            side_idx += 1
 
     first_date = format_timestamp(messages[0]["timestamp"])
     last_date = format_timestamp(messages[-1]["timestamp"])
@@ -265,7 +269,8 @@ def convert_thread(json_path, output_path=None, campaign=None):
         if show_author:
             if prev_author is not None:
                 h.append("</div>")  # close prev msg-group
-            h.append(f'<div class="msg-group color-{cidx}">')
+            side = author_side.get(author, "side-left")
+            h.append(f'<div class="msg-group color-{cidx} {side}">')
             h.append(f'  <div class="msg-author">{escape(author)}</div>')
 
         html_blocks = content_to_html(content)

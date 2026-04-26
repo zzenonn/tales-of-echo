@@ -163,6 +163,15 @@
 
     .msg-group {
       margin-bottom: 1.2rem;
+      max-width: 85%;
+    }
+
+    .msg-group.side-left {
+      align-self: flex-start;
+    }
+
+    .msg-group.side-right {
+      align-self: flex-end;
     }
 
     .msg-author {
@@ -173,6 +182,12 @@
       padding-left: 0.5rem;
     }
 
+    .side-right .msg-author {
+      text-align: right;
+      padding-left: 0;
+      padding-right: 0.5rem;
+    }
+
     .msg-bubble {
       background: var(--bg-card);
       border-radius: 12px;
@@ -180,6 +195,11 @@
       margin-bottom: 0.3rem;
       border-left: 3px solid var(--border);
       position: relative;
+    }
+
+    .side-right .msg-bubble {
+      border-left: none;
+      border-right: 3px solid var(--border);
     }
 
     .msg-bubble p {
@@ -219,20 +239,28 @@
     /* Character colors */
     .color-0 .msg-author { color: #7eb8da; }
     .color-0 .msg-bubble { border-left-color: #7eb8da; }
+    .color-0.side-right .msg-bubble { border-right-color: #7eb8da; }
     .color-1 .msg-author { color: #da7e7e; }
     .color-1 .msg-bubble { border-left-color: #da7e7e; }
+    .color-1.side-right .msg-bubble { border-right-color: #da7e7e; }
     .color-2 .msg-author { color: #7eda98; }
     .color-2 .msg-bubble { border-left-color: #7eda98; }
+    .color-2.side-right .msg-bubble { border-right-color: #7eda98; }
     .color-3 .msg-author { color: #c9a84c; }
     .color-3 .msg-bubble { border-left-color: #c9a84c; }
+    .color-3.side-right .msg-bubble { border-right-color: #c9a84c; }
     .color-4 .msg-author { color: #b87eda; }
     .color-4 .msg-bubble { border-left-color: #b87eda; }
+    .color-4.side-right .msg-bubble { border-right-color: #b87eda; }
     .color-5 .msg-author { color: #da7eb8; }
     .color-5 .msg-bubble { border-left-color: #da7eb8; }
+    .color-5.side-right .msg-bubble { border-right-color: #da7eb8; }
     .color-6 .msg-author { color: #7edac9; }
     .color-6 .msg-bubble { border-left-color: #7edac9; }
+    .color-6.side-right .msg-bubble { border-right-color: #7edac9; }
     .color-7 .msg-author { color: #dabc7e; }
     .color-7 .msg-bubble { border-left-color: #dabc7e; }
+    .color-7.side-right .msg-bubble { border-right-color: #dabc7e; }
 
     .thread-footer {
       text-align: center;
