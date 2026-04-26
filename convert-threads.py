@@ -188,8 +188,6 @@ def convert_thread(json_path, output_path=None, campaign=None):
     last_date = format_timestamp(messages[-1]["timestamp"])
     date_range = first_date if first_date == last_date else f"{first_date} – {last_date}"
 
-    status_class = f"status-{status.lower()}"
-
     # Build HTML
     h = []
     h.append("---")
@@ -204,8 +202,8 @@ def convert_thread(json_path, output_path=None, campaign=None):
     h.append(f'  <div class="meta">')
     if campaign:
         h.append(f"    <span>{escape(campaign)}</span> ·")
-    h.append(f'    <span class="status {status_class}">{escape(status)}</span> ·')
-    h.append(f"    <span>{' · '.join(escape(a) for a in authors)}</span><br>")
+    author_tags = ' '.join(f'<span class="char-tag">{escape(a)}</span>' for a in authors)
+    h.append(f"    {author_tags}<br>")
     h.append(f"    <span>{date_range}</span>")
     h.append(f"  </div>")
     h.append(f"</div>")
