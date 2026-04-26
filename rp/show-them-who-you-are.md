@@ -1,0 +1,412 @@
+---
+layout: default
+title: "Show Them Who You Are"
+---
+
+<div align="center">
+
+# Show Them Who You Are
+
+<img src="https://img.shields.io/badge/status-Closed-e74c3c?style=for-the-badge" alt="Closed" />
+
+**Campaign:** The Spark Saga  
+**Writers:** Sol/Sunni  
+**Date:** October 28, 2025 &ndash; November 04, 2025
+
+</div>
+
+---
+
+
+### &#x270D; Sol/Sunni
+<sub>Oct 28, 2025 &middot; 06:37 PM UTC</sub>
+
+## Night 1: A Serpent's Charm
+
+Sol’s room was quiet, but alive with motion. The thread slid through the fabric, candlelight glinting off pins, the faint hum of Sol’s dancing lights spell illuminating the mess spread across his desk. Bolts of black and green fabric lay draped over the back of his chair; bronze trim coiled across the table like a snake's shedded skin.
+
+It was long past midnight, but Sol was still working. This was the part he lived for: the hush between hours, the world gone still enough that all he could hear was his own heartbeat and the soft pull of a needle through cloth.
+
+Before him stood a mannequin, half-dressed in clothes that looked dangerous, as if they were stalking its prey, waiting for the perfect time to strike.
+
+It wore a sleeveless shirt with a high collar. The shirt was black as night and hugged the mannequin’s torso in sharp, clean lines. Sol had chosen a smooth, lightweight fabric that stretched and shaped to the body like a second skin, soft to the touch yet structured enough to maintain its form. He’d cut it deliberately close, designed to cling to Redd’s figure and enhance his natural build. He intentionally designed it so Redd’s opponents would get distracted by his looks, but he also knew his friend wouldn’t mind a bit of extra adoration from the crown. Across the chest and ribs, Sol had stitched serpentine scale embroidery in emerald-green metallic thread. Each stitch was deliberate, curving along the muscle lines so that when the wearer breathed or flexed, the scales would shimmer and shift, as if they were alive.
+
+He moved on to the fingerless gloves next. They were black, long, snug pieces that ended just below the elbow. The same emerald green thread ran through them, scales stitched in a way that seemed to slither. “Perfect,” Sol murmured under his breath, tying off a thread. “Just like a real snake.”
+
+He pushed to his feet and grabbed a sash from his desk. It was the centerpiece of the outfit; it was made of deep green silk that shimmered bronze at the ends when the fabric swayed. Here, the scales weren’t subtle. They glinted boldly across the surface; he had created a hypnotic pattern of hand-stitched in shining bronze scales that drew the eye immediately.
+
+A serpent-head belt waited on the desk beside him. It was one of the few things Sol hadn’t made himself, though he’d designed it down to the curve of its fangs. The bronze material gleamed warmly in the candlelight, and the snake’s head curled protectively around the belt clasp. He fastened it around the mannequin’s waist, letting the green sash drape off one hip, falling like liquid metal.
+
+He adjusted the folds, then stepped back, running his gaze from the waist up. The silhouette was fierce and flirtatious, just like Redd.
+
+Sol grabbed a bronze bicep armlet next; it was another custom-ordered piece. It was shaped like a snake wrapping itself around Redd’s bicep, and its eyes were inlaid with jade. Sol clasped it around the mannequin’s arm, aligning it with the soft shimmer of the glove below it.
+
+He placed matching bracelets on the wrists, each filled with forest-related charms. He knelt briefly to finish the pants. They were relaxed at the base and tapered at the ankles. He adjusted the taper at the ankle where he’d embroidered a ring of tiny bronze scales.
+
+Then he laid out a pair of strapped sandals at the mannequin’s feet. The sandals’ straps crisscrossed the ankle in gleaming bronze weave, light enough and strong enough to be both agile and combative.
+
+
+<sub>Oct 28, 2025 &middot; 06:37 PM UTC</sub>
+
+Finally, he picked up a snake tooth necklace from the table, his favorite piece of the ensemble. The fang was real; he’d found it months ago in the academy gardens. He cleaned, polished, and set it into a black cord. Near the tip, he’d brushed on iridescent, venomous green paint, making the tooth look as if it still dripped with fresh poison.
+
+It gleamed faintly in the light as he held it up, a softening of admiration on his face. “Perfect,” he murmured. “A balance of elegance and lethality.”
+
+He slipped it around the mannequin’s neck, letting the fang rest against the dark shirt. The emerald-stitched scales caught the candlelight, echoing the shimmer on the tooth.
+
+When he finally stepped back, exhaustion and pride warred in his mind. The finished outfit looked almost alive: the emerald sheen, the bronze gleam of the belt and accessories, the way every scale reflected a touch of movement.
+
+He brushed his fingers over the sash one last time, the bronze stitching warm under his touch. “There,” he whispered, smiling faintly. “Sharp, dangerous, and impossible to ignore.”
+
+The bracer at his wrist pulsed softly in response, as if in approval.
+
+Sol dispelled his light motes, leaving only the candle burning. Its flame flickered once, then steadied, light sliding across green silk and bronze accents like a serpent’s final breath before stillness.
+———————————————————————
+
+
+<sub>Oct 28, 2025 &middot; 06:40 PM UTC</sub>
+
+———————————————————————
+
+
+<sub>Oct 30, 2025 &middot; 04:16 AM UTC</sub>
+
+## Night 2: Our Moral Compass
+The world held its breath outside Sol’s window as the moon reached its apex in the sky. Motes of blue and gold light drifted lazily overhead. Spools of thread, scraps of fabric, and chalk-stained sketches lay in chaotic piles around him.
+
+A bare mannequin stood before him, waiting to be draped in his next creation. This was his newest challenge: revealing the true depth of Caspian Veilbright. Yes, he was the disciplined student whose steady morality held their group together, but beneath all that structure, Sol could feel the quiet fire of rebellion begging to break free. Tonight, he would design something worthy of someone like Caspian, something that honored both the order *and* the spark within.
+
+He began by putting a soft, white, short-sleeved shirt over the mannequin’s frame. The fabric was breathable and cut to move comfortably with Caspian as he fought. Sol smoothed the fabric over the chest, gently flattening the wrinkles with pressure.
+
+“Alright, this is a good base,” he said, tapping his chin with a pencil. “Now it’s time to spice it up.”
+
+Next came the jacket. It was charcoal black on the outside with a steel blue interior. He tugged the notch lapels into place, snapping the seams so they drew attention to his neck and face. Along the edges of the lapels, Sol had stitched a diagonal line of iridescent, cobalt thread that shone as bright as the sun when hit by light. The tail of the jacket dropped to mid-calf, giving Caspian a sweeping silhouette when he was in motion. A split down the back divided the coat into two flaring, triangular halves.
+
+Then he crouched and chalked rising, asymmetric arcs into the hem. Then, along the tails, he embroidered cobalt flame motifs that lightened in hue as they licked upward toward the calves, ending in brilliant white peaks. The threads he made the flames out of shimmered like embers in a dark sky when the candlelight caught them.
+
+The gloves came next; composed of black leather, they were reinforced but flexible. The palms of the gloves were smoky grey, as if a fire spell had just been launched from them. More cobalt embroidery circled along the wrist of the gloves, arcing at irregular intervals. Sol had lined the knuckles with small, reinforced silver plating just in case Caspian got disarmed and had to fight with his bare hands. Then he fastened sleek, silver bracers over the mannequin's arms.
+
+He secured a silver shoulder pauldron to the jacket’s right side, shaping it to slope to the deltoid, like the starting point of a blade. It gleamed faintly in the candlelight.
+
+He finished the upper body by layering a steel-blue sash at the hips. The ends hung asymmetrically, angled like tongues of flame. Sol embroidered the tips of the sash in cobalt thread that flared outward into licking shapes. The goal was to give the appearance of trailing sparks when Caspian ran around.
+
+
+<sub>Oct 30, 2025 &middot; 04:20 AM UTC</sub>
+
+He stepped back once, squinted, then nodded.
+
+Sol scratched at his temple, “It’s missing something.”
+
+Only then did Sol reach for a scarf tucked away in his armoire.
+
+The fabric was sheer and nearly weightless, flowing like smoke when lifted. It was dyed in a gradient: deep blue at the neck, then shifting to steel-blue, then cobalt, and finally fading to white at the very tips. The ends of the scarf were jagged and torn in irregular shapes; deliberately shaped as if a dragon had blown fire across it and burnt the fibers away. Sol ran a metallic, shining cobalt thread along those singed edges so they’d shimmer like they were still smoldering.
+
+He draped the scarf around the mannequin’s neck, letting the tails drift like smoke caught in the wind.
+
+Sol turned his attention to the lower half of the mannequin and eased a pair of tailored black pants onto its legs. They were athletic-cut; loose enough for lunging, pivoting, and sprinting, but tapered in all the right places to sharpen Caspian’s body when in motion. The black fabric was broken up by two vertical stripes of silver running up the outer thighs. Under light, the stripes caught a faint sheen, elongating the leg and conveying a sense of lightning-fast reflexes. Sol tugged lightly at the hem to check mobility, nodding when it fell back perfectly into place. 
+
+“Speed over bulk,” he hummed, fingers brushing over the lines.
+
+Next came the boots. They were mid-calf length and made of charcoal grey leather. Sol had polished the shoes with a dark gloss that brought out the blue undertones. The soles were thick enough to support a fighter’s stance and speed. Silver buckles secured the boots along the outer seams. At the heels and toes of the shoes, Sol had stitched the faintest embroidery to make it look as if Caspian were walking on lit coals. He briefly adjusted metal greaves onto the boots, aligning them to frame the shins cleanly.
+
+Around the waist, he wrapped a black leather belt, its edges trimmed in silver piping. It cinched the jacket waistline in sharply, emphasizing the mannequin's shape and posture. Across its surface, Sol added a staggered arrangement of silver fastenings.
+
+Sol turned around to his desk to pick up the most expensive piece of the outfit, a new scabbard he had commissioned. It was crafted with a sleek black base, its surface smooth as polished obsidian, and trimmed with elegant silver fittings that shimmered with intricate engraved patterns. Cool steel-blue inlays and accents trace along the metalwork, giving the piece a subtle glow. The tip and throat of the scabbard feature ornate, wing-like silver flourishes, reinforcing its regal presence.
+
+He secured the scabbard to the belt at the hip. Sol brushed a thumb along the wing-like design, “The perfect home for your blade; with the bonus that this should sway Redd away from chopping vegetables with it,” he laughed. 
+
+He stepped back, studying the way scabbard, belt, and coat tail flowed into one another; the clean lines, sharp intent, and implication of readiness.
+
+Sol moved to the back of the mannequin and turned the jacket collar outward. He took up a spool of shimmering silver thread and stitched something on the inside, tucked where only Caspian would feel it brush his skin.
+
+*Our Moral Compass*
+
+Finally came the most laborious part of the outfit: the enchantment. Sol closed his eyes as his bracer gleamed with golden light. He touched the shoulders of the mannequin and focused on the intricate embroidery. As he did, golden thread flooded from the bracer and fused their light with the flames, causing them to ignite into illusory cerulean fire. A second later, the fire petered out. Sol smiled to himself; he had enchanted the clothes to erupt into flames whenever Caspian doubled himself. It was a harmless spell, but Caspian’s opponents wouldn’t know that. His goal was to make him dazzling and impossible to ignore.
+
+
+<sub>Oct 30, 2025 &middot; 04:21 AM UTC</sub>
+
+Sol circled the mannequin one last time, adjusting each component til they were perfect. The cobalt embroidery flickered faintly, the coat tails looked ready to ignite, and the scarf drifted like smoke from a dragon’s maw.
+
+Sol stepped back, exhausted and proud. A smile tugged at his lips.
+
+“Time to show them who you are.”
+
+He extinguished the last candle, leaving the cobalt flames to shimmer softly in the dark.
+———————————————————————
+
+
+<sub>Oct 30, 2025 &middot; 04:22 AM UTC</sub>
+
+———————————————————————
+
+
+<sub>Oct 31, 2025 &middot; 05:02 AM UTC</sub>
+
+## Night 3: The Queen’s Gambit
+The moon glimmered high in the sky over the academy, enhancing the quiet stillness of the night. Sol’s dorm was calm again, but not his mind. His creativity surged at night when the world gave him enough silence to think. Dancing lights cast an ethereal glow across his desk like constellations.
+
+At the heart of the room stood yet another mannequin waiting to be wrapped in something extraordinary.
+
+Sol rolled his shoulders back, cracked his knuckles, and grinned to himself.
+“Let’s make an outfit worthy of a queen,” he whispered.
+
+He started with the base: a white off-the-shoulder blouse with a sweetheart neckline and elegant, billowing sleeves. The sleeves were caught gently at the wrists by silver, vine-shaped cuffs. He picked up a fine needle and laced lilac thread through the eye. He proceeded to stitch snapdragons and amaryllis curling up from the sleeve cuffs. He continued stitching near the shoulders, leaving behind delicate dahlia petals.
+
+Next came the corset. It was composed of black leather and fitted sharply at the waist. Silver vines spiraled along its sides, curling into gladiolus and snapdragon petal clusters, each stitch shimmering with metallic glints of silver. He added a few tiny crystals along the stems, knowing how brilliantly they’d catch torchlight. Last, he threaded a small silver crown where the heart would reside, a small token to remind Zašia where true strength came from. He hoped that when she started to doubt herself, she would remember someone is always in her corner.
+
+He moved lower, draping the black fitted pants onto the mannequin. Sleek, flexible, and perfect for movement. A sheer, black, mesh panel ran down each outer thigh, laced with silver ribbon in a crisscross pattern. Tiny amethyst studs starred each intersection of the lattice.
+
+He couldn’t help smirking. Zašia would be deadly and distracting all at once, exactly as she deserved.
+
+Next, he fastened the belt system, which was layered with black and silver leather. He attached a slim silver ring to the left side of the belt, resting it on the hip. Here, he began to attach charms related to her love of chess, making sure each piece would swing like subtle punctuation marks with her every step. The charms he hung on the ring were: a silver pawn, a black, steel knight, a rook carved from opal, a platinum bishop, and finally, the centerpiece, a queen charm. It was a faceted amethyst crowned in silver prongs that caught the light as if lit from within. 
+
+On the opposite hip, he left bare, a place meant for Vornakir’s broach should she choose to wear it.
+
+He paused there, thumb brushing the charm. “The queen is the most powerful piece on the board; it’s time you think the same of yourself.”
+
+
+<sub>Oct 31, 2025 &middot; 05:03 AM UTC</sub>
+
+Now, for the centerpiece.
+
+He slid a long, sleeveless jacket over the shoulders of the mannequin. The fabric began as a soft lilac near the collar and sleeves, deepening into violet at the waist and sinking into amethyst at the flowing tails. The inside lining shimmered silver, catching every flicker of light. He designed the lapels to be wide, to create a sense of boldness and confidence. He embroidered black and silver thorny vines at the lapels to show that even the most beautiful things could be dangerous. Then he moved to the ends of the jacket and stitched snapdragons, dahlias, amaryllis, and gladiolus flowers out of shimmering amethyst-colored thread. 
+
+For footwear, he set down a pair of black heels with silver bottoms. At the backs of the shoes were metallic lilac monarch-inspired wings, elegant and deadly as a blooming blade. He applied a simple enchantment that would let them glow when she cast spells.
+
+He went to his dresser and held up a pair of long, diamond-shaped amethyst drop earrings. They were accompanied by matching floral cartilage cuffs that curved around the upper ear like a blooming gladiolus made of silver and tiny gemstones. 
+
+For her throat, he selected a small, delicate crown-pendant necklace, 
+the crown’s arches accented with lilac gems. He layered it between two others, one with tiny silver blossoms spaced along a delicate chain, and another adorned with a Ulysseys butterfly, wings shimmering metallic purple in the candlelight.
+
+Finally, Sol had commissioned a hair clip to be crafted. It was shaped like a flowering vine and was cast in silver. Amethyst crystals were set where blossoms would bloom. It could hold her hair aloft in a regal sweep or gleam beneath loose waves like a hidden tiara.
+
+Sol stood back.
+
+He lifted one hand, placing his index and thumb together. A spark of illusion magic flickered from his fingertips and settled into the embroidery, causing their luster to increase. 
+
+Sol exhaled, stepped closer, and adjusted the hem of the coat.
+
+“There you go,” he whispered, voice soft. “Now no one will forget the moment you walk into the room, Your Royal Highness.”
+
+The candle flame fluttered as if bowing to the mannequin, and the outfit, bold and regal, stood ready for her.
+———————————————————————
+
+
+<sub>Oct 31, 2025 &middot; 05:04 AM UTC</sub>
+
+———————————————————————
+
+
+<sub>Oct 31, 2025 &middot; 02:40 PM UTC</sub>
+
+## Night 4: Draconis Tempesta
+The moon hung bright above the academy, painting a silvery glow onto each windowsill. Inside Sol’s room, his mind was going rapidly with calculations; variations of patterns and textures drifted like sparks of lightning branching through a darkened sky.
+
+In the center of it all, the chaos stood a new mannequin. Tall. Broad-shouldered. Waiting.
+
+Sol inhaled, drawing in the scent of fabric, ink, and leather polish.
+He smiled to himself, determined.
+
+“Let’s make them kneel, Thunder Bringer.”
+
+He began with the torso, adorning it with a sleeveless shirt engineered for combat and tailored for royalty. It was made from a deep midnight fabric that was lightweight yet durably reinforced. It contoured to the mannequin's frame with sculpted precision, highlighting each muscle to show off the wearer’s physical power. The collar rose high on the neck to draw attention up to the face; his goal was to make opponents feel like they had no choice but to look into Vornakir’s draconic ochre eyes and acknowledge who stood superior. 
+
+Sol took out his embroidery needle and began working on the chest and ribs of the shirt. He began to stitch an intricate lattice of draconic scales using gold filament so fine that it was only visible when hit with light at just the right angle; a purposeful design to suggest armor beneath the aristocratic poise. Some scales were smooth and mirror-bright, while others had been textured with crosshatching, creating a gradient from soft hide to hardened plate, as if Vornakir was transforming from drow prince to storm-wrought dragon, starting with his heart. 
+
+The centerpiece of the shirt was a silver dragon-scale brooch, clasped at the throat. It was engraved with branching lightning cracks that caught the candlelight.
+
+He moved to the cape, the crown of Vornakir’s ensemble. It was cut from an obsidian black silk-wool blend, meant to have some weight but flow freely. Sol draped it over where Vornakir’s missing arm would be, transforming the absence into a statement of asymmetry and hidden power. Sol tailored the shape of the cape into the sweeping, arched curve of a dragon’s wing, narrowing near the shoulder and flaring wide toward the ground. 
+
+The dark design of the cape wasn’t satisfactory for Sol, so he whipped out different-colored metallic thread and started to stitch a roiling thunderstorm across the back in layers. He began with deep charcoal grey cumulonimbus clouds at the top of the fabric. Then he added crackling effects through them with metallic gold and silver thread, each vein staggered at different angles to make it appear as if electricity was dancing through the clouds. Under the clouds, into the folds of the cape, he wove metallic gold and blue branching veins of lightning that shifted depending on the angle of light.
+
+The interior of the cape was made of rich, molten-gold satin, highly reflective and enchanted to flare like a dragon’s fire whenever the cape swept aside. It was here that he added the faint embroidery to suggest supporting wing bones. The white thread, so thin it was nearly invisible until close inspection, gave the cape an anatomical authenticity that lent it a design almost as if it were a living appendage. 
+
+He fastens the cape seamlessly to the shirt at the shoulder with a silver, lightning-shaped clasp. He smirked to himself, thinking how many heads it would turn.
+
+
+<sub>Oct 31, 2025 &middot; 02:42 PM UTC</sub>
+
+Next, he added the gloves that reached to the mid-forearms. They were crafted from reinforced black leather that molded cleanly to Vornakir’s hands. Gold scales spread over the back of each glove; angular, overlapping plates that look like a dragon’s hide. Around the wrist, Sol embroidered a jagged bolt of metallic silver that tapers into a razor-fine point, the design intentionally aligned so that when Vornakir drew a blade, it looked like the lightning stitched into the gloves flows directly into each strike.
+
+He slipped tailored pants onto the mannequin. Along the outer thighs, he created a tapering, gold-scale column, with larger plates fading into smaller ones near the knee, like a dragon’s hind-leg armor. At the inner calf, he sewed in thin silver rivulets to mimic runoff water from storm-drenched scales.
+
+Then, he wrapped a black leather dueling belt around the mannequin’s waist. Two support straps dipped toward the dominant hip, and the buckle was shaped like a dragon’s head, teeth gripping a polished obsidian stone, and eyes inlaid with topaz.
+
+Before tightening it fully, Sol installed a small, elegant silver loop on the belt. It was meant to hold a scarf, in case he chose to wear it.
+
+He slipped a pair of black leather boots onto the mannequin's feet; they rose nearly to the knee, sculpted to lengthen and empower his stance. Gold plating was layered over the shins and wrapped around the top of the foot like a dragon’s claw. Near the soles, Sol wove delicate arcs of silver lightning veins that traveled the length of the boot and curved beneath the arch, giving the impression that each step channeled storm energy into the ground.
+
+He rounded out the look with a few accessories. Around the exposed bicep, Sol secured two slim gold chains that lay flush against the muscle before connecting into a small, razor-cut scale charm. The charm swayed with his movement and let out a soft chime; a warning signal like the soft clink of coins before a dragon shows its teeth. On the mannequin’s ear, he set a silver cuff, shaped like a drake’s claw, that grips the cartilage protectively. Fine lightning-vein etchings ran across the metal, catching stray glimmers of light as he turned the mannequin's head. Together, the pieces helped show the assertion of nobility and danger.
+
+Sol stepped back and snapped his fingers. His illusion magic sank deep into the embroidery, bringing the storm to life. The lightning slithered across the cape in soft, glowing pulses, the scales flickered as if imbued with the sun's rays, and the gold elements gleamed as if they were wet with rain.
+
+Sol allowed himself a breath he hadn’t realized he’d been holding, and he pressed a thumb along the collar, smoothing one last crease.
+
+“Make them realize how small they are in your presence,” he said quietly. “And make sure they remember who you are.”
+
+The candlelight bowed again in reverence to the silhouette of a storm disguised as a king.
+———————————————————————
+
+
+<sub>Oct 31, 2025 &middot; 02:42 PM UTC</sub>
+
+———————————————————————
+
+
+<sub>Nov 02, 2025 &middot; 12:53 AM UTC</sub>
+
+## Night 5: The Cosmic Illusionists
+Night settled elegantly over the academy. The halls had gone quiet, and Sol’s room was glowing with a constellation of lamps and scattered spell-lights. His creativity never slept when the world did. That silence made room for the stars to speak.
+
+A bare mannequin waited at the center of the room. Sol had been staring at it, waiting for inspiration to strike. He wanted to make a good impression on Sponsorship Day and be dazzling; for his future, for the sponsors and friends watching, and for his father.
+
+He exhaled slowly, letting his anxiety bleed out with the breath, and got to work.
+
+He began the outfit with a shirt. It was made from a matte midnight textile with a subtle lunar sheen. It absorbed light and would create a striking canvas beneath the gold and silver to come. It tightly clung to the mannequin, enhancing the look of muscle. The collar rose high, framing his jaw and throat. It had long fitted sleeves that ended just at the forearms, a deliberate styling choice to draw attention to his forearm muscles.
+
+Next came an over-the-shoulder wrap. It unfurled in folds of luminous white fabric, soft as silk and meticulously shaped to command attention. It began at Sol’s left shoulder and was anchored by a delicate crescent-chain pin. It swept diagonally across his chest in a curve of asymmetry, the fabric angling down his torso like a comet traveling through space. On the right arm, the material blossomed into a voluminous, airy sleeve. A clean triangle cutout at the shoulder revealed the fitted shirt underneath; its edges were engraved in a trace of gold thread that caught light when the sleeve moved. 
+
+At the base of the sleeve, gold, silver, and bronze embroidery thread formed mini-constellation clusters with stars curling down the fabric before ending at the sleeve wrists, which were neatly cinched by a moon-themed bracelet. 
+
+The wrap moved like it had a dancer’s awareness, every ripple intentional, each layer placed so that when Sol stood tall, it framed him like destiny woven into cloth. 
+
+On the opposite arm, Sol placed a gold armlet that gleamed with the warmth of a rising sun. It was a half-disc crowned with tapered rays that framed the swell of his bicep like dawn breaking over a horizon. From its lower edge, Sol layered sashes that cascaded down his arm in elegant ribbons. They were rich royal blue with black panels and gold filigree stitched into them like meteor paths cutting through the night. Each strip tapered to a sharp, banner-like point and was weighted just enough to sway with intention. A few sashes bore tiny moons, comets, and star charms that chimed faintly when the sashes moved.
+
+Around the waist, he wrapped a series of thin, midnight-black belts with gold starburst clasps, highlighted with dark blue accents, to serve as a foundation for a second set of blue, drifting ribbons. These ribbons were shorter and narrower, and fell in staggered lines down the front of his legs like falling stars. The black-and-gold detailing repeated in subtle constellations and clusters, tying the waist adornments into the broader cosmic theme of the outfit. Where the arm sashes drew attention to his boldness, the waist sashes framed his elegance.
+
+
+<sub>Nov 02, 2025 &middot; 12:56 AM UTC</sub>
+
+Trailing down the legs to the calves, Sol pinned a panel of fabric. It was made of midnight-black cloth, deep enough to drown out the moonlight. The inside was a iridescent royal blue. The panels encircled the back and sides of his legs, while the front remained clean and open for movement. The edges were cut in gently angled arcs that echoed the sweep of constellations.
+
+Along the bottom and sides, gold and pale-bronze embroidery spiraled into a cosmic fresco: crescent moons, swirling nebulas, and drifting shooting stars. He added subtle beadwork and more metallic thread throughout the piece to enhance its shimmer and make Sol look like he walked with a piece of the night sky pinned to him.
+
+He moved onto the pants. They were cut from midnight-black fabric that hugged the lines of his legs. The fabric carried a soft satin depth, catching hints of blue when light brushed over it. Along the outer seams, thin silver threading formed a constellation path, with stars aligning with anatomical precision at the knee and calf. Near the lower leg, the patterns bloomed into golden swirling accents. The ankles were tapered so they’d fit cleanly into his boots.
+
+Sol placed black leather boots on the mannequin's feet. They rose securely around his calves, and each boot bore a gold-brushed, crescent-shaped clasp at the ankle. Near the shins, filigree unfurled into spacious clusters of metallic stars, revealing constellations visible to those who know how to connect the dots. The soles were discreetly engraved with a pattern of interlocking stars.
+
+Next, he started working on the outfit’s accessories, beginning with the fingerless gloves. They were crafted from midnight leather, smooth yet durable enough to withstand raw spellwork. He left the fingers free so as not to negatively impact the somatic components of his spells. Gold accents ringed the wrist in thin, double-banded rings, and a matching gold halo marked the base of the palm, centered over a small, sculpted star piece stitched directly into the leather. 
+
+He then hung a black choker with a gold sun charm around the mannequin's throat. A little lower, he placed a delicate silver chain, on which a silver crescent moon hung. On the longest chain, a small bronze cluster of tightly grouped stars was connected by thin inlays. It nestles just above his sternum when he moves, swaying like a pendulum measuring the time between his hopes.
+
+He finished the look off with earrings. A silver chain descended from his right earlobe to his jawline, ending in a bursting star charm made of pale opal and gold veins. Halfway down the chain, a tiny ringed planet bead rotated freely, catching motion like a planet spinning through a personal orbit. The left earring was a small gold stud shaped like a four-pointed star, minimal but sharp.
+
+Hours had slipped by unnoticed. His back ached. His fingers pricked. But the outfit was almost whole now. Once the final stitches of gold and silver were neatly finished, Sol set his palm gently over the embroidered stars, fingertips tracing tiny constellations as if greeting old friends. His other hand lifted, fingers poised like a conductor about to summon a symphony.
+
+He took a deep breath, and on the exhale, light flowed from his palm into the threads, awakening them one by one, creating ethereal glimmers as though the night sky had been stitched directly into existence on the clothing. The embroidery reacted to him specifically; sparks brightened when he got excited and dimmed gently as he relaxed.
+
+He smiled as a star near the shoulder seam gently flickered. He stepped back, and for the first time all night, Sol was dazzled.
+
+“Tomorrow,” he whispered to himself, voice soft but sure, “he’ll finally understand who I am.”
+
+The stars in the embroidery shimmered as if in agreement.
+———————————————————————
+
+
+<sub>Nov 02, 2025 &middot; 12:56 AM UTC</sub>
+
+———————————————————————
+
+
+<sub>Nov 02, 2025 &middot; 04:46 PM UTC</sub>
+
+## Night 5 Pt. 2: Forgiveness
+The final snap of the embroidery thread echoed louder than it should have in the now-crowded room. Sol flexed his fingers, stiff from hours of precision work, and gently smoothed the last detail into place, a shimmering symbol of Ecto, branching like circuitry across the back of the jacket. He had finally finished the last piece in his collection, his boyfriend Adrien’s jacket.
+
+He lifted it carefully from the desk and turned toward the long row of mannequins that had slowly grown into an audience.
+
+Sol settled the jacket onto an empty mannequin at the end of the row, stepping back until the entire line came into view. Six futures. Six statements. Six people he cared about in wildly different ways.
+
+For the first time tonight, he allowed himself to breathe.
+
+His accomplishments were tangible now and worth the numerous sketches and sleepless nights. Sponsorship Day used to be about Sol proving himself capable, but now, he was glad to know he’ll be able to show the world his friend’s true selves and what makes them powerful, unique, and worth fighting for.
+
+But the silence that followed didn’t feel triumphant.
+
+It felt unfinished.
+
+His gaze drifted past the finished clothes to the scattered remnants of fabric, coils of silver thread, and a single bare mannequin, all alone in the corner, shadowed by darkness.
+
+Sorjin’s name cut through his thoughts like a shard of mirror, reflecting the worst of this semester. His stolen research. The bruises Velvyn left on him. The choking cold and anger in Sorjin’s voice every time they crossed paths. The way Zašia’s intrusion into his dreams exposed wounds he didn’t want anyone ever to see. The way Sol had used that information in an attempt to intimidate him.
+
+Sorjin didn’t deserve anything that happened to him, and he had more than earned the right to despise Sol and his friends, but that didn’t change what Sol saw underneath all that frost and rage: someone drowning alone.
+
+His gaze dropped to the leftover fabrics: glinting silver, deep blacks, and blood red. A thought flickered in his head.
+
+*A gesture.* Something small. Something kind. Something to start mending bridges and to ask for forgiveness.
+
+With a snap of his fingers, an illusion of Sorjin glittered to life in the middle of the room. Sol grabbed his sketchbook from off his desk and opened it to a fresh new page.
+
+“Fine,” he whispered under his breath, already sketching new lines across crisp parchment. “Just one more.”
+———————————————————————
+
+
+<sub>Nov 04, 2025 &middot; 02:43 AM UTC</sub>
+
+The illusion of Sorjin stood there: arms crossed, eyes narrowed, posture stiff with the constant readiness of someone who expected the next hit before it ever came. Sol studied him, pencil tapping the paper.
+
+He drew the long, dark coat first, sharp lines like walls built to keep the world at a distance. Then he started testing accent colors like a blood red cutting through the darkness. He sketched some blossoms and buds, resembling small, gentle things Sorjin would never ask for, but Sol knew he desperately needed.
+
+When he finished, his hand hovered above the page. He dispelled the illusion with a flick of his fingers, and the room fell still once more.
+
+He set down his sketchbook and walked to the bare mannequin, pulling it from the shadows and into the golden pool of lamplight.
+
+Sol began with a shirt of winter-white fabric. The material was smooth beneath his fingers, woven tightly enough to retain its shape and thin enough to allow for breathability. At the throat, he added a narrow red accent strip stitched along the collar’s edge and around the cuffs, faint scarlet threadwork in branching lines, echoing patterns that would later crawl through the rest of the outfit.
+
+Sol moved on to making a tie. He cut a deep red, satin fabric with careful precision, guiding scissors along to make a straight taper. Once the tie was shaped and pressed, Sol threaded a needle with silver thread and leaned in close so each stitch landed exactly where he intended. Starting near the knot, he embroidered a slender tree trunk down the length, the thread glinting softly under the lamplight. Branches split and curled outward as they descended lower. Just above the tie’s tip, three minuscule offshoots formed the hint of new buds, barely visible unless the viewer looked closely. Sol tied it loosely around the mannequin’s collar, letting it fall into place over the crisp white shirt.
+
+
+<sub>Nov 04, 2025 &middot; 02:43 AM UTC</sub>
+
+Sol draped a black jacket over the mannequin, smoothing the wrinkles and adjusting portions into place until it matched his exact vision: a structured high collar, fitted shoulders, and long tails that split at the back to allow motion. The crimson red lapels and shoulder plating gleamed under the light like polished garnet. He double-checked the clean white cuffs and trim along the hem, ensuring the contrast remained crisp and bold.
+
+Then he began the painstaking work of the outfit. Starting at the upper center of the back panel, he stitched a circle of silver sage leaves. Inside that protective ring, he embroidered a large, white blossom with red-tipped petals, accompanied by three smaller buds. Afterward, he threaded black into his needle and worked downward from the upper sides of the jacket, creating branching roots resembling Nythrilith roots that climbed along both side seams, then spread into the bottom hem. To finish the coat, Sol turned to the left chest region, where he added three tiny, red-tipped buds nestled in a short arc of sage leaves, positioned directly over where a heartbeat would be.
+
+Sol lifted a deep, blood-red fabric off the floor. It was heavy enough to withstand movement and strain, but soft enough to drape cleanly against the legs. He smooths it over the mannequin’s lower half, pinning the panels in place with trained, steady motions. He shaped the fabric into slim, duelist’s fit pants with room in the knee for lunges and pivots. Every seam was intentionally reinforced to withstand physical activity. Once Sol perfected the cut, he threaded his needle with black once more and began to embroider fine, branching lines that crept upward from the hem and tapered just above mid-thigh.
+
+At the waist, Sol looped two rich brown leather belts, layering them slightly offset, so they crossed one another like a protective harness. The buckle gleamed in polished silver. He pulled the belts so they rested snugly against the mannequin's form. The belts anchored the jacket’s strong silhouette and helped balance out the reds and blacks of the upper layers.
+
+Sol went and retrieved a pair of sturdy dark brown leather boots from his closet. The leather was worn just enough to be easy to move in, yet still strong enough to maintain its shape. He knelt and set each boot at the base of the mannequin, adjusting the tongue of the shoes so they sat straight. The boots rose just below the knee and had silver buckles along the sides that shone in the lamplight. Sol flipped each boot over and took a long, steady breath. With a careful hand, he painted a line of silver branches along the outer sole in metallic paint.
+
+To round out the outfit, Sol selected black leather for the gloves and cut the fingers free at the knuckles, ensuring Sorjin could still channel, gesture, and fight with his magic with complete dexterity. Across the back of each glove, Sol sewed in a thin band of dark red piping echoing the lines he stitched into the pants. He then threaded silver through the needle once more and added branching embroidery around the wrist cuff.
+
+
+<sub>Nov 04, 2025 &middot; 02:44 AM UTC</sub>
+
+Sol stepped back from the mannequin one last time; he let out a breath, satisfied with the result. But a bitter thought crept in, sharp as a needle prick against his thumb: Sorjin might not even take it. He might shove it back into Sol’s hands; he might throw it in the trash; he might set it on fire to watch it burn.
+
+Sol’s chest tightened. Even so, even if this was torn apart, rejected, or scorched to ash, Sol needed Sorjin to know someone cared enough to try.
+
+He carefully removed each piece from the mannequin. He folded the jacket with gentle precision, ensuring the blossom rested visibly on top. He slipped the dress shirt neatly beneath it, then the tie, the pants, the gloves, and finally the boots, placing them with steady hands.
+
+From beneath his desk, he retrieved a onyx-colored box, polished like obsidian and edged in silver. He placed the outfit inside as though he were handling something fragile, and wrapped the box in a satin silver ribbon, tying the bow so it sat perfectly centered. His heart thudded unevenly as he reached for a blank note card.
+
+He hesitated before writing
+*Sorjin* on the front in clean, elegant handwriting. He flipped the card over, breath held, pen hovering for a long moment before the words finally spilled out:
+
+*“I know we’re not friends, and I know you hate me, but everyone deserves to look their best on Sponsorship Day.” —S*
+
+He stared at the message, feeling every ounce of fear and hope tangled in those few lines. Then he slid the note under the silver ribbon, securing it in place.
+
+Sol placed the gift box gently on his desk. In the quiet that followed, his heart whispered a single fragile wish:
+
+*Please, just let him see the intention.*
+
+He turned out the lights, leaving only the faint glimmer of the silver ribbon.
+———————————————————————
+
+
+<sub>Nov 04, 2025 &middot; 02:44 AM UTC</sub>
+
+———————————————————————
+
+
+<sub>Nov 04, 2025 &middot; 02:44 AM UTC</sub>
+
+*FIN*
+
+
+---
+
+<div align="center"><sub>Thread ID: 1432800419024994476 &bull; Fetched from Discord</sub></div>

@@ -1,0 +1,396 @@
+[
+  {
+    "type": 0,
+    "content": "After the party returns to their dorm, Redd slumped hard into the dorm's common room couch, the weight of the night pressing heavier than any hangover. The door had barely shut behind him before he was muttering to himself, hands clawing slightly at his hair, breath hitching unevenly in his chest.\n\n\"Stupid, stupid. gods, what the hell did I do.\" The words came out ragged, more breath than voice.\n\nHe hunched forward, elbows on knees, eyes fixed on nothing.\n\n\"Should’ve kept my damn mouth shut. should’ve known she's wasn't going to walk away peacefully.\"\n\nFor a moment, he looked like he might keep unraveling quietly, alone. But his voice cracked the silence again.\n\n\"They’re all gonna hate me. Sorjin, Zurr'ka. I didn't mean for anyone to get hurt. \"\n\nHe looked up at his party members; his face showing a rare moment of vulnerability. \n\nHe swallowed.\n“Do . . . do either of you still trust me?”",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-07-06T15:21:11.959000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1391438843437121618",
+    "channel_id": "1391438843437121618",
+    "author": {
+      "id": "544474001288986624",
+      "username": "zzenonn",
+      "avatar": "19a210d6e2a745062e04fc928b3f7afa",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "zenon",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "👀"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "Zašia had been watching the way Redd moved as soon as Sorjin had told them what happened to him. He was rattled and people are unpredictable when they're rattled. That's why it's such an effective tactic against an opponent or rival.\n\nWhen he put voice to his regret, she shifted her posture, arms crossing loosely under her chest and head tilting to one side. She meant to deliver a crisp *who cares if they hate you?* Not out of cold-heartedness, but as a prelude to an assurance of a path forward. Redemption, if one wanted to be flowery about it.\n\nExcept, he looked at them like that. Zašia's posture eased, a small bit of confusion filtered its way to her expression. She hadn't expected this sort of reaction from Redd, who always seemed so confident in himself. She was learning new things about her dormmates today, wasn't she?\n\n\"Of course. What happened isn't a reason not to trust *you*,\" she asserted with a slight furrow of her brow. \"You had no way of knowing how she would react. It isn't as though you said 'good, now go beat that nerd up.'\"",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-07-08T01:06:48.431000+00:00",
+    "edited_timestamp": "2025-07-09T13:28:23.040000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1391948604347777105",
+    "channel_id": "1391438843437121618",
+    "author": {
+      "id": "128691687169064961",
+      "username": "electrochemistry",
+      "avatar": "15c510b31c8fa3c1333544dd821136c8",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1382845914192023632",
+          "asset": "nameplates/nameplates_v3/aurora/",
+          "label": "COLLECTIBLES_NAMEPLATES_CAT_BEANS_A11Y",
+          "palette": "teal"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 2,
+        "colors": [
+          14963742,
+          16711568
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      },
+      "primary_guild": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0
+  },
+  {
+    "type": 0,
+    "content": "Caspian had been frustrated as he entered the dorm and was distracted but as he heard Redd speak he snapped out of his frustrated pacing and turned to his roommates. \n\nFrustration faded to concern as he too noticed Redd’s easygoing confidence had disappeared.\n\nCaspian spoke up, “Agreed, you didn’t break our trust. We all didn’t realize what Velvyn was capable of doing after learning about Sorjin’s project. She’s responsible for her own actions, not you just because you told her something she didn’t like.”",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-07-08T19:16:12.605000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1392222761564373022",
+    "channel_id": "1391438843437121618",
+    "author": {
+      "id": "278357187246555137",
+      "username": "nemo3267",
+      "avatar": "14453b7d31e10ab8d07ae72652a0364c",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nemo3267",
+      "avatar_decoration_data": {
+        "asset": "a_35e64c0eb789d6019a76b1e95ba13497",
+        "sku_id": "1479191582002516020",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "625953788343091200",
+        "identity_enabled": true,
+        "tag": "FAB",
+        "badge": "4b70e09b6b8ddf55b5f9dc6816636760"
+      },
+      "primary_guild": {
+        "identity_guild_id": "625953788343091200",
+        "identity_enabled": true,
+        "tag": "FAB",
+        "badge": "4b70e09b6b8ddf55b5f9dc6816636760"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 1
+  },
+  {
+    "type": 0,
+    "content": "Redd let out a shaky breath that almost passed for a laugh. He wiped a hand down his face, like he could smear off the guilt if he just pressed hard enough.\n\n“Well . . . glad I haven’t been voted off the couch yet,” he muttered, the corners of his mouth twitching into something that might’ve been a small hint of a smile of relief. \n\nHe leaned back into the cushions, eyes on the ceiling. “I didn’t think she’d… do that. I mean, Velvyn’s sharp, yeah, but this?” He shook his head slowly. “I didn’t see it coming. That’s what gets me.”\n\n“I know I didn’t *tell* Velvyn to hurt him,” he said slowly, words heavy like he had to test each one before speaking it. “But I handed her the damn ammo, didn’t I? Wrapped it up in a nice little box.\n\n“She made a choice. What happened to Sorjin? That’s on her. But I’m not pretending I didn’t help set the board.”\n\nHis gaze flicked to Caspian, then Zasia; tired, but steadier now. Not asking for forgiveness. Just anchoring himself.\n\n“She fooled me.\"\n\nHe exhaled through his nose, more bitter than angry. Then, quieter:\n\n“But she’s not getting away with it.\"",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-07-09T13:18:42.609000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1392495181625819188",
+    "channel_id": "1391438843437121618",
+    "author": {
+      "id": "544474001288986624",
+      "username": "zzenonn",
+      "avatar": "19a210d6e2a745062e04fc928b3f7afa",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "zenon",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 2,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "841082021803065384",
+          "name": "hellmo",
+          "animated": true
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "A broad grin spread across Zašia's face. \"That's more like it.\" Feeling helpless was not a state of being she could agree with. But making someone pay for their transgression? *That* she could get behind.\n\n\"I think our first order of business is to agree that we'll go just about anywhere but to *her* for information we want, unless we have no other options. We've learned now that feeding information to her in exchange for what we want can be a *very* dangerous thing.\"\n\nThe aasimar's brows jumped just once, her head canting. \"There's enough danger on this campus. We don't need to be effectively handing knives to anyone. Especially not when we don't know how *she's* involved in all of this.\" How tangled Velvyn has become with the mystery of who killed Professor Silla has not been lost on Zašia.\n\nThe smugness at the thought of revenge to be had faded to a thoughtful, considerate expression. \"It could have happened to any one of us, Redd. She... asked for information about my chess partner. If it weren't for this, I'd probably have given it to her.\" She shook her head. \"Now? Not a chance in all the hells.\"",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-07-09T13:36:39.553000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1392499698656350339",
+    "channel_id": "1391438843437121618",
+    "author": {
+      "id": "128691687169064961",
+      "username": "electrochemistry",
+      "avatar": "15c510b31c8fa3c1333544dd821136c8",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1382845914192023632",
+          "asset": "nameplates/nameplates_v3/aurora/",
+          "label": "COLLECTIBLES_NAMEPLATES_CAT_BEANS_A11Y",
+          "palette": "teal"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 2,
+        "colors": [
+          14963742,
+          16711568
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      },
+      "primary_guild": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 3
+  },
+  {
+    "type": 0,
+    "content": "Caspian nods in agreement. “I agree, Velvyn can’t get away with this.”\n\nAfter Zašia finishes speaking he adds, “Even worse imagine if I gave her the information on my parents visits. She has to know something about the Professor otherwise she wouldn’t care what my parents were doing here years ago.”\n\nHe takes a seat in one of the comfortable chairs in the dorm and starts to slouch exhausted. “If we go up against Velvyn and whoever else is behind all of this we all need to be more cautious when on campus especially if we’re alone. Headwatch can’t be relied upon to keep us safe.”",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-07-09T19:18:18.584000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1392585677824065609",
+    "channel_id": "1391438843437121618",
+    "author": {
+      "id": "278357187246555137",
+      "username": "nemo3267",
+      "avatar": "14453b7d31e10ab8d07ae72652a0364c",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nemo3267",
+      "avatar_decoration_data": {
+        "asset": "a_35e64c0eb789d6019a76b1e95ba13497",
+        "sku_id": "1479191582002516020",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "625953788343091200",
+        "identity_enabled": true,
+        "tag": "FAB",
+        "badge": "4b70e09b6b8ddf55b5f9dc6816636760"
+      },
+      "primary_guild": {
+        "identity_guild_id": "625953788343091200",
+        "identity_enabled": true,
+        "tag": "FAB",
+        "badge": "4b70e09b6b8ddf55b5f9dc6816636760"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 4
+  },
+  {
+    "type": 0,
+    "content": "\"Clearly,\" Zašia mumbles in agreement with a frown.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-07-09T19:24:27.720000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1392587226092798113",
+    "channel_id": "1391438843437121618",
+    "author": {
+      "id": "128691687169064961",
+      "username": "electrochemistry",
+      "avatar": "15c510b31c8fa3c1333544dd821136c8",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1382845914192023632",
+          "asset": "nameplates/nameplates_v3/aurora/",
+          "label": "COLLECTIBLES_NAMEPLATES_CAT_BEANS_A11Y",
+          "palette": "teal"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 2,
+        "colors": [
+          14963742,
+          16711568
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      },
+      "primary_guild": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 5
+  }
+]

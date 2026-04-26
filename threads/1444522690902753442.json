@@ -1,0 +1,90 @@
+[
+  {
+    "type": 0,
+    "content": "((To be delivered by Whimsy))\n\nZurr’ka,\n\nSomething’s happening right now — something bad, and I’m in the middle of it. I can’t explain it here, and I hate that I can’t say this to you face-to-face. I’m about to do something dangerous, and before I go, I need to say what I should’ve said from the start.\n\nWhen you canceled our duel, it hurt. Not because you did anything wrong, but because I’d actually put effort into it, like real effort, and it felt like it suddenly didn’t matter. But I understand now that you were carrying more pressure than anyone should have to. Your family. Sponsorship Day. Losing to Diana in front of all of them. That would break anyone. You weren’t rejecting me. You were drowning.\n\nAnd after meeting your family… gods. I get it now. I get why you didn’t want to bring me into that. The way they watch, judge, measure every move you make… I understand why you hesitated. Why you wanted to protect me from it. Why you were scared of repeating what happened with Sorjin. You were trying not to let me get caught in the same storm.\n\nAs for what happened with Klath, that was me spiraling and making a stupid decision. I’m sorry you had to see it. You deserved better than that on a day you were already breaking under pressure.\n\nI want you. Not the perfect duelist everyone expects. Just you. And you don’t have to protect me by keeping me at arm’s length. I want to stand with you, if you’ll still let me.  ~~I lov—~~, no I'm saying that in person. I need to say that in person.\n\nWhen this is over… if I survive… I’ll be in the usual spot.\n—Redd\n\n<@160196380323741696>",
+    "mentions": [
+      {
+        "id": "160196380323741696",
+        "username": "stressey_depressey",
+        "avatar": "6c13924df052a42e883dd40885075e9d",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "StresseyDepressey",
+        "avatar_decoration_data": {
+          "asset": "a_94191be95bb9c471ff17644f3639eb6d",
+          "sku_id": "1293373563184877618",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1349849614173339688",
+            "asset": "nameplates/nameplates/spirit_of_spring/",
+            "label": "COLLECTIBLES_NAMEPLATES_SPIRIT_OF_SPRING_A11Y",
+            "palette": "sky"
+          }
+        },
+        "display_name_styles": {
+          "font_id": 8,
+          "effect_id": 5,
+          "colors": [
+            747943
+          ]
+        },
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-30T02:57:27.445000+00:00",
+    "edited_timestamp": "2025-11-30T03:04:37.920000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1444522690902753442",
+    "channel_id": "1444522690902753442",
+    "author": {
+      "id": "544474001288986624",
+      "username": "zzenonn",
+      "avatar": "19a210d6e2a745062e04fc928b3f7afa",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "zenon",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "❤️"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  }
+]

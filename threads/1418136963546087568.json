@@ -1,0 +1,959 @@
+[
+  {
+    "type": 0,
+    "content": "[[ A compilation of letters from Vornakir to his mother from Spark-Oath, periodically updated as I have time to write them. These are, of course, not knowledge he has shared for the most part but flavor that you guys can read for enjoyment ❤️ ]]",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1418137008198389851",
+        "filename": "b9bde85b291a23857d349d07f2ca9900.png",
+        "size": 5218,
+        "url": "https://cdn.discordapp.com/attachments/1418136963546087568/1418137008198389851/b9bde85b291a23857d349d07f2ca9900.png?ex=69ee67c2&is=69ed1642&hm=a642c5ab6bfc9505f0a3fa7c2448b6d76c5d139fbc92f498b9b5d6e622383d86&",
+        "proxy_url": "https://media.discordapp.net/attachments/1418136963546087568/1418137008198389851/b9bde85b291a23857d349d07f2ca9900.png?ex=69ee67c2&is=69ed1642&hm=a642c5ab6bfc9505f0a3fa7c2448b6d76c5d139fbc92f498b9b5d6e622383d86&",
+        "width": 223,
+        "height": 42,
+        "content_type": "image/png",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "2kyCAYAT9LJod1eHdz9vh1hokJmnvCc=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2025-09-18T07:29:59.820000+00:00",
+    "edited_timestamp": "2025-09-18T07:30:10.390000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1418136963546087568",
+    "channel_id": "1418136963546087568",
+    "author": {
+      "id": "206175579358232578",
+      "username": ".tsukikage.",
+      "avatar": "a_46c3fb914b80216510fecd78138bfdb7",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Akuma",
+      "avatar_decoration_data": {
+        "asset": "a_35e64c0eb789d6019a76b1e95ba13497",
+        "sku_id": "1479191582002516020",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614102036581",
+          "asset": "nameplates/nameplates/cherry_blossoms/",
+          "label": "COLLECTIBLES_NAMEPLATES_CHERRY_BLOSSOMS_A11Y",
+          "palette": "berry"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 4,
+        "colors": [
+          12189699
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      },
+      "primary_guild": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "💛"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "D’anthe Ihari, (Dearest Mother,)\n\nIt has been an eventful week. I have learned more than I anticipated, but not in the means of technical skill. I have gathered information, learned how some of the other sorts live. My dorm companions are an…interesting lot to say the least. I do not know many of their names. There’s an odd snake boy who likes to sleep around, and some boy who barely speaks to us. I don’t think he’ll be around for very long. There’s also a very particular little creature that follows us, she’s quite nice but I think she wants to steal my money. I can’t be bothered to know their names. However, I have the somewhat fortunate, or unfortunate depending how you look at it, opportunity to meet the youngest Silverspan Lady once again. You remember her, yes Mother? The one who pitched a fit and accused me of trampling her feet during dance at that ball after I so graciously chose her to dance with me? She does not seem too keen on being friendly. The others are rather indifferent for the most part. \n\nI miss you very much, and I hope the twins are well. From what I have heard, they are interested in being late enrollments in the semester? I hope that isn’t just to keep an eye on me.\n\nRegardless, I will write you again soon. \n\nVedaust, ilst isilma (Love, your son)\nVornakir Vanori",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-18T07:30:24.663000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1418137067744919662",
+    "channel_id": "1418136963546087568",
+    "author": {
+      "id": "206175579358232578",
+      "username": ".tsukikage.",
+      "avatar": "a_46c3fb914b80216510fecd78138bfdb7",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Akuma",
+      "avatar_decoration_data": {
+        "asset": "a_35e64c0eb789d6019a76b1e95ba13497",
+        "sku_id": "1479191582002516020",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614102036581",
+          "asset": "nameplates/nameplates/cherry_blossoms/",
+          "label": "COLLECTIBLES_NAMEPLATES_CHERRY_BLOSSOMS_A11Y",
+          "palette": "berry"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 4,
+        "colors": [
+          12189699
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      },
+      "primary_guild": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0
+  },
+  {
+    "type": 0,
+    "content": "",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1418137089677201529",
+        "filename": "c88efad41e122bfb39073af03480fc44.png",
+        "size": 6421,
+        "url": "https://cdn.discordapp.com/attachments/1418136963546087568/1418137089677201529/c88efad41e122bfb39073af03480fc44.png?ex=69ee67d5&is=69ed1655&hm=c6e8be114f46d335179ccf72c6df6d38b951454ae546ce16735c852767a55d2a&",
+        "proxy_url": "https://media.discordapp.net/attachments/1418136963546087568/1418137089677201529/c88efad41e122bfb39073af03480fc44.png?ex=69ee67d5&is=69ed1655&hm=c6e8be114f46d335179ccf72c6df6d38b951454ae546ce16735c852767a55d2a&",
+        "width": 299,
+        "height": 44,
+        "content_type": "image/png",
+        "original_content_type": "image/png",
+        "content_scan_version": 2,
+        "placeholder": "2kyCAYAT9KCIh3i1cAjNl5iIgJd3mVc=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2025-09-18T07:30:30.066000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1418137090406875187",
+    "channel_id": "1418136963546087568",
+    "author": {
+      "id": "206175579358232578",
+      "username": ".tsukikage.",
+      "avatar": "a_46c3fb914b80216510fecd78138bfdb7",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Akuma",
+      "avatar_decoration_data": {
+        "asset": "a_35e64c0eb789d6019a76b1e95ba13497",
+        "sku_id": "1479191582002516020",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614102036581",
+          "asset": "nameplates/nameplates/cherry_blossoms/",
+          "label": "COLLECTIBLES_NAMEPLATES_CHERRY_BLOSSOMS_A11Y",
+          "palette": "berry"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 4,
+        "colors": [
+          12189699
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      },
+      "primary_guild": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 1
+  },
+  {
+    "type": 0,
+    "content": "",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1418137103308558377",
+        "filename": "86c073be134ae303d713a0e5fd7167a5.png",
+        "size": 5412,
+        "url": "https://cdn.discordapp.com/attachments/1418136963546087568/1418137103308558377/86c073be134ae303d713a0e5fd7167a5.png?ex=69ee67d9&is=69ed1659&hm=5c817f3cf9f008de095da73b7eb80cfe1a57ff3e887fe79a1c8fdc7084fc54a6&",
+        "proxy_url": "https://media.discordapp.net/attachments/1418136963546087568/1418137103308558377/86c073be134ae303d713a0e5fd7167a5.png?ex=69ee67d9&is=69ed1659&hm=5c817f3cf9f008de095da73b7eb80cfe1a57ff3e887fe79a1c8fdc7084fc54a6&",
+        "width": 250,
+        "height": 43,
+        "content_type": "image/png",
+        "original_content_type": "image/png",
+        "content_scan_version": 2,
+        "placeholder": "2kyCAYASh4aIeI+Gi3CYB4logKd5iDg=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2025-09-18T07:30:33.221000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1418137103639773264",
+    "channel_id": "1418136963546087568",
+    "author": {
+      "id": "206175579358232578",
+      "username": ".tsukikage.",
+      "avatar": "a_46c3fb914b80216510fecd78138bfdb7",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Akuma",
+      "avatar_decoration_data": {
+        "asset": "a_35e64c0eb789d6019a76b1e95ba13497",
+        "sku_id": "1479191582002516020",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614102036581",
+          "asset": "nameplates/nameplates/cherry_blossoms/",
+          "label": "COLLECTIBLES_NAMEPLATES_CHERRY_BLOSSOMS_A11Y",
+          "palette": "berry"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 4,
+        "colors": [
+          12189699
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      },
+      "primary_guild": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 2
+  },
+  {
+    "type": 0,
+    "content": "───  ⋅ ∙ ∘ ☽ ༓ ☾ ∘ ⋅ ⋅  ───",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-18T07:32:33.078000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1418137606356467713",
+    "channel_id": "1418136963546087568",
+    "author": {
+      "id": "206175579358232578",
+      "username": ".tsukikage.",
+      "avatar": "a_46c3fb914b80216510fecd78138bfdb7",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Akuma",
+      "avatar_decoration_data": {
+        "asset": "a_35e64c0eb789d6019a76b1e95ba13497",
+        "sku_id": "1479191582002516020",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614102036581",
+          "asset": "nameplates/nameplates/cherry_blossoms/",
+          "label": "COLLECTIBLES_NAMEPLATES_CHERRY_BLOSSOMS_A11Y",
+          "palette": "berry"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 4,
+        "colors": [
+          12189699
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      },
+      "primary_guild": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 3
+  },
+  {
+    "type": 0,
+    "content": "D’anthe Ihari,\n\nAn incident has occurred on campus. You need not worry, I am okay as are the people I interact with here. I cannot tell you much, but I can assure you of my safety. I am learning quite a bit, and getting stronger. I have met a few new people, many I don’t care much for. \n\nI encountered the Marrowbow girl. I recall we don’t deal with her family often but we are of political sound mind and relative commonly agreeable on most points. She's quite beautiful; she brings to mind that still, shimmering grotto near our estate where the briefest broken cracks in the Barricade allows rays of moonlight to shine upon the surface at the right time of night; Graceful, still, calm and captivating. She is…an acquired taste personality wise, but politically and romantically she seems like an agreeable match. I wouldn’t mind exploring a potential courtship with her in the future, if the cards fell correctly.\n\nBut I digress. I am hoping all is well back home. I have not heard much on the other two since I have come here. I won’t pretend to not be interested in their progress too. \n\nI miss your cooking. It feels like years since I’ve had one of your cherry tarts. Would you please send me the recipe? I’ve gotten up in the middle of the night and practiced often and mine are agreeable but I don’t think they’ll impress anyone. I would like to make a good showing to my dorm mates and have a taste of your cooking again.\n\nVedaust, ilst isilma \nVornakir Vanori",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-18T07:33:10.158000+00:00",
+    "edited_timestamp": "2025-09-18T07:34:31.654000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1418137761881391114",
+    "channel_id": "1418136963546087568",
+    "author": {
+      "id": "206175579358232578",
+      "username": ".tsukikage.",
+      "avatar": "a_46c3fb914b80216510fecd78138bfdb7",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Akuma",
+      "avatar_decoration_data": {
+        "asset": "a_35e64c0eb789d6019a76b1e95ba13497",
+        "sku_id": "1479191582002516020",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614102036581",
+          "asset": "nameplates/nameplates/cherry_blossoms/",
+          "label": "COLLECTIBLES_NAMEPLATES_CHERRY_BLOSSOMS_A11Y",
+          "palette": "berry"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 4,
+        "colors": [
+          12189699
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      },
+      "primary_guild": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 4
+  },
+  {
+    "type": 0,
+    "content": "───  ⋅ ∙ ∘ ☽ ༓ ☾ ∘ ⋅ ⋅  ───",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-18T07:33:21.953000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1418137811353341954",
+    "channel_id": "1418136963546087568",
+    "author": {
+      "id": "206175579358232578",
+      "username": ".tsukikage.",
+      "avatar": "a_46c3fb914b80216510fecd78138bfdb7",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Akuma",
+      "avatar_decoration_data": {
+        "asset": "a_35e64c0eb789d6019a76b1e95ba13497",
+        "sku_id": "1479191582002516020",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614102036581",
+          "asset": "nameplates/nameplates/cherry_blossoms/",
+          "label": "COLLECTIBLES_NAMEPLATES_CHERRY_BLOSSOMS_A11Y",
+          "palette": "berry"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 4,
+        "colors": [
+          12189699
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      },
+      "primary_guild": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 5,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "💛"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "D’anthe Ihari,\n\nI wish I could pen you and tell you every feeling I have, and every regret. I know many are these are likely screened, and to the help reading this missive I detest you for stealing our privacy though I begrudgingly respect and appreciate you for ensuring her safety.\n\nI am beginning to make connections, and I am doing well in my classes. A few of my professors have expressed interest in my capabilities and I have officially been recommended to join the spell dueling league. The strange little girl and the rather…annoying lad that had shared our dorm have vanished but I can’t say I miss them much. I hadn’t even bothered to learn their names. Though I suppose that remains true beyond them. Aside from the Silverspan girl, I know none of their names. One is a color, I believe?\n\nI admit I might have challenged a student before admission, just to test the limits of my vessel and you’ll be proud to know that it took minimal effort for me to completely overwhelm him. \n\nThough, I am learning little by little whilst I may be a divine shark in a medium pond back home, I’m but a pup in these waters compared to some. It will only be a matter of time until my wings spread and I soar, and make you proud of me. \n\nI miss you dearly, and hope you are well. The twins have officially enrolled, I may take some time from my own studies to ensure they are settled and doing well to make our name proud. \n\nVedaust, ilst isilma\nVornakir Vanori",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-19T23:11:17.541000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1418736236142526504",
+    "channel_id": "1418136963546087568",
+    "author": {
+      "id": "206175579358232578",
+      "username": ".tsukikage.",
+      "avatar": "a_46c3fb914b80216510fecd78138bfdb7",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Akuma",
+      "avatar_decoration_data": {
+        "asset": "a_35e64c0eb789d6019a76b1e95ba13497",
+        "sku_id": "1479191582002516020",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614102036581",
+          "asset": "nameplates/nameplates/cherry_blossoms/",
+          "label": "COLLECTIBLES_NAMEPLATES_CHERRY_BLOSSOMS_A11Y",
+          "palette": "berry"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 4,
+        "colors": [
+          12189699
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      },
+      "primary_guild": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 6,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "❤️"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "───  ⋅ ∙ ∘ ☽ ༓ ☾ ∘ ⋅ ⋅  ───",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-19T23:11:35.801000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1418736312730648699",
+    "channel_id": "1418136963546087568",
+    "author": {
+      "id": "206175579358232578",
+      "username": ".tsukikage.",
+      "avatar": "a_46c3fb914b80216510fecd78138bfdb7",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Akuma",
+      "avatar_decoration_data": {
+        "asset": "a_35e64c0eb789d6019a76b1e95ba13497",
+        "sku_id": "1479191582002516020",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614102036581",
+          "asset": "nameplates/nameplates/cherry_blossoms/",
+          "label": "COLLECTIBLES_NAMEPLATES_CHERRY_BLOSSOMS_A11Y",
+          "palette": "berry"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 4,
+        "colors": [
+          12189699
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      },
+      "primary_guild": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 7
+  },
+  {
+    "type": 0,
+    "content": "+3 Development Points",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-21T00:11:01.315000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1419113655446016040",
+    "channel_id": "1418136963546087568",
+    "author": {
+      "id": "160196380323741696",
+      "username": "stressey_depressey",
+      "avatar": "6c13924df052a42e883dd40885075e9d",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "StresseyDepressey",
+      "avatar_decoration_data": {
+        "asset": "a_94191be95bb9c471ff17644f3639eb6d",
+        "sku_id": "1293373563184877618",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614173339688",
+          "asset": "nameplates/nameplates/spirit_of_spring/",
+          "label": "COLLECTIBLES_NAMEPLATES_SPIRIT_OF_SPRING_A11Y",
+          "palette": "sky"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 8,
+        "effect_id": 5,
+        "colors": [
+          747943
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 8
+  },
+  {
+    "type": 0,
+    "content": "D’anthe Isilma,  \n\nYour words bring me both comfort and amusement. It pleases me greatly that you are observing the world beyond our halls with the keen eyes I nurtured in you. Knowledge is rarely found in the sterile confines of tomes, my son but seeps instead through the cracks of character through the ways all others move about and speak when they believe nobody of consequence is watching. Continue to *learn* from them, even if their names are not worth remembering. You might find their habits and weaknesses could serve you far more than their friendships ever could. \n\nAh yes, the youngest Silverspan Lady. Unremarkable though she may be, I recall her. A petulant child draped in her house’s finery and silver silk ever the most desperate to be seen as radiant despite knowing her light pales beside yours. If she remains unfriendly and uncouth, allow her to stew in her own inadequacies. There is no dignity in chasing the regards from those beneath your station; yet still observe her and her family’s dealings. Their influence may have waned in recent years but desperation often breeds opportunity. \n\nThe mention of missing me warms what remains of my stormy heart, though I would ask you to remember, my Vornakir, that distance does not equate absence. I feel your presence even here all these miles away in the low hum of our Obsidian Halls and within the still air that comes before the storm. The twins are well and high spirited enough though incorrigible as ever. They have spoken to me about enrollment of course under the thin veiled guise of ‘broadening their magical prowess’. I suspect much like you had with me, they wish to linger in your shadow. Take it as a compliment, darling, you are already setting the rhythm of which they follow in life. \n\nDo write to me again soon, my golden star. The Barricade grows colder when I go too long without your warm words. \n\n\nVedaust, ilst Ihari  \nSelvithrae Vanori",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-10-26T02:35:38.537000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1431833625648959503",
+    "channel_id": "1418136963546087568",
+    "author": {
+      "id": "206175579358232578",
+      "username": ".tsukikage.",
+      "avatar": "a_46c3fb914b80216510fecd78138bfdb7",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Akuma",
+      "avatar_decoration_data": {
+        "asset": "a_35e64c0eb789d6019a76b1e95ba13497",
+        "sku_id": "1479191582002516020",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614102036581",
+          "asset": "nameplates/nameplates/cherry_blossoms/",
+          "label": "COLLECTIBLES_NAMEPLATES_CHERRY_BLOSSOMS_A11Y",
+          "palette": "berry"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 4,
+        "colors": [
+          12189699
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      },
+      "primary_guild": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 9
+  },
+  {
+    "type": 0,
+    "content": "───  ⋅ ∙ ∘ ☽ ༓ ☾ ∘ ⋅ ⋅  ───\n\nD’anthe Isilma,  \n\nYour letter vexes me yet relieves me in equal measure. You write of an incident with the sense of one who ought to know my instinct is to demand detail. I will, for now, refrain but remember this clearly my son. No flame burns brighter than a mother’s scrutiny especially for her heir. I am, however, grateful to hear you are unharmed. Should this change, I expect word from you before rumors find their way to my court. \n\nThe Marrowbows? I do recall them. Pragmatic sort, they are, to a fault. They’re quite shrewd in their dealings and highly efficient in what they do. I have always respected their ability to survive scandal among other unsavory things without losing their iron composure. The daughter, if she is as you describe intrigues me. A still grotto, my son? Such imagery does not become of you often, nor does such praise fall from your tongue lightly, my golden one. Be mindful as still waters may hide unseen currents, though do not deny yourself the art of appreciation. It is far better of a match for you than Nyxavera. This comes to you as a knife in the chest, I know, but you must accept it. It is not allotted by our Elders, no matter how deeply the love ran. That said, courtship should you pursue it of this Marrowbow girl should serve both our House but also your heart. If she balances those scales, perhaps fate smiles upon your instinct. \n\nAs for the twins, their progress remains as spirited as ever. Your sister has taken to dueling with rapt fascination - it both alarms and impresses me. Your brother insists on perfecting some spell work that leaves horrid scorch marks upon every practice floor he stands upon. I suspect both seek to measure themselves within your shadow. Their ambition I believe is a credit to you. I have made certain they remember whose blood forged their strength but it is your guidance that tempers it. \n\nYour request for my tart recipe made me smile, my golden one. You are always too proud to admit to that sweet tooth but at long last I finally know it to be true. I will have one of our attendants transcribe the proper instructions to send them with my next courier post haste. Still, no recipe would ever quite capture what you remember. It was not the cherry, nor the crust or sugar that made them exquisite, my son. It was the warmth of the home that baked them. \n\nWrite to me soon, Vornakir. I find myself missing the quiet confidence in your voice more than I care to admit. You are, as always, my pride. \n\nVedaust, ilst Ihari  \nSelvithrae Vanori",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-10-26T02:47:40.362000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1431836653202309192",
+    "channel_id": "1418136963546087568",
+    "author": {
+      "id": "206175579358232578",
+      "username": ".tsukikage.",
+      "avatar": "a_46c3fb914b80216510fecd78138bfdb7",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Akuma",
+      "avatar_decoration_data": {
+        "asset": "a_35e64c0eb789d6019a76b1e95ba13497",
+        "sku_id": "1479191582002516020",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614102036581",
+          "asset": "nameplates/nameplates/cherry_blossoms/",
+          "label": "COLLECTIBLES_NAMEPLATES_CHERRY_BLOSSOMS_A11Y",
+          "palette": "berry"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 4,
+        "colors": [
+          12189699
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      },
+      "primary_guild": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 10
+  },
+  {
+    "type": 0,
+    "content": "Lost Correspondence\n[[The following letter was never sent, and incinerated within minutes of penning, and is meant to provide some lore for players to enjoy]]\n\nCrimson Star, the Thirteenth. Year 1343 AE\n\nI can’t believe scales are what defines this; that decisions would be made on our behalf simply for the circumstances of our birth. That we may be killed even for the fact that I’ve given you attention. \n\nLove isn’t easy. Though I excel at all I touch, love is the exception to that. Am I too young and naive for my own good? Perhaps. But I know the last few years before they issued the trial means something. My mother aches for me, and understands the yearning I subject myself to every night over this. The twins, as dutiful and loyal they are to our house and history and pride empathize. But the Elders condemn it. I have always known Mother may wear the crown, but they built the throne.\n\nWhat do you think they would do if all of us participating in the trial just didn’t fight? Isn’t it said that a mere one Scaleborn has enough raw potential magic within to rival nearly the entire royal guard of several houses?\n\nTo even pen this letter to you and send it, I might as well sign my name on a death certificate. But if I were to never record these words, I fear the dragon within may consume my memory and with it my sentiment.\n\nI have always loved you. Gold may be the most precious metal, but the silver of your scales illuminates my dreams like the Pale Lady in the Sky. \n\nAnd if we should both fall to him, maybe in the next life the stars will align…and we won’t be so messed up, and I could call you mine.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-10-26T03:17:54.568000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1431844262533922836",
+    "channel_id": "1418136963546087568",
+    "author": {
+      "id": "206175579358232578",
+      "username": ".tsukikage.",
+      "avatar": "a_46c3fb914b80216510fecd78138bfdb7",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Akuma",
+      "avatar_decoration_data": {
+        "asset": "a_35e64c0eb789d6019a76b1e95ba13497",
+        "sku_id": "1479191582002516020",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614102036581",
+          "asset": "nameplates/nameplates/cherry_blossoms/",
+          "label": "COLLECTIBLES_NAMEPLATES_CHERRY_BLOSSOMS_A11Y",
+          "palette": "berry"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 4,
+        "colors": [
+          12189699
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      },
+      "primary_guild": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 11
+  },
+  {
+    "type": 0,
+    "content": "───  ⋅ ∙ ∘ ☽ ༓ ☾ ∘ ⋅ ⋅  ───\n\nD’anthe Isilma,  \n\nYou have inherited both *my* pride, and your *father’s* flare of the dramatic it seems. I would reprimand you for the sharpness of your opening statement, yet I must confess they made me laugh. Were I not the Matron of the Obsidian Throne, perhaps I would too curse the eyes that trespass upon our letters. Still your instinct to guard what is ours - Our bond and words - speak well of you. Never lose that fire, my son. \n\nI am quite pleased though not surprised to hear your talents are drawing the attention of others and your superiors. Professors and leagues are merely stepping stones, a means to test the breadth of what you already are and knowing the limits of your vessel. A recommendation is an acknowledgement, not a gift. Accept it with dignity but do not forget that their praise is an echo of the power they do not yet understand. \n\nHowever, you must know I should chide you *Vornakir Vanori* for how you speak of the duel. Yet I find myself smiling, though you should still temper your arrogance with caution isilma. Let that boy remember the flash of gold from his defeat but do not waste your time on prey beneath you. Soar to greater heights.\n\nIt warms me to finally see hints of humility shadowing your ambition; you’re realizing the Obsidian Throne does not extend to every horizon. That lesson learned early will spare you many bruises. A dragon who believes himself supreme before he has learned of the wind’s temperament will find his wings torn asunder by his own pride. Grow stronger but do so with patience - I already *am* proud of you but I will never tell you when enough is enough. Because it never should be. \n\n\nThe twin’s arrival is noted, do not coddle them even when your protective streak flares. Allow them to step out of your shadow; your guidance should be a beacon to them, not a shelter. \n\nI am well enough though the nights grow long without my children all here to let their laugh echo through the halls. Even the servants and attendants tread softer as if afraid to disturb the stillness you’ve all left behind. Write to me again soon, my heart. The Barricade may be stone but every hearth misses its flame. \n\nVedaust, ilst Ihari  \nSelvithrae Vanori",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-10-29T00:31:46.597000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1432889617430085753",
+    "channel_id": "1418136963546087568",
+    "author": {
+      "id": "206175579358232578",
+      "username": ".tsukikage.",
+      "avatar": "a_46c3fb914b80216510fecd78138bfdb7",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Akuma",
+      "avatar_decoration_data": {
+        "asset": "a_35e64c0eb789d6019a76b1e95ba13497",
+        "sku_id": "1479191582002516020",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614102036581",
+          "asset": "nameplates/nameplates/cherry_blossoms/",
+          "label": "COLLECTIBLES_NAMEPLATES_CHERRY_BLOSSOMS_A11Y",
+          "palette": "berry"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 4,
+        "colors": [
+          12189699
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      },
+      "primary_guild": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 12
+  }
+]

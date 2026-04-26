@@ -1,0 +1,447 @@
+---
+layout: default
+title: "A Superior Celebration"
+---
+
+<div align="center">
+
+# A Superior Celebration
+
+<img src="https://img.shields.io/badge/status-Open-2ecc71?style=for-the-badge" alt="Open" />
+
+**Campaign:** The Spark Saga  
+**Writers:** Caspian &bull; Auri &bull; Redd &bull; Sol/Sunni &bull; Vornakir  
+**Date:** January 13, 2026 &ndash; January 29, 2026
+
+</div>
+
+---
+
+
+### &#x270D; Caspian
+<sub>Jan 13, 2026 &middot; 04:31 PM UTC</sub>
+
+Loud music rang out across Spark Oath academy. It echoed softly across the various buildings filling the chilled air of the night. Following that music to its source one would find the ongoing celebrations of a school that only a few days before had been as solemn as a funeral. 
+
+Bright arcane lights of various colors and sizes filled the gardens. It cast everything in a dazzling display that moved in time with the music. The gardens had been approved to host this function. The same location that a welcome party had been hosted during the first week of the semester by a certain aasimar. The ambience was much different. Lights changed colors, food and drink were available in ample quantities, and the source of that music a band of excited students happy to entertain their peers.
+
+Technically this was not the party. That had happened immediately after the ceremony to name the new Sparkian Protectors. It was a boring and forgettable kind of party meant mostly for important individuals to shake hands and make appearances and congratulate themselves. Meanwhile the students had planned this gathering, an after party for every student to attend and cut loose after exams and everything that had occurred. 
+
+It had been a couple of hours and the afterparty was in full swing. Dancing, drinking, lots of people making lots of fun mistakes. Caspian had been having a great time, he had changed out of his formal clothes from the earlier ceremony and into something suitable for a party like this. His hair was well styled and he’d kept his medal on since the ceremony. Pride shone like him from a beacon, a few drinks had helped quell most of his more negative thoughts from earlier.
+
+He made his way from the dance floor to grab another drink. On his way he passed Cordelia having an animated discussion with some of her friends. They made eye contact and smiled at each other a little. They had plenty to discuss but both were happy to ignore that  and enjoy themselves for this evening. With a wink he moved on further towards the bar.
+
+Arriving there he found the bar being tended by a rather large golem. Magically affixed to its chest was a name tag that read “Mr. Hands”. Despite its size it mixed and poured drinks with six long arms using surprising dexterity. Whoever animated this thing had serious talent or just enjoyed a good cocktail.
+
+Caspian ordered his preferred drink, an old fashioned. He then leaned back against the bar and waited. Looking out on the crowd he enjoyed seeing the school having a good time. Things were uncertain but for a night they would dance to forget and face their problems tomorrow.  
+
+Caspian’s eyes scanned the crowded party to see if any of his friends were nearby. He hadn’t seen most of them for a little bit at that point. They were meant to be celebrating together after all. 
+
+( @user @user @user @user )
+
+
+### &#x270D; Auri
+<sub>Jan 13, 2026 &middot; 08:49 PM UTC</sub>
+
+Spark Oath Academy was alive in a way that made stillness feel nearly impossible. Music pulsed through the garden, low and thrumming beneath the laughter and raised voices, the arcane lights overhead shifting color like they, too, were caught up in the mood. It felt strange, how quickly grief could give way to celebration. Stranger still that both could coexist without one diminishing the other.
+
+Auri’s first stop had been the bar, drawn less by the promise of alcohol and more by sheer fascination. She stood a few paces back at first, amber eyes tracking the golem with open curiosity. Mr. Hands’ six arms moved in graceful, practiced harmony, glassware never colliding, liquids poured to precise measures. 
+
+When it was her turn, she ordered something modest— a spiced cider, warmed just enough to take the edge off the night air. She accepted the glass with a soft *thank you*, fingers brushing the ceramic as she turned away from the bar. That was when she noticed Caspian nearby, leaning back against the counter. He looked a little different tonight. Perhaps the weight he carried had settled into something he could hold rather than something that pressed down on him.
+
+She inhaled and let herself simply exist in the night. A smile reached her lips as warmth bloomed in her chest from her drink. Casual in dark pants, boots, and a graphic tee of some random musical group, her hair half swept up in a loose bun, the rest falling in soft waves around her shoulders, she crossed the space between her and her companion as the music swelled around them.
+
+“Congratulations, Sparkian Protector,” she said with a grin, lifting her glass in a small, playful but sincere toast. “You earned it. And…it’s nice to see you so relaxed tonight.”
+
+Her eyes flicked briefly toward Mr. Hands as the golem executed another flawless pour. “Oh, and for the record,” she added, lips curving. “I’ve decided the bartender deserves a raise.”
+
+
+### &#x270D; Redd
+<sub>Jan 13, 2026 &middot; 11:46 PM UTC</sub>
+
+Redd did not so much *arrive* as he did emerge.
+
+Anyone paying even a passing amount of attention toward the garden’s darker edges would have seen him first—stepping out from a shadowed corner that had very clearly not been used for quiet conversation. His hair was thoroughly mussed, curls refusing to behave no matter how many times he raked a hand through them. His lips were flushed, faintly swollen, the kind of detail that invited conclusions whether he confirmed them or not.
+
+Zurr’ka lingered just behind him for a heartbeat longer than propriety suggested. A hand slipped away with visible reluctance. There was a look exchanged—unapologetic, carrying the unmistakable satisfaction of someone who had been very well occupied and had no intention of pretending otherwise—before Zurr’ka’s expression softened into something warm and steady. A brief, chaste goodbye kiss was pressed to Redd’s lips, and then Zurr’ka peeled off into the crowd, leaving Redd to rejoin his friends.
+
+Redd made a token effort to look composed as he stepped into brighter light, straightening his shirt and rolling his shoulders like that might undo the evidence. It didn’t. Judging by the faint curve of his mouth, he didn’t particularly mind.
+
+He slid up beside Caspian and Auri at the bar with the ease of someone fully aware he’d been seen and had chosen not to care. His gaze flicked between them, catching Auri’s raised glass, Caspian’s medal, and the unmistakable *look* that said both of them had clocked exactly where he’d been.
+
+“Sparkian Protector,” Redd said lightly, tone warm and genuine beneath the teasing as he tipped his head toward Caspian. “Try not to let it go to your head. Or do. It’s a good look on you.”
+
+He turned to the bar then, leaning back against it as Mr. Hands loomed closer.  
+“Grasshopper,” Redd said, comfortable and specific. “Oatmilk. No dairy. I’m vegan."
+
+Once the order was in motion, Redd’s attention returned to the garden at large. He gestured loosely with his hand, indicating the lights, the music, the dancing students making spectacular decisions.
+
+“Wild how different this feels from the ceremony,” he mused. “All stiff smiles and handshakes earlier. This is the part that actually feels earned.”
+
+His eyes slid to Auri, and his smile widened. “Last party, we somehow managed to find Vornakir a girl.” He tipped his glass toward her, a brief, unmistakable wink following. “Still not convinced that wasn’t divine intervention on your part. Well done.”
+
+Then, mercilessly, his gaze shifted to Caspian.
+
+“So,” Redd continued, grin sharpening just a touch, “by my count, that means it’s your turn.” He lifted his glass as it arrived, tapping it lightly against the bar. “Especially after that… bold attempt with Cynthia the other day.”
+
+The look he gave Caspian was all friendly menace. “I think we can all agree you deserve a redemption arc.”
+
+
+### &#x270D; Sol/Sunni
+<sub>Jan 14, 2026 &middot; 03:45 AM UTC</sub>
+
+Sol was tearing up the dance floor; it was like the music had grabbed him and moved him around like a marionette.
+
+The arcane lights spilled over him in shifting colors, catching the sheen of his semi-sheer deep V-neck shirt as he moved. Crimson bled into black along the fabric, and the embroidery shimmered as it patterned itself like a living deck of cards: spades and clubs threaded with elegant obsidian thread, diamonds etched in silvery thread flaring whenever the lights struck at the right angle. His hair was pulled back into a stylishly chaotic bun, held together by a long, crimson ribbon detailed in little gold, stitched hearts. The ends of the ribbon fluttered with every turn he took.
+
+He danced like nobody was looking and like nothing had happened in the past few weeks. It was like he was trying to pretend the academy hadn’t been a graveyard days ago, and for tonight, maybe that was the point.
+
+Eventually, breathless and flushed, Sol sauntered his way to the bar. He leaned an elbow against the counter, joining Caspian, Auri, and Redd as if he’d been there the whole time.
+
+“Mr. Hands,” Sol said brightly. “A cosmo, please!”
+
+Mr. Hands whirred, his six arms already in motion, one grabbing the glass, another measuring liquid, and another slicing citrus with surgical precision.
+
+Sol’s gaze slid over the crowd, eyes glinting with that familiar warmth they usually held, then they landed on the trio. He saw that Auri looked content, wrapped in the steady peace he found she had, like a cloak. He noted that Caspian looked abnormally glorious and fashionable; he wasn’t used to seeing his friend in much more than training gear. When Sol’s sight landed on Redd, he grinned widely.
+
+Redd looked like he’d been kissed into *another dimension*: the messy hair, the faint, incriminating wrinkles of his shirt, like someone who had not been standing upright for a while, and his mouth.
+
+Sol clocked everything within a few seconds, and he covered his smile by reaching up to adjust the edge of his collar. Then, behind his back, his fingers flicked through a quick, somatic gesture, and a pulse of magic rippled outward. If Redd were to allow it, his shirt would smooth itself like it was freshly pressed, his collar would straighten out, and his hair would restyle into something that screamed *I woke up like this*, rather than revealing his after-class activities.
+
+Sol tipped his head slightly as he accepted the Cosmo Mr. Hands slid toward him, and as he took a sip, he sent a telepathic message directly into Redd’s mind.
+
+*“That makes three times now, friend. Next time isn’t gonna be free.”*
+
+Sol met Redd’s eyes, and he laughed as if he’d just told the funniest joke in the world. Then he glanced between his friends and scanned the crowd again.
+
+“Have any of you seen Adrien?” Sol asked, bouncing on his heels like the dance floor was calling him by name. “I want to keep dancing, and I desperately need a partner who won’t get tired after two songs.”
+
+His eyes drifted toward Caspian, eyes filled with the mischief of a younger sibling.
+
+“And so do *you*,” Sol added, bumping Caspian with his shoulder, voice becoming wickedly playful. “In more ways than one,” he teased.
+
+Then, like he couldn’t resist pushing the knife in just a little deeper, Sol lifted his free hand and flicked his fingers. A shimmer of gold and silver magic sparked outward, coalescing into a familiar figure. *Cynthia*.
+
+Sol tilted his chin, his voice turning to loving mockery. “Go ahead, Cas, ask her to dance!”
+
+
+### &#x270D; Redd
+<sub>Jan 14, 2026 &middot; 09:00 AM UTC</sub>
+
+Redd didn’t bother fixing his shirt himself—if it was going to happen, he let it, the corner of his mouth twitching as Sol’s magic smoothed away the worst of the evidence. He met Sol’s eyes over the rim of his glass, amusement flickering there.
+
+*“I certainly hope this wouldn't be the last,”* Redd replied telepathically, warmth and wicked satisfaction braided together. *“I expect you’ll need to do that many, **many** more times from now on.”*
+
+
+### &#x270D; Auri
+<sub>Jan 14, 2026 &middot; 04:45 PM UTC</sub>
+
+Auri’s attention shifted as Redd joined her and Caspian by the bar, and the knowing look that crossed her face said she didn’t need an explanation. 
+
+“Earned is definitely the word for it,” she agreed, looking out toward the lights and the dancing students beyond before glancing at him from the corner of her eye and flashing him a knowing smile. “And it looks like you earned some other enjoyable *activities* as well.”
+
+At the mention of Vornakir and the wink that followed, she let out a soft laugh, shaking her head as the loose waves of her hair swayed with the motion. “Somehow?” she echoed, amber eyes bright. “He could’ve danced with just about anyone.” Still, she returned the wink, subtle and quick. “But sure, call it *divine intervention* if you want. I’ll accept partial credit.”
+
+Redd’s attention shifting to Caspian drew her gaze back that way too, and her smile turned a touch more mischievous as she took a sip of her cider. “You’re right, Redd. That *was* bold.” She nodded with approval. “I’m proud of you, Cas.”
+
+Before Caspian could fully respond, Sol appeared— radiant, breathless, and still vibrating with leftover dance floor energy. Auri turned toward him immediately as he asked about Adrien.
+
+”I haven’t seen him, sorry,” she said, then paused, eyes flicking toward the dance floor, then back to Sol. “Well,” she added, already setting her glass down on the bar, “until we do…” 
+
+She reached for his hand and led him back out to the dance floor. “--- you’re dancing with me.”
+
+With a bright, genuine grin, she tugged him gently toward the music, if he allowed it, as the lights flared overhead. “As soon as he’s back, I know you won’t be free for the rest of the evening, so I had to seize the moment.” 
+
+Over her shoulder, she glanced back at Caspian and Redd as she let the music take over, lifting her free hand in an inviting wave. “Come on, join us! It’ll be fun! We can worry about finding Caspian the perfect dance partner later. Until then, he has us.”
+
+
+### &#x270D; Caspian
+<sub>Jan 14, 2026 &middot; 09:28 PM UTC</sub>
+
+Sipping his drink Caspian noticed Auri at the same time she noticed him. He raised his glass to her in return. 
+
+“Congratulations to you as well, we wouldn’t have done it without you.”
+
+The comment on his relaxed feeling caused him to look down as if he could observe what she meant.
+
+“I guess I am. Things aren’t perfect but we won and I’m tired of feeling like that shouldn’t be celebrated.”
+
+That was when Redd sauntered up to join their conversation. Caspian raised his glass to him as well.
+
+“I think I will let it go to my head. Live life a little more like a Vanori. You are right though, the medal is a nice keepsake but this feels like the real reward.”
+
+His eyes rolled as once again his love life became the topic of conversation. Especially bringing up his awkward interaction with Cynthia. He had really frozen there. Not his best moment.
+
+The fighter would have replied if not for Sol’s abrupt arrival. The bard could settle into any situation like he’d been there the whole time. It was an impressive talent.
+
+Then he decided to jump right in after asking about Adrien. The illusion was definitely unnecessary but fit Sol’s style so Caspian was unsurprised at the escalation. With a long sigh of disappointment Caspian answered. He would remember this teasing and when the time came he would be ready to dish it back out.
+
+“Yes I get it, I fumbled asking out Cynthia. I was there, I vividly remember the experience. Maybe we shouldn’t make illusory duplicates of the student who reprimanded me for my lack of subtlety. Otherwise I’ll never get a second chance.”
+
+He ended with a smirk and grin. That particular goal was not quite abandoned yet. 
+
+“Adrien though? Haven’t seen him. I assumed he was with you.”
+
+Caspian shrugged then Auri yanked Sol back off to the dance floor. Caspian sipped on his drink, but quickly downed it at Auri’s offer to return to the dance floor. That is what this was all for.
+
+Caspian fell in with his friends moving to the music. He connected with the rhythm and it was clear he was enjoying himself thoroughly. 
+
+“Auri I appreciate the leniency but I am still under the terms of our game. By the end of this party I will have secured a date don’t you worry.”
+
+
+### &#x270D; Vornakir
+<sub>Jan 16, 2026 &middot; 12:12 AM UTC</sub>
+
+“That’s more like it.” A voice suddenly chimed in from RIGHT behind Caspian. Yep, Vornakir who had been missing all through the party had finally made his appearance. “It’s healthy it experience a little bit of pride now and then.” 
+
+He said, as if he’d ever only displayed a *little* bit of pride.
+
+“Hope I didn’t miss much. Though, I did see Adrien on my way over. He was having a very animated, but only mildly friendly, conversation with Kael - or a disagreement rather. They were talking about the best uses of  illusory magic when not in a scholastic environment. They’re both very passionate about their craft at least.” He said, gesturing over his shoulder with a thumb. 
+
+Unlike the others who’d gotten their drinks from Mr. Hands, he opted for a skin of either water or wine from his own belongings that he kept close by when in social settings drinks were served in. 
+
+And then, they’d all evacuated to the dance floor. It was a different mood today than was at his party, but it wasn’t as if the only dancing he was capable of was slow and romantic. 
+
+He followed suit, showing off some of that Vanori pride as people were in the way here and there. “Step aside, Sparkian Protector Vanori coming through. Just because I have one arm doesn’t mean I can squeeze between you easier.” When at last he arrived to where his friends were, and began to enjoy himself alongside them by falling into beat and step he’d flashed a subtle wink over at Auri alongside a curved smirk.
+
+For the first time in a while, it really felt like they had no worries.
+
+
+### &#x270D; Sol/Sunni
+<sub>Jan 16, 2026 &middot; 04:24 AM UTC</sub>
+
+Sol laughed excitedly as Auri’s fingers wrapped around his. Joy and the spirit of the party washed over. His feet were already moving to the music’s beat before he and Auri reached the dance floor; once they reached the center, he was lost again; the music swallowed him like a tide, and Sol let it vibrate through his body. He spun Auri beneath the lights, ribbon tails fluttering behind his head like a banner, his chest rising and falling with the thrill of it all. Sol danced so passionately that the light sweat he worked up made his shirt cling just enough to him to emphasize his figure; the crimson of the shirt faded into black, and the card embroidery caught every flash of color, as if enchanted to show off, and knowing Sol, it probably was.
+
+Then, as if the night itself wasn’t doing enough, Sol lifted one hand in an elegant flourish, and golden, silver, and bronze-threaded illusion magic unfurled from his hands and wrapped around the garden. Light spilled across the dance floor in rippling patterns like liquid starlight, blooming beneath people’s shoes. Every step became a colorful spark, every turn left behind fading afterimages of color, curling like smoke around ankles and waists before dissolving into glittering motes.
+
+Above them, the arcane lights shifted into something more alive; constellations formed and dissolved in sync with the music, shapes blooming in the sky: a radiant gold crown, an electric blue dragon curling around a pale crescent moon; an emerald snake climbing a tree, three crimson frogs leaping between lily pads, and a cascade of silver roses scattered across the sky. Yes, it was overindulgent and perhaps unnecessary, but it was perfect.
+
+Sol laughed, spinning Auri once with practiced ease as if he’d done it a hundred times before. “Auri,” he said, breathless and delighted, “this is the most fun I’ve had in *days,” he cheered. 
+
+Suddenly, his other friends appeared beside them: Caspian stepping forward with that determined spark, Redd smoothly slipping into the rhythm, and Vornakir bringing a storm of swagger, pride draped over him like a cloak.
+
+Sol caught Vornakir’s words mid-spin, and Sol’s smile sharpened instantly, eyes flashing over the crowd as if someone had just handed him a personalized gift. He leaned forward slightly and sent a thought through the crowd, anchoring on his special connection with Adrien.
+
+*Adrien, if you don’t get your brilliant self over here within the next ten minutes, I’ll start dancing with strangers and calling it character growth.
+
+
+A beat of silence followed, then with a warmer tone, he said: 
+
+
+So save me a couple dances, yeah? I’m not letting you escape me tonight.
+
+He didn’t wait for a reply; he simply kept dancing. With a joyful flourish, he swept his hand outward again, and the illusion magic shifted. Now the light beneath their feet pulsed in time with the bass, making everyone dancing look like they were moving through a painted dream. He turned back to Auri, eyes bright, and then dipped her as the lights above them burst into a shower of shimmering hearts and spades. It was as if the sky itself couldn’t resist showing off with him.
+
+Sol noticed the wink Vornakir flashed at Auri, and ever the classic wingman he was, he whispered in Auri’s ear: “I think your admirer would love to share a dance with you.” If Auri allowed, Sol, as smooth as a gentle river, moved in sync with the music and danced Auri over to Vornakir, placing her hands or his shoulder in an elegant exchange, then moved out of their way and back toward Redd and Caspian.
+
+He glanced at Caspian with a mischievous grin. “So I’ve worked my magic on one couple tonight, now it’s your turn!” His wicked glint returned to his eyes, clearly brewing a scheming in his mind.
+
+
+### &#x270D; Auri
+<sub>Jan 16, 2026 &middot; 04:21 PM UTC</sub>
+
+Auri grinned and nodded in approval at Caspian’s reassurance that he’d find a date by the end of the evening. Then, she laughed as Sol spun her, the sound light and unguarded, carried easily on the swell of music and color around them.
+
+The ground beneath her feet scattered into sparks with every step, warmth and wonder blooming in her chest as illusion layered over reality. Smoke curled around her ankles, stars and symbols unfurled overhead like pieces of a dream made visible.She tipped her head back as she danced, catching sight of the blue dragon curling protectively around the crescent moon, the crown gleaming gold, and the frogs leaping between lily pads as silver roses spilled across the sky.
+
+It felt like nothing else existed.
+
+As soon as Sol heard what Adrien had been up to, Auri noticed the brightness of his smile and how his eyes searched the crowd for his beloved. Though he didn’t say anything out loud, the joy he felt was clearly written across his face.
+
+When Sol dipped her and the lights burst into shimmering hearts and spades, her breath caught from the sheer joy of it. She laughed again, one hand braced lightly against his shoulder as she righted herself.
+
+“This is incredible,” she said honestly, voice bright as she met his eyes. “And…yeah. It’s the most fun I’ve had in days too.” 
+
+Strands of her hair had already broken free from their careful styling, sweat from dancing causing her bangs to cling to her forehead here and there. Her cheeks were the color of wine, darkened from exertion, and what little makeup she’d put on was nearly gone, with only faint smudges of eyeliner remaining. 
+
+She was just catching her breath when Vornakir joined them, and Auri felt his presence before she saw him— an awareness that drew her gaze naturally to the smirk, the subtle wink meant just for her. Her lips curved in response, fondly amused.
+
+
+<sub>Jan 16, 2026 &middot; 04:21 PM UTC</sub>
+
+Sol’s words made her blush, and then before she quite realized it, he had guided her across the dance floor. When her hands were placed at Vornakir’s shoulder, the moment felt oddly still despite the music and lights, like the world had decided to hold its breath.
+
+Auri looked up at him, eyes bright from dancing and witnessing the wondrous beauty of Sol’s magic still lingering in the air. “Well,” she said lightly, warmth threaded through her tone, “The last time we danced, I did say I’d always come back for you. It would be rude to break a promise, wouldn’t it?” 
+
+She laughed softly as the music surged around them, content to let the dance be a shared moment in a night meant for celebrating with everyone.
+
+
+### &#x270D; Vornakir
+<sub>Jan 17, 2026 &middot; 01:12 AM UTC</sub>
+
+Vornakir was more than content at first with the varying dances and companions he shared. When he moved alongside Caspian, the competitive spirit lit up in them and the two shared disciplined impressive footwork to the beat of the music that swelled around them. 
+
+Just as quickly as he began, the shift in tone led him to the sides of Redd and Sol one after the other where a familiar talent they all possessed blossomed on the dance floor. Exuding charisma and commanding attention. The fluidity of the way they expressed their bodies was a sight to witness, the impact of every motion no matter how small or large it was, and most importantly the aura they presented demanded eyes on them at every angle.
+
+But it was a ruse, despite how fun it was to dance with Sol as the angel winged wing-man expertly shifted his position with Auri and before he knew it he was face to face with her.
+
+Then suddenly, without warning the entire world erupted in a cacophony of brilliant, radiant colors. Fireworks shook the sky of his mind with enormous force and blinding hues. The room could have been pitch black but every corner was illuminated the moment his eyes locked on hers.
+
+For the first time since arriving on the floor, he stilled for just a moment as his breath stalled. Before he could give his undivided attention though, he caught one of Sol’s hands as he passed by in a solid clap - not to stop him but to show appreciation. 
+
+“Get him, Cupid. Cynthia, Kael, Pyrrah, doesn’t matter. Give him a second reason for pride tonight.” He said in good fun to Sol before sending a two fingered salute toward Caspian over the bodies between them. 
+
+And then his whole world narrowed back on Auri. 
+
+“C’mon, *Arivae*. Can’t let the best dance you have tonight be anyone’s but mine. I couldn’t live with myself.” With that divine grin and playful steps back extending his hand toward her, he aimed to lead her to a less crowded part of the floor to dance. Not to sway, not to have a sweet quiet moment.
+
+But to make every other couple that laid eyes on them envy the fire they fanned between one another even if just for a few moments.
+
+
+### &#x270D; Caspian
+<sub>Jan 19, 2026 &middot; 04:36 PM UTC</sub>
+
+Caspian danced like there was no tomorrow. So much had weighed on him but it was nights like these that one could reset and forget everything else. He danced around his friends the alcohol inhibiting any self-consciousness of how he looked dancing. 
+
+He saw Sol turn towards him with that grin. He braced himself, whatever came next would certainly be... interesting. Then Vornakir chimed in. Seems there was no avoiding whatever scheme this matchmaker had come up with for the evening. 
+
+"I relent, work your magic Cupid. Whatever it is your planning make it quick. I can't promise I won't get cold feet if you leave me hanging."
+
+He made eye contact with Redd with a slight turn of his head and shrugged. They'd talked about this the other night, maybe it was time to just see what happened. 
+
+"Redd I'm trusting you to oversee this. Make sure that Sunni doesn't go full mad genius on whatever he's scheming."
+
+In a futile attempt to prepare himself for whatever came next he glanced around the party to see who he might be pushed off to dance with. His eyes did linger on one person he saw but he caught himself before the others could notice. Strange... he hadn't thought of her that way before. 
+
+"Oh man what have I gotten myself into..."
+
+He said to himself quietly enough it was drowned out by the music.
+
+
+### &#x270D; Auri
+<sub>Jan 20, 2026 &middot; 03:15 AM UTC</sub>
+
+Although she hadn’t danced like this before, she’d watched other couples all evening, noting how attraction translated into motion— the push and pull of magnetism, the delicate balance of indulgence and restraint. Auri let that gathered knowledge guide her, shaping it into something of her own.
+
+“Is that so, *Ashvael*?” she teased, flashing him a grin. She stepped into his space with ease, fingers sliding into his palm as he drew her toward a quieter edge of the dance floor, far enough from the crowd to breathe, yet close enough to still be seen. “Why compete for what you already hold?” she whispered, leaning in close enough that her breath brushed his ear. “The only competition is between us. Who can stay closest to the flame without looking away?”
+
+She circled him, hand skimming across his back as she passed, her touch light but deliciously intentional. Her steps were fluid and precise, her gaze never leaving his eyes for more than a breath. 
+
+Reaching Vornakir’s right side, she caught his wrist and stepped back, arm extended between them, letting the distance sharpen before rolling her wrist and spinning beneath his arm. The momentum carried her smoothly back into him, her back fitting briefly against his chest before she turned again, hair flaring as she faced him. The music surged through her, hips swaying, her free arm lifting overhead before her fingers slid through her hair, loosening strands that brushed her shoulders as her hand traced back down her frame.
+
+The shift could be sensed without looking— the quieting of voices mid-conversation, the pull of attention— but her focus never wavered. One hand found Vornakir’s shoulder, and the other settled at his side as she stepped in close, her tail curling around his side. She held a vivid awareness of him and the space between them dissolving as she let the beat carry her, moving with him alone if only for a moment.
+
+
+### &#x270D; Vornakir
+<sub>Jan 20, 2026 &middot; 06:47 AM UTC</sub>
+
+The tease in her voice caught his lips and pulled them upward like a hook that found its mark, and the lead she gave to take him a little away from the floor toward a somewhat quieter spot was taken immediately. Every single head in the room could have turned and he wouldn't have noticed nor cared. The attention he craved deeper than all was already his, and she ensnared his own with no effort. 
+
+A shiver down his spine, a beat of silence as a breath passed his lips. He whispered back as she stalked her circle around him like a predator cornering its prey, "Careful, *Arivae*. Have you ever heard of a dragon backing down from the flame?" He teased back, never letting his eyes leave her until she walked around behind him but catching her immediately as she emerged on his other side. 
+
+"Then again, dragon or not, if the flame looked even half as good as you I'd happy let my eyes turn to ash." As she caught his wrist and created the distance between them he'd turn his body wistfully to the side away from her. Just as she reach the apex of their gap and snapped herself to spin inward he'd twist his body back toward her to meet her momentum in the middle just as her back met his chest. 
+
+Second nature, easy as breathing, when her back came to rest their interlocked hands were pulled snug across her chest to keep her there a moment longer. And then another twirl 'neath his hand to face him with a flare of her hair and the sway of her body heating his blood. This time he created the distance - once he reach the apex he'd leaned back without pulling her as if he'd fallen and all that he had to hold onto was her fingertips. Never would he remove his eyes from her while she gave him that brief show of her moves, a wicked grin burning an impression on his face. 
+
+Pulling her back in, he felt her hand find his shoulder and the other at his hip. His eyes finally peeled away for only a moment to look down at the tail that coiled around his side. A tingle ran down his spine and a faint coloration hit his cheeks. As the space between them evaporated, the heat only raised as he started to lead the footwork to what could be seen as the two flirting with dance rather than words.
+
+
+### &#x270D; Sol/Sunni
+<sub>Jan 20, 2026 &middot; 08:33 PM UTC</sub>
+
+Sol watched as Vornakir and Auri slipped off into their own orbit, like the whole party could’ve ended and they’d still be dancing, entranced in each other’s presence. As he watched them for a few minutes, Sol couldn’t help but smile as their aura’s mingled with each other: Vornakir's typical confident golden aura was shifting into passionate reds at the edges, while Auri’s calming blue faded into romantic sunset pink. His smile deepened as feelings of adoration and devotion washed over him like a gentle tide from their direction.
+
+He refocused his attention on Redd and Caspian at the mention of his new nickname, which he was becoming quite fond of. Sol pressed a hand to his chest like he’d been stabbed through the heart when Caspian mentioned Sol might go “mad-genius” to Redd.
+
+“*Wow*.” Sol gasped melodramatically, loud enough that Redd and Caspian could clearly hear over the loud music. “Cas, you *wound* me.”
+
+He turned in place, scanning the dance floor with mock disbelief, eyes wide as he pointed at himself like a man on trial.
+
+“‘Go full mad genius’?” he echoed, as if the very idea was offensive. “Whatever do you mean? I’m soft, gentle, and oh so very subtle,” he smirked. “I’m just a delicate little dove filled to the brim with supportive intention.”
+
+His grin took on that glint of younger-brother mischief. “I mean, I *am* a genius with people, don’t get me wrong, but I would *never* do anything wrong or depraved!”
+
+He laughed, then slid up beside Caspian, and with one smooth motion, Sol slung an arm around Caspian’s shoulders, pulling him in close.
+
+“Alright,” Sol said, voice bright and losing the teasing tone. “Now we do this properly!” He leaned in closer to Caspian like he’d was about to ask him to share state secrets. “Tell me, what do you want in a partner, *Twinkletoes*?”
+
+With Sol’s free hand, he gestured into the air as he spoke, and gold-hued writing appeared in front of them, writing down a list.
+
+“Looks, personality, dreams and ambitions, and—” his brows lifted, clearly emphasizing that this was the most crucial part, “—what do *you* bring to the table? Romance is a two-way road, and I will not be responsible for matchmaking two incompatible people.”
+
+As Sol spoke, his attention drifted outward, his gaze moving through the crowd like a spotlight, assessing the potential matches. He watched laughter at the drink tables, measured the energy in the circles of dancers, and tracked the shy and bold glances that occasionally fell their way. 
+
+He surveyed the students’ auras, which shimmered like a heat haze. There was a bright vermillion burst of confidence near the center of the dance floor, someone Sol thought would challenge Caspian in ways that he needed. There was also a pale yellow glow by the garden’s edge; a friendly person, no doubt, and someone Sol saw steadying Caspian, but there was passion missing that Sol thought wouldn’t mesh well with his friend.
+
+Sol’s eyes flicked back to Caspian, sharp and knowing. “And don’t even *think* about lying to me about any of this,” Sol added, pointing to the list, voice almost a sing-song. “Because I’ll *know*.” Sol smiled and tapped his temple.
+
+He gave Caspian a little shake with the arm around his shoulders. “So,” he said, tone warm and encouraging, “tell me your heart’s desire, Cas.”
+
+He tipped his head toward where Vornakir and Auri were still dancing. “Because tonight,” Sol said with sparkling eyes, “we’re not letting you leave here without a second thing to be proud of.”
+
+
+### &#x270D; Caspian
+<sub>Jan 21, 2026 &middot; 04:16 AM UTC</sub>
+
+Caspian watched Sol’s melodramatic acting with a bemused expression. This kind of acting clearly came naturally to his friend. He replied with a dry sarcasm playing along with the joke.
+
+“Sol you’re absolutely right, it was crass of me to question your intentions and methods. Except for one thing. Subtle… is a word that has literally never once applied to you.”
+
+He gestured to the large angelic wings that stretched from his friend’s back to prove his point. Then scooped into the crook of his friend’s arm he couldn’t help but laugh at how blown out of proportion everything had become. 
+
+“So what am I looking for? Tough question. I guess someone attractive, but not obsessed with their appearance. Dedicated and hard working. I don’t know… it’s weird listing things out like this.”
+
+He paused before he realized he was about to try and bail. That was Caspian’s usual reaction to things like this. No running away this time.
+
+“I guess someone who will see me and not some Saintillian or Sparkian Protector.”
+
+He brushes past the brief moment of sentiment and honesty. Almost embarrassed to be so serious at a party. His smile quickly reappeared and didn’t skip a beat.
+
+“What do I bring to the table? I guess I’m a passionate guy and I work hard to improve myself. Plus I think I’m pretty good looking if I say so myself.”
+
+Having extolled his virtues enough he looked expectantly at Sol. What was this whole endeavor for? 
+
+“My hearts desire is to get this show on the road at this point. No reason in delaying for dramatic effect I’m already curious to hear your opinion.”
+
+
+### &#x270D; Sol/Sunni
+<sub>Jan 24, 2026 &middot; 10:53 PM UTC</sub>
+
+Sol nodded along as Caspian spoke, eyes bright and little approving hums slipping out between the music. When Caspian admitted he wanted someone who saw *him* and not his status, Sol gently smiled.
+
+“Of course,” Sol said without his usual teasing. “You deserve to be known for your true self, not some public perception.”
+
+Sol perked up like he’d been granted permission to be annoying again when Caspian talked about the positive things he brought to the table.
+
+“You are right about you being passionate and very hardworking,” Sol said, smiling. “That much can’t be denied. If I looked up those words in a dictionary, your face would pop up,” he laughed teasingly. 
+
+Sol leaned back and looked Caspian up and down, examining him the same way a tailor examines fabric. “And you’re not too shabby in the looks department either,” he concluded. Sol slipped his arm free from Caspian’s shoulders and clicked his tongue. “But,” he added, lifting one finger, “that doesn’t mean you can’t look more *polished*.”
+
+Sol snapped his fingers, and a golden and silver mist swirled up from the ground, spiraling around Caspian from boots to collar. As the mist made its way upwards, the wrinkles in Caspian’s clothes smoothed away as if time rewound itself; his hair became more tidy, falling into place with an effortlessly heroic shape; even the medal on his chest gleamed brighter, catching the light like it had been freshly forged a few minutes ago.
+
+When the mist faded, Sol took a step back to admire his work, smiling more to himself than to anyone else. “There,” he said proudly. “Now you look ready to get out there.”
+
+He returned his attention to the crowd, scanning the party like a strategist reading a battlefield; social relations were Sol’s special weapon after all. His eyes landed near Mr. Hands, where he spotted a girl ordering a drink. She had long, wavy black hair spilling down her back, inviting brown eyes, and a bright smile. She laughed warmly at something one of her friends said, her posture relaxed and shoulders loose.
+
+Sol’s gaze sharpened, aura-sensing abilities extended over to her. Her aura was a cerulean blue with golden edges, indicating she was feeling relaxed and confident. And under it, a softer pink peeked through, a yearning for romance that was waiting for the right spark.
+
+Sol’s mouth curved into a grin. “Perfect,” he whispered.
+
+He pointed a finger in her direction, then looked back at Caspian. “Her,” Sol said, with the casual certainty, “Go talk to her.” Sol raised his brows, already preempting the questions his friend might’ve asked, “And don’t ask how I know she’d be interested in you.” He winked, “Just trust me, okay?”
+
+Sol stepped closer, dusted off Caspian’s shoulders one last time, and gave him a light push in her direction.
+
+“And listen,” Sol said quickly, voice dropping into soft, direct whispers. “Leave the Cynthia awkwardness over here.” He flashed a warm smile again, “Just be *you.* The confident version who slashes through the battlefield and fells powerful liches.”
+
+
+### &#x270D; Caspian
+<sub>Jan 29, 2026 &middot; 05:13 PM UTC</sub>
+
+Caspian examined himself as the magic cleaned up his appearance. It looked like he had just arrived, not been dancing for over an hour prior to meeting his friends at the bar. He adjusted his jacket and followed the direction Sol was pointing.
+
+The raven haired girl was enjoying herself thoroughly. Laughing and chatting with her friends Caspian could see why Sol had picked her out of the crowd. Intrigued the fighter watched her for a few more seconds before turning to Sol.
+
+“Don’t worry, that awkwardness has been locked in a very tiny box never to be let out ever again. I’m gonna trust you here but if this goes sideways you’re never gonna hear the end of it okay?”
+
+He straightened the jacket he was wearing and following the push made his way to the raven haired girl. He ordered another drink and shot her a smile. He was happy to see her return the smile and step away from her friends to talk to him. 
+
+The giggles of her friends cheering her on made him self conscious for only a moment but he started chatting with her.
+
+To his friends they would see Caspian relax after a minute. He ordered her a drink and soon they were chatting causally. Both of them laughing every couple of minutes. After a few more minutes of talking they made their way to the dance floor. 
+
+They passed Sol and Redd on their way. Caspian made sure to give a smile and thumbs up to each of them.
+
+
+---
+
+<div align="center"><sub>Thread ID: 1460672606687723534 &bull; Fetched from Discord</sub></div>

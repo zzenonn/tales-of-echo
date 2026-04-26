@@ -1,0 +1,1017 @@
+[
+  {
+    "type": 0,
+    "content": "Dear Mother and Father,\n\nI hope this letter finds you well. Life at Spark-Oath has been interesting. The academy is as impressive as its reputation promised, and the professors waste no time in testing both patience and skill. I’ve kept pace, of course, though the pace itself leaves little room for idleness.\n\nWhat has surprised me most is how quickly I’ve come to value the company I keep. Redd, for instance, may be the quickest tongue I’ve ever encountered. Every remark of his comes with a grin, and somehow, he always manages to turn the dullest evening into something memorable. Zašia carries herself with the kind of grace that would turn heads in court, though here she pairs it with a mind as sharp as her poise. Caspian is a presence in every sense of the word; he eats, laughs, and fights with the same boundless energy, and I’ve never doubted his loyalty or heart. And Vornakir, well, he reminds me of home. There’s a nobility in him that he wears like a mantle, and though it could be overbearing, he tempers it with discipline that makes it difficult not to respect him.\n\nTogether, they’ve made Spark-Oath more than tolerable; they’ve made it enjoyable. Every day feels like a challenge worth meeting, and I dare say I’m the better for their company. You may rest assured that I am keeping pace with my studies and fulfilling every expectation, but I will admit that it is my peers who have made this place feel almost like something worth belonging to.\n\nI’ll continue to write weekly, as required, so that you needn’t worry. You may consider this proof that all is well, that I am safe, and that the Aelia name is carried with proper regard here.\n\nUntil next week.\n\nLove, \nSunni",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-19T21:06:09.201000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1418704743882297405",
+    "channel_id": "1418704743882297405",
+    "author": {
+      "id": "155436835013656576",
+      "username": "pyroshadow",
+      "avatar": "ed853f9f1777de28c22f287e735ce2b1",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nightingale",
+      "avatar_decoration_data": {
+        "asset": "a_670b722e56740d11d1e6fe55b8094013",
+        "sku_id": "1343751617303805983",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712028516443",
+          "asset": "nameplates/nameplates_v2/spirit_moon/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SPIRIT_MOON_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 8,
+        "effect_id": 2,
+        "colors": [
+          3163762,
+          9709528
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      },
+      "primary_guild": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "771475649255702548",
+          "name": "wtctfeels"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": true,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "To Sol’Régem Sunniva Aelia,\n\nYour letter has been received. I note your assurances that the Aelia name is respected at Spark-Oath, see that it remains so. You were not sent there to make friends or indulge in idle sentiment. You were sent there because of the resources I pour into your education and because of the price I pay to keep your brother breathing. Do not mistake that burden for freedom. My investment demands results, and you will provide them.\n\nAs for these companions you parade about: Redd sounds like a fool. Clever words and an easy grin, what value is there in that? Jesters are tolerated at court, never respected, and certainly never remembered. If you allow yourself to be drawn into his antics, you will prove no better than he. Caspian is worse. From your description, he is a glutton in all things, a brute whose usefulness ends at the edge of a sword. Such men serve at tables or on battlefields, never in halls of power. If you insist on keeping such company, keep him behind you, not beside you.\n\nZašia, however, shows promise. Elegance, composure, intelligence, these are qualities worthy of your time. I expect you to nurture that association. And Vornakir, yes, here is a name I might be willing to hear again. Discipline, nobility, presence. He is the sort of companion I would expect from an Aelia. Learn from him. Keep him close. If you must waste your hours on camaraderie, then waste them wisely.\n\nYour talk of Spark-Oath feeling “like something worth belonging to” is both childish and disappointing. You do not belong there, Sol’Régem. You belong above it. Belonging is for those content to kneel. You were not born for comfort, you were born for ascendancy. Remember this: every moment not spent sharpening yourself dishonors the blood that sustains your brother’s life and the legacy of our house.\n\nAnd yet, for all your words, I have heard nothing of you doing anything to bring glory to our name. That, above all, is embarrassing. If you would prove yourself worthy, then do so where it matters. I expect you to enter the Spell Duels. There, at least, you may show the academy, and the world, that the blood of Aelia does not waste itself on mediocrity.\n\nYour following letter will contain your academic results, particularly in political science, with sufficient detail to assure me you have not squandered your time. Do not fail me again with this drivel about friendship.\n\nPatriarch Sirius Erebus Aelia",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-19T21:57:26.017000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1418717648983822478",
+    "channel_id": "1418704743882297405",
+    "author": {
+      "id": "155436835013656576",
+      "username": "pyroshadow",
+      "avatar": "ed853f9f1777de28c22f287e735ce2b1",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nightingale",
+      "avatar_decoration_data": {
+        "asset": "a_670b722e56740d11d1e6fe55b8094013",
+        "sku_id": "1343751617303805983",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712028516443",
+          "asset": "nameplates/nameplates_v2/spirit_moon/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SPIRIT_MOON_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 8,
+        "effect_id": 2,
+        "colors": [
+          3163762,
+          9709528
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      },
+      "primary_guild": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "624661046547972106",
+          "name": "fetuscry",
+          "animated": true
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "503656173757530114",
+          "name": "crying",
+          "animated": true
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 4,
+    "content": "[closed] Chains in Ink (Weekly Letters of the Aelia Fami",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-19T23:50:00.431000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1418745979049349281",
+    "channel_id": "1418704743882297405",
+    "author": {
+      "id": "155436835013656576",
+      "username": "pyroshadow",
+      "avatar": "ed853f9f1777de28c22f287e735ce2b1",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nightingale",
+      "avatar_decoration_data": {
+        "asset": "a_670b722e56740d11d1e6fe55b8094013",
+        "sku_id": "1343751617303805983",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712028516443",
+          "asset": "nameplates/nameplates_v2/spirit_moon/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SPIRIT_MOON_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 8,
+        "effect_id": 2,
+        "colors": [
+          3163762,
+          9709528
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      },
+      "primary_guild": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 1
+  },
+  {
+    "type": 0,
+    "content": "+3 Development Points",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-21T00:10:53.968000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1419113624630329398",
+    "channel_id": "1418704743882297405",
+    "author": {
+      "id": "160196380323741696",
+      "username": "stressey_depressey",
+      "avatar": "6c13924df052a42e883dd40885075e9d",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "StresseyDepressey",
+      "avatar_decoration_data": {
+        "asset": "a_94191be95bb9c471ff17644f3639eb6d",
+        "sku_id": "1293373563184877618",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614173339688",
+          "asset": "nameplates/nameplates/spirit_of_spring/",
+          "label": "COLLECTIBLES_NAMEPLATES_SPIRIT_OF_SPRING_A11Y",
+          "palette": "sky"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 8,
+        "effect_id": 5,
+        "colors": [
+          747943
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 2
+  },
+  {
+    "type": 0,
+    "content": "Dear Mother and Father,\n\nAnother week at Spark-Oath, and my studies progress as expected. My illusions studies continue to be both familiar and challenging, every exercise sharpens what I thought I already knew. Professor Veilwright insists on “mastery through repetition,” and though I cringed at first, I see the merit.\n\nI’ve also been working alongside a classmate named *Adrien*. He struggles with the finer points of image consistency, but I’ve been helping him adjust. He’s attentive, eager to improve, easy on the eyes, and I’m if being honest, he makes even the longest lessons more bearable. I’ve caught myself lingering after class when he asks questions, just so I can walk with him back to the dorms, which is hardly efficient, but… worthwhile. He also has this way of frowning when he concentrates that’s—ah. Well. I imagine you’d prefer to hear that I’ve proven useful as a tutor. Which I have.\n\nI entered spell duels this week at your request and had my first match today. My opponent was *Adrien*, of all people. Rather than attempt brute force, I leaned on subtlety: weaving enchantments into the arena until he yielded of his own accord. It was a clean victory, one that required both patience and precision. I imagine you’ll approve of the result, if not the method.\n\nAs for political science, this week’s lecture circled around the nature of power. Power as influence, as perception, as the art of controlling how others see you. Nothing I haven’t already witnessed in court, but useful to frame in academic terms.\n\nYou may rest assured: my studies continue on pace, my name is carried with care, and I remain above reproach in the eyes of both professors and peers. This should satisfy your expectations until my next letter.\n\nLove, \nSunni",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-21T14:46:59.940000+00:00",
+    "edited_timestamp": "2025-09-21T14:47:47.531000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1419334102296957021",
+    "channel_id": "1418704743882297405",
+    "author": {
+      "id": "155436835013656576",
+      "username": "pyroshadow",
+      "avatar": "ed853f9f1777de28c22f287e735ce2b1",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nightingale",
+      "avatar_decoration_data": {
+        "asset": "a_670b722e56740d11d1e6fe55b8094013",
+        "sku_id": "1343751617303805983",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712028516443",
+          "asset": "nameplates/nameplates_v2/spirit_moon/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SPIRIT_MOON_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 8,
+        "effect_id": 2,
+        "colors": [
+          3163762,
+          9709528
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      },
+      "primary_guild": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 3
+  },
+  {
+    "type": 0,
+    "content": "### **⚠️ Content Warning: Homophobia ⚠️**\n\nThe following letter includes themes of parental rejection and homophobic language. Please read with care.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-21T14:52:48.194000+00:00",
+    "edited_timestamp": "2025-09-21T14:59:48.143000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1419335562980233388",
+    "channel_id": "1418704743882297405",
+    "author": {
+      "id": "155436835013656576",
+      "username": "pyroshadow",
+      "avatar": "ed853f9f1777de28c22f287e735ce2b1",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nightingale",
+      "avatar_decoration_data": {
+        "asset": "a_670b722e56740d11d1e6fe55b8094013",
+        "sku_id": "1343751617303805983",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712028516443",
+          "asset": "nameplates/nameplates_v2/spirit_moon/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SPIRIT_MOON_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 8,
+        "effect_id": 2,
+        "colors": [
+          3163762,
+          9709528
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      },
+      "primary_guild": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 4
+  },
+  {
+    "type": 0,
+    "content": "To Sol’Régem Sunniva Aelia,\n\nYour letter has been received. The news of your victory in the duels is noted, a clever outcome, and one I will not dismiss. Enchanting an opponent into yielding showed cunning and control, though not without risk; such methods must be refined into tools for influence rather than indulgence. Report next with specific accounts of your professors’ assessments and concrete measures of advancement in political application.\n\nSpark-Oath must be approached as a forge, not a playground. You were sent there to be sharpened, to elevate the Aelia name through discipline and achievement. Take heed: amusement is a luxury you do not own. Companions may be pleasant, but advancement is essential. Do not confuse the two.\n\nThat said, the remainder of your letter gives me cause for frank admonishment. You mention this *Adrien* far too often. Do not mistake my reading of your letter: the softness with which his name appears is plain. I will be perfectly clear, you were not sent to Spark-Oath to dally in classroom romances, nor to waste your time fawning after classmates. Every moment spent entertaining such distractions is a moment stolen from your studies, from your future, and from your brother’s life. You dishonor Lucien whenever you let your heart wander where it has no business.\n\nAnd a boy, no less. Do you think me blind and foolish, Sol’Régem? I see it in your words. Do not delude yourself, no son of mine will fritter away his years pining after another man. I will not allow an Aelia heir to be remembered as some weak, simpering boy-kisser. The courts do not respect sentimentality; they exploit it. Romance between men yields nothing of value for legacy: it builds no alliances, bears no heirs, and secures no strength for our House. It is indulgence, not strategy. If you would prove useful to our name, learn to convert whatever charm you possess for him into influence, not into private weakness.\n\nUnderstand this: my decisions, however harsh they may appear, are measured by a single standard: the survival and ascendancy of House Aelia. The resources I expend to keep Lucien in stasis are not simply charity; they are investment. That blood demands continuation. You were born to extend our line, to steward our legacy. If you squander that duty chasing softness, you betray not only me but every ancestor whose name you carry.\n\nHear me plainly: should I receive another letter filled with sentiment rather than accomplishment, I will remove every privilege you enjoy and remind you what survival looks like without my support. I will force you into the hardening you seem unable to choose for yourself. In time you will understand the necessity of such measures.\n\nReport next with results: detailed academic progress, professors’ evaluations, and concrete evidence of advancement in political applications. Nothing of romance. Nothing of idle sentiment. Nothing of companionship. Do not test my grace again Sol’Régem.\n\nPatriarch Sirius Erebus Aelia",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-21T14:58:31.776000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1419337004067590145",
+    "channel_id": "1418704743882297405",
+    "author": {
+      "id": "155436835013656576",
+      "username": "pyroshadow",
+      "avatar": "ed853f9f1777de28c22f287e735ce2b1",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nightingale",
+      "avatar_decoration_data": {
+        "asset": "a_670b722e56740d11d1e6fe55b8094013",
+        "sku_id": "1343751617303805983",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712028516443",
+          "asset": "nameplates/nameplates_v2/spirit_moon/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SPIRIT_MOON_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 8,
+        "effect_id": 2,
+        "colors": [
+          3163762,
+          9709528
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      },
+      "primary_guild": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 5,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "😭"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": true,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "My Dearest Sunni,\n\nI must begin with an apology. I did not respond to your last letter at once, as much of my attention has been with your brother. He requires more care than ever these days, and though his condition is unchanged, you may rest assured we are doing everything possible to preserve his strength.\n\nI have read your father’s words, and I know how harshly they must have struck you. He speaks as he believes is best for our house, but I fear too often he forgets that he is speaking to his son as well as his heir. He is under tremendous strain between the affairs of the house, the pressures of court, and above all the cost of keeping Lucien alive. Severity has become his way of protecting what he values. But never doubt, Sunni, that beneath the sharpness he carries great love for you, even if he fails to show it properly.\n\nPlease do not mistake his harshness for hatred. His heart is heavy, even if he shows it poorly. You are more precious to him than his words might make you feel, but I will always remind you of that you are more valuable than any status.\n\nAs for this Adrien, your father is wrong to call affection weakness. Happiness is never weakness, my son. I will not lie to you: the world of courts and crowns will never be gentle with such things. But I would rather you know joy than live your life denying it for fear of others’ opinions. If he brings light to your days, then hold him close as one does a candle on a windy day.\n\nI know your father demands victories, proof, results. I ask only that you take care not to lose yourself in chasing them. You were born Sol’Régem Sunniva Aelia, yes, but before that you are my child, and you are allowed to desire more than duty.\n\nWrite to me when you can. Tell me of your studies, of your friends, of the little things that make your days brighter. Those are the things a mother wishes to know, even if your father does not ask.\n\nAll My Love,\nMom",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-22T16:51:54.002000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1419727922536779787",
+    "channel_id": "1418704743882297405",
+    "author": {
+      "id": "155436835013656576",
+      "username": "pyroshadow",
+      "avatar": "ed853f9f1777de28c22f287e735ce2b1",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nightingale",
+      "avatar_decoration_data": {
+        "asset": "a_670b722e56740d11d1e6fe55b8094013",
+        "sku_id": "1343751617303805983",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712028516443",
+          "asset": "nameplates/nameplates_v2/spirit_moon/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SPIRIT_MOON_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 8,
+        "effect_id": 2,
+        "colors": [
+          3163762,
+          9709528
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      },
+      "primary_guild": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 6
+  },
+  {
+    "type": 0,
+    "content": "To Sol’Régem Sunniva Aelia,\n\nYour silence last week did not go unnoticed. I remind you: your duty to this family is not intermittent. I expect consistency, discipline, and proof that you are worthy of the sacrifices made to sustain you and your brother. You cannot afford lapses, even in something as simple as correspondence. Weakness begins in small neglects.\n\nI will attend Sponsorship Day. Consider carefully what you choose to present. Every court will be watching, but none more closely than I. What you display is not your own pride; it is mine, and that of our house. Do not shame us with trivial pursuits or indulgences. I expect to see you command attention in the duels or in the studies that matter: politics, strategy, and rhetoric. These are what secure power.\n\nI trust this Adrien boy is not distracting you, though I suspect that may be the cause of your recent lapse in communication. Do not make the mistake of believing that sentiment excuses failure. Attachment is a weakness, and weakness is something this house will never tolerate.\n\nRemember that you are not here to find yourself. You are here to prove yourself. I will tolerate nothing less than excellence.\n\nPatriarch Sirius Erebus Aelia",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-29T02:02:38.001000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1422040846307557516",
+    "channel_id": "1418704743882297405",
+    "author": {
+      "id": "155436835013656576",
+      "username": "pyroshadow",
+      "avatar": "ed853f9f1777de28c22f287e735ce2b1",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nightingale",
+      "avatar_decoration_data": {
+        "asset": "a_670b722e56740d11d1e6fe55b8094013",
+        "sku_id": "1343751617303805983",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712028516443",
+          "asset": "nameplates/nameplates_v2/spirit_moon/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SPIRIT_MOON_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 8,
+        "effect_id": 2,
+        "colors": [
+          3163762,
+          9709528
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      },
+      "primary_guild": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 7
+  },
+  {
+    "type": 0,
+    "content": "My Dearest Sunni,\n\nI must begin with an apology. I will not be able to attend Sponsorship Day; your brother’s condition requires my care, and I cannot leave his side. I regret this, for I know how much this day weighs upon you.\n\nYour father has made his expectations clear. He will speak of legacy and duty, as he always does. But know this, my heart: while you must carry our name, you are not *only* our name. You are yourself. Whatever you choose to show the courts, let it reflect not just duty but also the light that is uniquely yours.\n\nI will not scold you for following your heart, nor for pursuing what brings you joy. Life is not sustained on victory alone. Do not let the pressure to perform drive you to forget the things that make you whole.\n\nThough I cannot be there in person, I will be thinking of you every moment. Write to me after; it is your thoughts and feelings I long to know most of all.\n\nWith love,\nMom",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-29T02:14:10.416000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1422043750506430515",
+    "channel_id": "1418704743882297405",
+    "author": {
+      "id": "155436835013656576",
+      "username": "pyroshadow",
+      "avatar": "ed853f9f1777de28c22f287e735ce2b1",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nightingale",
+      "avatar_decoration_data": {
+        "asset": "a_670b722e56740d11d1e6fe55b8094013",
+        "sku_id": "1343751617303805983",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712028516443",
+          "asset": "nameplates/nameplates_v2/spirit_moon/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SPIRIT_MOON_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 8,
+        "effect_id": 2,
+        "colors": [
+          3163762,
+          9709528
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      },
+      "primary_guild": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 8
+  },
+  {
+    "type": 0,
+    "content": "**To Cassiopeia Callisto Aelia**\n\nHi Mom,\n\nSorry, it’s been a while. Things here at school have been hectic, in the best and worst ways possible. I spent most of my time getting my designs ready for Sponsorship Day, and my friends were kind enough to model for me. I don’t think I could’ve done any of it without them.\n\nIt went well, Mom. *Really* well. People actually liked my work, and not just in a polite way. I caught the attention of a sponsor from the Veiled Archives. I don’t think I’ve ever been so relieved or so excited at the same time. I kept thinking, *you would’ve loved this*. The colors, the fabrics, the way everything finally came together, it felt like I was breathing freely for the first time in weeks.\n\nI’m proud of what I made, I still am, and I think my friends are too.\n\nI made **Redd** this snake-inspired outfit; he wanted something that enhanced his figure, so obviously I obliged. **Caspian’s** was a fire-themed dueling set; there’s something rebellious in him, Mom. I don’t think he even sees it yet, but it’s there, and I wanted his outfit to say it for him. For our resident prince **Vornakir,** I made something fit for a king. The one-shoulder cape with storm embroidery and scale detailing was my favorite part of the outfit. I spent *days* stitching it, but I swear it was worth it when I saw him wear it. Then there’s **Auri,** our newest roommate. I threw something together for her at the last minute. She loves frogs and this strange steampunk aesthetic, so I mixed the two and turned her casual wear into something stunning. Frog motifs and metallic trims. I think she liked it.\n\nWhich reminds me, I really should tell you about **Auri.** She’s great, Mom. Truly. She’s studious, punctual, and frighteningly observant. She’s been tutoring me in spell theory, *I know, I know, that’s the subject I complain about the most*, but somehow the way she explains it actually makes sense. Things are finally clicking, and I’m delighted she’s my friend.\n\nNot everything has been easy, though.\n\nI got into a heated argument with Vornakir after sparring and didn’t speak to him for days. But we’ve sat down and finally talked, and I realized we’re more alike than I ever wanted to admit. I now have a new respect for him, in a way I didn’t before.\n\nCaspian’s been struggling with his parents, too. He’s dealing with this profound anger, and it scares me a little. He’s like a brother to me, Mom, and I’m going to do everything I can to help him through it.\n\nRedd’s having trouble with his partner. I haven’t had a chance to talk to him one-on-one yet, but I will. I know I can help him, you know I’ve always been better at solving other people’s problems than my own!\n\nI’m sure you’ve heard about what happened between Father and I.\n\nI don’t know what to do anymore, Mom. Of course, I still love him, you know I do, but I can only take him diminishing my passion for design so many times before it starts to hurt in places I don’t know how to fix.\n\nHe’s cut me off from the family. I don’t even know if you’ll see this letter. If he finds it first, I’m sure he won’t let it reach you. I’m hoping Saoirse can get to it before he does.\n\nI need you, Mom. I need your advice.\nI’ve never felt this alone before, and I don’t want the only voice in my head to be his.\n\nI miss you.\n\nAll My Love,\nSunni",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-27T22:47:50.085000+00:00",
+    "edited_timestamp": "2025-11-27T22:50:41.152000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1443735095570726935",
+    "channel_id": "1418704743882297405",
+    "author": {
+      "id": "155436835013656576",
+      "username": "pyroshadow",
+      "avatar": "ed853f9f1777de28c22f287e735ce2b1",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nightingale",
+      "avatar_decoration_data": {
+        "asset": "a_670b722e56740d11d1e6fe55b8094013",
+        "sku_id": "1343751617303805983",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712028516443",
+          "asset": "nameplates/nameplates_v2/spirit_moon/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SPIRIT_MOON_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 8,
+        "effect_id": 2,
+        "colors": [
+          3163762,
+          9709528
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      },
+      "primary_guild": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 9,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "❤️"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "My Dearest Sunni,\n\nSaoirse gave me your letter herself. I’m sorry your news had to go through hoops to reach me, but I’m grateful it did.\n\nI wish more than anything that I had been there for Sponsorship Day, but your brother needed me here; please know that my heart was never far from you. I had no doubt you would succeed, Sunni, not even for one moment; you carry too much light in your heart to go unnoticed.\n\nThe *Veiled Archives*? Of course, they saw you. I could almost see you standing among your work, trying not to look too hopeful while hoping anyway.\n\nAnd your friends, oh, how I wish to meet them properly.\n\nRedd sounds like he trusts you deeply, and that is not something people give lightly. I suspect he needs understanding more than advice, and you are so good at both, even when you don’t see it in yourself.\n\nCaspian worries me, but not because of his anger; after all, anger is only love that has nowhere safe to go. He reminds me a little of you, in that way. Please keep being his family. He may not say it yet, but he needs one.\n\nAs for Vornakir, storms and kings are often cut from the same cloth. Power can feel lonely when you don’t know who you are without it. I’m glad you found your way back to each other.\n\nAnd Auri, I already like her. Anyone who can make spell theory make sense to *you* must be extraordinary. She sounds thoughtful and kind. I think she will be an outstanding influence on you.\n\nNow, about your father. I won’t speak ill of him to you. He is still your father, and I know you still love him, but I will tell you this plainly, as your mother:\n\nDo not sacrifice the parts of yourself that make you *you* in the name of peace. If something you love brings you life, and someone asks you to kill it so they can be comfortable, that is not love, that’s erasure.\n\nYou were born with color in your soul and fire in your heart. Nothing about you was meant to be quiet. I am so, so sorry that he has made you feel small for something that has always been your gift. You are not abandoned nor forgotten. You are not wrong for wanting a life that makes room for wonder.\n\nYou are still my son, nothing will ever change that. I will continue to help you where I can, sneaking small sums of money from places your father won’t notice. It won’t be enough to cover everything, but it is something. You may need to start thinking about ways to make money of your own, just in case. I wish it weren’t so. I wish you could just be young and brilliant, but we do the best we can where we are, right?\n\nI love you more than language can hold, more than the stars could count, and more than you will ever know how to carry.\n\nAll My Love,\nMom",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-30T00:18:52.285000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1444482781429108876",
+    "channel_id": "1418704743882297405",
+    "author": {
+      "id": "155436835013656576",
+      "username": "pyroshadow",
+      "avatar": "ed853f9f1777de28c22f287e735ce2b1",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nightingale",
+      "avatar_decoration_data": {
+        "asset": "a_670b722e56740d11d1e6fe55b8094013",
+        "sku_id": "1343751617303805983",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712028516443",
+          "asset": "nameplates/nameplates_v2/spirit_moon/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SPIRIT_MOON_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 8,
+        "effect_id": 2,
+        "colors": [
+          3163762,
+          9709528
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      },
+      "primary_guild": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 10,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "❤️"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "~~**Dear Sol’Régem,**~~ \n\n*Dear Sunni,*\n\nLet me be clear before anything else is said: I was *not* informed that my son was being placed in repeated, life-threatening situations under the authority of Spark-Oath Academy’s Headmaster. I was not informed that students were being instructed to investigate the murder of a staff member. I was not informed that an undead army was being controlled by a lich that was roaming free on campus, disguised as a professor and educating students. And I was certainly not informed that the Quasi, a structure whose very existence demands continuous oversight, was tampered with, filled with the undead, and almost imploded while my child and his fellow students were still inside fighting a battle meant for adults.\n\nI learned these things through third-party channels, and that should never have been necessary: reports, witnesses, rumors. That is an unforgivable failure of responsibility. The staff of Spark-Oath Academy has shown a level of negligence that borders on *criminal*. They *will* be hearing from me, and they will be hearing from my legal counsel. No Headmaster, no matter how storied, has the right to use children, especially my child, as a tool and call it education.\n\nNow, before you read this as condemnation, please listen. Are you *safe*?\n\nPlease answer that question for me as soon as you receive this letter. Regardless of what has passed between us, regardless of Sponsorship Day and the words spoken there, you are still my son. I never want you in danger: not for pride, not for politics, and certainly not for anyone’s grand designs.\n\nI am *furious*, beyond measure, at the Academy. I am furious that they placed you in harm’s way repeatedly without my knowledge or consent. I am furious that you were asked to shoulder responsibilities that belong to seasoned professionals while being told it was for the *“greater good.”*\n\nAnd yet, I am also incredibly proud of you.\n\nYou stood when others would have fled. You protected your peers. You survived circumstances that should never have been placed at your feet to begin with. That takes courage, that takes resolve, and that takes stubborn strength I have consistently recognized in you, even when we’ve stood on opposite sides of it.\n\nI will be speaking *directly* to the Headmaster. She will explain to me, in *extensive detail*, how she justified risking my child’s life. Until then, I have made it abundantly clear that any further involvement in covert or dangerous operations without parental notification will be met with consequences far beyond a simple reprimand.\n\nSol, recent events have forced me to confront truths I have avoided. Lucien’s condition. The thoughts, however brief, that I might lose you too. I realize I have been fighting battles that suddenly feel very small and insignificant in the grand scheme of things.\n\nArguing over careers, over legacies, over what I thought would protect you in the long term. None of that is worth not having you in my life. None of it is worth the silence that followed Sponsorship Day.\n\nI do not understand your desire to be a designer; I won’t pretend that I do, but I am *willing* to sit down with you and listen. To try to *learn* what you see when you create, instead of dismissing it out of fear.\n\nYou are welcome in this family; you always have been, even when I forgot how to say it.\n\nPlease write me back; tell me you are alive; tell me you are healing. That is all I ask.\n\nAnd know this, without condition or qualification: you are loved. You are the greatest treasure I have ever received.\n\n~~**From,**~~\n~~**Patriarch Sirius Erebus Aelia**~~\n\n*Love,*\n*Father*",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-19T21:13:00.336000+00:00",
+    "edited_timestamp": "2025-12-19T21:13:57.306000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1451683764076810338",
+    "channel_id": "1418704743882297405",
+    "author": {
+      "id": "155436835013656576",
+      "username": "pyroshadow",
+      "avatar": "ed853f9f1777de28c22f287e735ce2b1",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nightingale",
+      "avatar_decoration_data": {
+        "asset": "a_670b722e56740d11d1e6fe55b8094013",
+        "sku_id": "1343751617303805983",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712028516443",
+          "asset": "nameplates/nameplates_v2/spirit_moon/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SPIRIT_MOON_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 8,
+        "effect_id": 2,
+        "colors": [
+          3163762,
+          9709528
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      },
+      "primary_guild": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 11,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "🥹"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": true,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "*Dear Father,*\n\nI’m safe. I did get a little banged up: I have a few scratches and bruises, and I’m both physically and mentally exhausted, but I’m eating and resting better than I was directly after everything happened. I’m okay; I wanted you to know that first.\n\nI’ll admit, it was strange to see a letter from you; not unwelcome, just unexpected. I didn’t expect to hear from you so soon, especially after the events of Sponsorship Day, but thank you for writing. I was glad to receive your letter; it means more to me than I can explain.\n\nI’m sorry I didn’t tell you about what was happening on campus. None of it felt simple enough to explain. Everything happened so quickly, and I barely had time to breathe, let alone decide who was safe to involve outside the people standing beside me. On top of it all, much of the information came with restrictions about who could be informed for safety, secrecy, and reasons I’m still sorting through myself. Still, I understand why you’re angry, and I’m sorry I didn’t find a way to tell you. I hope, one day, you can forgive me for that.\n\nReading your words stirred a lot in me. \nThere was a time when talking to you felt as easy as breathing; when I didn’t have to measure every word before I said it. I’ve missed that version of us more than I realized. I don’t expect things to return to how they were overnight, but I would like to believe we can find our way toward something better.\n\nI want to believe you when you say you’re willing to try to understand what I see in my work. I hope, when we sit down together, it won’t be another battle about what I *should* be, but a conversation about who I already *am*. I don’t need your approval or validation; however, if you’re willing to listen, I’m willing to try to explain what creating means to me and why it matters. I would really like that.\n\nDespite everything, despite how complicated things have been, I have missed you. And Mom. Please tell her I’m thinking of her every day.\n\nPlease keep watching over Lucien; being away from him while he’s struggling has been harder than I let on. If there’s anything I can do from here, please let me know.\n\nThank you for writing to me. Thank you for being honest. I hope this is the beginning of rebuilding something we both lost.\n\n*Love,\nSunni*",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-01-09T09:20:10.585000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1459114519916839006",
+    "channel_id": "1418704743882297405",
+    "author": {
+      "id": "155436835013656576",
+      "username": "pyroshadow",
+      "avatar": "ed853f9f1777de28c22f287e735ce2b1",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nightingale",
+      "avatar_decoration_data": {
+        "asset": "a_670b722e56740d11d1e6fe55b8094013",
+        "sku_id": "1343751617303805983",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712028516443",
+          "asset": "nameplates/nameplates_v2/spirit_moon/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SPIRIT_MOON_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 8,
+        "effect_id": 2,
+        "colors": [
+          3163762,
+          9709528
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      },
+      "primary_guild": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 12,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "❤️"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": true,
+        "burst_count": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,211 @@
+---
+layout: default
+title: "In the wake of the other scaleborn's departure, a storm was brewing side of Zaši..."
+---
+
+<div align="center">
+
+# In the wake of the other scaleborn's departure, a storm was brewing side of Zaši...
+
+<img src="https://img.shields.io/badge/status-Unknown-95a5a6?style=for-the-badge" alt="Unknown" />
+
+**Campaign:** The Spark Saga  
+**Writers:** Zasia &bull; Vornakir  
+**Date:** October 26, 2025 &ndash; October 29, 2025
+
+</div>
+
+---
+
+
+### &#x270D; Zasia
+<sub>Oct 26, 2025 &middot; 02:46 PM UTC</sub>
+
+In the wake of the other scaleborn's departure, a storm was brewing side of Zašia. It took her very little time to recognize the catalyst for it. She'd had a similar sensation of chilling dread not so long ago.
+
+When her new Lord Hollowthorn knew her surname despite her not having given it, in the face of his previous supposed ignorance as to who she was. She wasn't so naïve as to not realize she had wandered into a trap, even if she only noticed the snare a second too late to keep it from tightening about her.
+
+This, too, was a situation where the unfamiliar party knew something they hadn't been told.
+
+Zašia's violet eyes settled on Vornakir's face, her expression like stone and serious. "He knew exactly who I was to you. He didn't even bother to refer to me by any title, teasing or otherwise. You said you haven't even told your mother." Her brows lifted, challenging him to draw a conclusion other than the one she had. "So who else did you tell?" A beat. A clarification. "That's not on this campus."
+
+
+### &#x270D; Vornakir
+<sub>Oct 26, 2025 &middot; 04:26 PM UTC</sub>
+
+Vornakir crossed his arm over his chest and stared as his cousin departed. His jaw twitched, his brow furrowed. It was clear by his body language that not only was he disappointed his mother hadn’t yet arrived, but his cousin was someone he very much did not like. 
+
+But as Zašia levied her question he turned to give her a quizzical look with a raised brow. “I haven’t told mother. And I haven’t told anyone else either, for that matter. I don’t go around announcing what happens in my life. It’s not part of our culture, darling. Remember the courtship ritual? There are several parts of it that are specifically designed to show off your particular beau so that you don’t have to brag and inform anyone.” He took his hand and gave a wave over his shoulder. “Word spreads when they see the traditional steps happening. The more people who find out without you saying a word, the better. It’s meant for that purpose exactly, it tells you how important you or the other person are by how many people care enough to spread it.”
+
+In many ways, that made sense despite how annoying his culture must truly be from the outside. He wrinkled his nose in annoyance and one of his feet impatiently tapped as his looked over his shoulder for another carriage that wasn’t yet arriving. And may or may not arrive at all. “You’re wearing my brooch, even if he didn’t know before he stepped out he would have known it was mine immediately. The only reason the first step of courtship works to let people know you’re spoken for is the item you give must be something you’ve worn quite a bit yourself. Like the other steps, if someone can look at the item — the brooch in this case — and instantly know you’re being courted by me, it means they pay an obscene amount of attention to me. It’s meant to be a compliment, in the culture at least.”
+
+He exhaled a hard sigh. “And if it wasn’t obvious with Velvyn, there are people on campus that come from where I do. It’s not a stretch to think one is in contact with *him*. Hell Nyx may even have contacts here.”
+
+
+### &#x270D; Zasia
+<sub>Oct 26, 2025 &middot; 04:41 PM UTC</sub>
+
+Zašia herself was feeling impatient as Vornakir labored on about his cultures traditions — which she *did* genuinely respect — instead of homing in on what she meant for him to realize or discover.
+
+When he finally did, he could see her visibly relax. She shrugged aside the large silver-grey pilgo wool drape around her shoulders. The brooch peeked out then. "I wasn't flashing it in case you wanted to speak to your mother first, rather than let the gesture speak for you."
+
+She huffed out a little breath. "But that's exactly my point. If he knew without seeing it, then someone *here* told him." Zašia fixed him with an expectant look that covered the way she finished making her point solely in his mind. *And since Velvyn was contracted to kill you, and obviously your cousin would like to be the last scaleborn standing...*
+
+"But, say for a moment that I didn't realize I had shifted and showed my hand, so to speak." The scarf was tucked back in place at least for the time being. "Then he knows you're courting me, and he knows what the next step is."
+
+That she left to hang heavy in the air between them, but not for long.
+
+"I realize it may not be terribly romantic by your standards, but I think we both ought to carry a dose of that antidote with us until he departs. I promise, when we actually take that step, I will happily abide by the rules."
+
+Truly, she only meant *he* needed to carry the antidote, but she knew if she highlighted that she herself could be in danger as well, he was more likely to take the precaution.
+
+"It would be *so easy* to make it look as if I had been selfish or deceitful." Again, she chose to highlight the potential danger to herself in order to manipulate him. "Or that you misjudged the dose or the timing."
+
+It's as she told Caspian, even if she wasn't interested in destroying someone so close and so dear, she still had a plan for how she *would.*
+
+
+### &#x270D; Vornakir
+<sub>Oct 27, 2025 &middot; 07:10 AM UTC</sub>
+
+He closed his eyes and listened in the confines of his mind, flashing his eyes back at her when they opened with a brief, faint spark of auric arcana. to reply. *I had anticipated he was the one who hired her in the first place and I can only imagine since she didn't report back to him he came himself to see what the issue was.*
+
+"I'll be writing mother post haste and having it sent expressly as soon as possible to her. At the very least I can have him punished for stealing her carriage and that might tide my rage for the time being." He said with clear exasperation. This wasn't just disappointing to him, it was draining. 
+
+The mention of his courtship tradition and what she thought was necessary caused him to pinch the bridge of his nose with a sigh. "One thing you must know about him and I'm sure you've gleaned it already but I want to punctuate it. He's a prideful cunt of a man." Said the pot about the kettle. "*If* he was the one who hired *her*," He continued with implication so they didn't have a silent conversation in a crowded space in their minds, "Then something's changed. He's never been one to be this underhanded. For a man almost as prideful as I am, the concept of me dying by anyone's hand but his makes him look weak. Poison, assassins? It's not his style." 
+
+Which beggars the question, if it would make him look weak and his pride stood in the way of such craven tactics why would he have done such things in the first place? Not that he doubted it was him, he was prime suspect number one to Vornakir as it currently stood. But to do such a thing meant Tyr *feared* he wouldn't win the Trial. 
+
+Just as Zašia played her game of always knowing how she'd destroy someone, Vornakir was steps ahead of those who wanted to destroy him at almost all times. Given she may not have been watching him carefully, he produced a small vial with a clear liquid - not the one she recognized from his courtship. "Drow are experts in poisons and toxicology and those in higher stations are nearly assassinated often. I wasn't exaggerating when I said it's been in the thirties. This would neutralize at least most midrange and lower poisons. The one used in the Courtship is the pinnacle of what our culture can craft and is highly rare. He'd know I carry this because he also carries one of these."
+
+"That is to say, you're right. The Courtship Tincture is one of the few things he could get his hands on that this wouldn't work on so if he intended to poison me, it would be one of that caliber. I know you want to help Caspian but it's safest if you stay close to me until we're certain its safe for you to be alone."
+
+
+### &#x270D; Zasia
+<sub>Oct 27, 2025 &middot; 03:56 PM UTC</sub>
+
+"I'm hardly alone with Caspian," Zašia remarked mildly, without defensiveness or rebuke. Her head canted, circling back to the more relevant portion of the topic. "Say it is still beneath Tyr, then. That means someone else is involved and poison is still very much on the table." Her slender shoulders came up in a shrug. The answer remains the same, it's just the likelihood that may change.
+
+Until now, she hadn't properly mulled over in her head the notion of herself as collateral damage. After all, neither of them had announced their relationship to the world outside of the academy, nor to the academy at large. She wasn't so naïve as to believe word wouldn't get out, especially given Velvyn's penchant for making everything her business. She'd have noted the brooch and understood its meaning.
+
+The question that lingered in her mind was if any of Vornakir's rivals were spiteful enough to hurt him by going through her. Maybe that thought should have sent a chill down her spine, but that would have required her to place herself on a high enough pedestal as to be of such consequence. 
+
+By her calculations, the relationship was still in its infancy, even if they had exchanged tokens. If someone believed they could not best Vornakir and wanted to hurt him, then they *might* use her as an avenue to do so, but in doing that, it would cause Vornakir to obfuscate what is important to him more than he already does. And if it were her... Well, not *her* preferred outcome when wanting to destroy someone.
+
+Unfairly or not, it gave her far less a sense of fear than she probably ought to have. "So, do you have the Tincture, or ought we to quickly send for some?"
+
+
+### &#x270D; Vornakir
+<sub>Oct 28, 2025 &middot; 12:16 AM UTC</sub>
+
+Vornakir just stared off into the distance where the carriage had scurried off. Disappointment was still heavy in his gaze as his arm fell to his side and rested in one of the loops of his belt. “When I say it’s beneath him I don’t mean he wouldn’t do it. I mean it would be his last resort. Which means if it is him, he may know about the *other dragon*.” He alluded, indicating the gifts Aurum had given them. “And I have extra tinctures, I’ll give you one to carry too.”
+
+“He’s gotten stronger. I can see it. I could feel it. He used to not be so brazen about stepping toe to toe with me - he’d be prideful but he knew his place. The only times he’s ever been so bold are times when he’s pulled ahead of me in some capacity.” He said, more to himself than Zašia but nonetheless the information was for her as well. Something dwelled in his mind that caused him enough burden that she could hear the clenching of his fist at his side. “And I’m getting *weaker*. Everyone’s surpassing me, and I’m fucking standing still.” The faintest sparks of arcana began to fill the air like static around him, tangible yet invisible. He hadn’t spell dueled since the issue with Kael, and she was the first person he’d dueled with only one arm. Not only the first but the sole person that’s dueled him while he’s down an arm. 
+
+Expectation always weighed heavily on his shoulders but the fact that nobody else was aware of his downward spiral only served to frustrate and enrage him more. Anytime he’d remotely mentioned the rough way he’d had it, everyone brushed it off or gave him some Pep talk about how he isn’t lesser. None of them knew the storm that he had to weather. This wasn’t just a game to him, this wasn’t just a dueling league. This was the difference between living and dying with no exception. And what was worse? None of them had spoken to a guardian of the afterlife who more or less confirmed he was previously due to die coincidentally the same time frame the Trial was to take place. 
+
+Every minute that passed that he wasn’t getting stronger was a minute shaved off his life. Every person who surpassed him added a percentile to his losing odds. Every squandered opportunity to be the *best* at everything he touched was another knife in his chest twisted by those who dismissed the struggle he trudged on with. 
+
+Air filled his lungs in a sharp inhale through his nostrils as he composed himself however long it must’ve taken to stow that all away. If he got one more person handing him consolation in the middle of this storm rather than shelter he might just finally snap. 
+
+Composed just seconds later but his voice holding an edge to it, he fixed Zašia with his stare. “So what now? Are you expecting an arrival soon or today at all? Or will your entourage be here later? I don’t think I even know what to expect. Do I need to not be present? Do I need to be extra present? What do you need from me?”
+
+
+### &#x270D; Zasia
+<sub>Oct 28, 2025 &middot; 02:43 AM UTC</sub>
+
+Zašia shrunk back a fraction from the sharpness of his tone and his stare. "I don't know *who* to expect. Rainier didn't say, and I've received no word." Her gaze cautiously swept down his form and back up again. She wasn't oblivious to the magic radiating off of him. If anything, she'd always been very attuned to it. She knew the taste of it on her tongue and the feel of it on her skin, the scent of it in the air.
+
+Like ozone. The static moment before the flash of light and the roar of thunder.
+
+"You *needn't* be present," she offered up with as much neutrality as she could muster. No hint of venom or preemptive protection for hurt feelings. Her eyes lowered to the ground, more for a place for them to settle on while she thought than indicative of low mood. "Anyone coming won't *really* be here for me anyway," she reasoned, returning her attention to Vornakir's face. "I've only just begun here, and Rainier's in more position to impress. If I was expected to attend or be attended to, then someone would have sent notice."
+
+But she'd be lying if she said her brother's cryptic warning wasn't still echoing in her mind and making her grasp at straws, forming a thousand different hellish scenarios in which she'll fail horribly and be faced with the prospect of putting away this silly fantasy of being worthy of Vornakir Vanori and instead need to get serious about making herself attractive to some stuffed shirt whose conversation hurt her ears. She placed a hand flat over her stomach at the notion, breathing slowly, lest a sense of panic sink its claws into her.
+
+Just as soon as she recognized the placement of her hand, she removed it quickly and reached for his instead, encouraging his fingers to loosen so she could bring it to her lips and press a kiss into his palm. "You are Vornakir Vanori. You are many, many things — some of which drive me positively mad — but you are never weak. It is a setback and it is not nothing, but it is not insurmountable." She set her own thoughts and fears aside.
+
+Second of her name, second to him.
+
+"Tell me what you need and you will have it."
+
+
+### &#x270D; Vornakir
+<sub>Oct 28, 2025 &middot; 02:54 AM UTC</sub>
+
+Where she may recognize his magic from weeks back as brilliance and radiance and flashy, showy even - the taste of it almost like sweet wine in how refined and controlled it was, now she would recognize a new flavor. It was raw, it was unfiltered, it was harsh but in the same way some people liked sour candies. It was bitter and sharp but the pain was delightful when one indulged in it. Or was it like Vodka? Strong, heavy, almost making one regret the taste of it. 
+
+It was many things to many different people until he was able to refine it, but the one constant was how potent it was. Nearly tangible. His tone, though sharp wasn’t meant to cut her. “I know I needn’t be present. I want to be. If I didn’t want to be, I would have left and incinerated that carriage by now.” He remarked and though the sentiment may have punctuated harshly it was in no way directed *at* her, merely *to* her. 
+
+He closed his eyes and inhaled heavily again. Once, twice, thrice. His mask was placed back on neatly for the time being. He didn’t open his eyes yet though, not even as he laced his fingers with hers and gave her hand an assuring squeeze while the muscle in his jaw tightened more. “I appreciate the sentiment. I require many things, but at the moment none of them you can provide me. That is a statement more of fact at unfortunate circumstances, not your lack of ability.” He said through his tense jaw, carefully choosing his words so he didn’t inadvertently upset her on top of everything else. 
+
+“Unless you can kill him today or arrange a way I can without me getting in trouble, or unless you can make my mother suddenly appear, there’s nothing to be done. So what do *you* need?” He asked, finally opening eyes to fix her with his controlled gaze. 
+
+Not second to him today. 
+
+“Would it serve you well if I put on the Prince act for your family so they think higher of you? Make someone feel more insecure next to you?” Where she felt her role was to put on as subservient, he felt his role was best at making himself shine brighter than everyone so she cast a shadow thrice its size.
+
+
+### &#x270D; Zasia
+<sub>Oct 28, 2025 &middot; 03:03 AM UTC</sub>
+
+Zašia smiled, bemused but still gracious. "I ask for nothing." How could he be thinking of her when so much weighed on his own mind? She could practically feel a prickling sensation in her lips, the way skin slowly began to regain feeling. Especially after a sharp jolt of electric energy. He was not alright.
+
+But she knew her answer wouldn't satisfy. "If they intend to be disappointed in their *unprodigal* daughter, then nothing you do will effect a change of their opinion. If they are pleased with me, then they will remain so unless or until *I* give them cause not to be." She flashed a rueful smirk and shrugged her shoulders. "If they come at all."
+
+*Someone* was coming, even if she wouldn't think on that fact too hard.
+
+She *especially* dared not even allow the consideration as to who it *would* be, if not her parents. The only person she would admit it to, if she could admit it even to herself, wasn't speaking to her.
+
+
+### &#x270D; Vornakir
+<sub>Oct 29, 2025 &middot; 12:45 AM UTC</sub>
+
+He lifted his shoulder in a shrug, but she was right on her assumption. He was not alright. He read like a man who would grasp the raw lightning from the sky and use it to smite his adversary if he could. It was thick in the air and hard to ignore. But he was doing his best to stow his shit on her behalf. 
+
+“Prodigal isn’t all it’s cracked up to be anyway.” He muttered, but he didn’t linger on that topic. “Only if you’re sure, *isilme*. Is there anything I can do otherwise then? I apologize that cousin Tyr has roped you into his nonsense. And I’m…” His teeth clenched, his nostrils flared and all his muscles tensed as he spoke next, “Sorry if I drag this fight down.” It really *really* did a number on him to see his friends surpass him in the league, and to not be getting stronger, not to mention his loss to Kael. 
+
+He untucked the scarf she had given him from inside his tunic and let it rest against his chest a little looser - not that he’d been hiding it, it was worn obviously enough but prior was tucked under his shirt. Now that his raw arcana was sparking around him, it wanted the immediate vicinity so he needed to loosen it up.
+
+
+### &#x270D; Zasia
+<sub>Oct 29, 2025 &middot; 01:05 AM UTC</sub>
+
+"*Stop.*" Zašia insisted. "We've fought together before, have we not? Your magic — *you* — are magnificent, and your power flows through me like water. You make me stronger."
+
+She spared them both outright stating what to her was the obvious: that if anyone were to drag them down in this duo, it would be her.
+
+So badly, she wanted to challenge him, to pose to him that he saw her potential and the power inside of her, even when it lay sleeping. Only... she was so certain he *had* seen her as lesser. He'd acted the part, and he wasn't alone in it. To compare them would only dampen his spirits further.
+
+"If you were weak, you would not hold my heart," she whispered to him, desperate for him to believe. "It's a fragile thing, as you know. Not just anyone can guard something like that and keep it safe and whole." Her violet eyes danced between his draconic gold ones, a hand on his cheek, stroking her thumb across his skin. "I trust you. You should too."
+
+Her eyes half lidded as she leaned in closer. "Let it flow through me." Close enough for the softest breath that carried her words was felt warm against his lips. The aasimar's fingers tightened around his, holding herself fast to him, but she would not take that last bit of ground between them. He could leave her looking foolish amongst all the commotion if he chose, and she would accept it. At least she would try to help.
+
+
+### &#x270D; Vornakir
+<sub>Oct 29, 2025 &middot; 06:55 PM UTC</sub>
+
+Vornakir’s tight lips curved down briefly into a frown and he shook his head, “I’m not though. I told you what *she* said when I almost died did I not? That I was scheduled to meet her in a couple years. That means at the current level I’m on, I’m destined to die then. I haven’t gotten any stronger since then, so why would that change now? I don’t even know how to *get* stronger anymore.” This was very clearly an issue rooted so deeply that mere words and praise weren’t going to pry the stump from the earth. 
+
+But he also knew at this point it was fruitless to bicker about the concerns he had. He let her explain her reasoning and offer her consolation, and accepted it regardless if he believed it or not. 
+
+She must’ve known by now he felt no shame being in public with her, nor showing affection in public when she allowed it. She was the one that was insecure about their status for the first several lengths of their courtship. His lips came forward and met hers and the excess flow of mana flooded through him, and channeled into her river of internal magic. Like every time she tried to distract him and give him an outlet like this, it was warm - almost too hot to enjoy like a steaming cup of cocoa that nearly burned the tongue. 
+
+But the static in the air lessened considerably. So goal accomplished in that regard.
+
+
+### &#x270D; Zasia
+<sub>Oct 29, 2025 &middot; 08:55 PM UTC</sub>
+
+The other times, Zašia herself had been an empty vessel where magic had once been brimming. His own magic had been more than welcome there. Now, however, he added to her cup, and the two did not mix as well as she had hoped. Not in any way volatile, but more as though she'd paired the wrong wine. Her brows knit together as they kissed and she had to force herself not to tighten her grip on his hand any further.
+
+By the time they had parted, she was flushed, but covered over its reason with a giddy little smile. It wasn't so much that she thought he'd suddenly shy away from being public about their connection, but more that he might find the moment wrong for such things. *Goddess*, she hoped his mother's carriage hadn't pulled up.
+
+A quick glance confirmed no immediate signs and she instead turned her attention fully back to Vornakir, suppressing an urge to let her shoulders squirm against the lingering sensation of that tempest she could still taste on her lips.
+
+"I remember," she assured in an even voice, brushing her thumb along the side of his hand. "I think it's far too early to be calling this battle lost, however. She had not expected to see you when she did, no? So who's to say you won't defy expectations again?" Her smile returned with a bit more strength, even if it was merely a brief flash of it before she leaned in to drop another quick peck of her lips to his. "If anyone can do this, it's you."
+
+There was a sparkle in her eye of mischief, a little upward tug of her lips. "Three years is an awful long time for one to plan a funeral. If you must resign yourself to such things, then I propose a bit of hedonism to pass the time."
+
+
+---
+
+<div align="center"><sub>Thread ID: 1432017521661186170 &bull; Fetched from Discord</sub></div>

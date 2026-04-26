@@ -1,0 +1,1365 @@
+[
+  {
+    "type": 0,
+    "content": "> *Love is just another four-letter word*\n> *But that never stopped nobody*\n\n((OOC:  Scene is closed to Vornakir and Zašia, but you're free to lurk! Additionally, we're playing loosely with the Sacred Timeline™ and some details are subject to change. We're full of pent up RP energy, okay? We wanna strike while the irony's still hot!))\n-------------------------------------------------------------------------\n\nWhen they had returned to their dorm and she was finally able to slip away to her room, Zašia fell back onto the bed, uncharacteristic of her, but her mind was playing back the events of the day and she was feeling crushed under the weight of her mistakes.\n\nThe social ones.\n\nFirstly, she'd been so self-conscious. Sol had inadvertently hit on some of her weak points and Redd as well. Amidst the intense sensation of anxiety that had bile burning in the back of her throat, there was a moment of warmth. Both Vornakir and Caspian had at times spoken up loudly and steered the conversation away from her, her circumstance, and her shortcomings.\n\nVornakir in particular had done so by highlighting the shame and self-directed anger he felt over being suspended from the dueling league, among the other consequences he was given for his use of their highly irregular gifts. Spells that should have been well-beyond their capabilities, perhaps, but were almost as natural as breathing, somehow.\n\nIt made her consider her own power. She would try to dream walk once more tonight. She wasn't sure she should ask Vornakir to watch over her as she slept. While she had the utmost trust in Caspian to pull her away from any danger, he was entirely out of the question after how she had behaved.\n\nShe hadn't *meant* to, and that to her was the worst part. She'd spoken far too freely with him, and she took a moment to contemplate why. Her analytical mind went to work, the metaphorical gears turning. Readily, she felt she understood her actions, but could not and would not excuse herself just because she could puzzle out the why.\n\nWith all of that weighing heavily on her mind, making her chest feel tight and tying her stomach in knots, she dressed for bed. Pulling back the covers, she sat on the edge of the bed, reading to swing her feet up off the floor and onto the mattress to slip under the sheets and the quilt she'd brought from home.\n\nHesitation. Contemplation. Action.\n\nZašia stood up again, leaving the bed unmade and pulled her robe from the hook she left it on at the threshold of her bath. With a deep breath, she pulled open her door and headed down the hallway. For once, she did not step lightly, attempting not to be heard as she strode to Vornakir's door, her head held high in a pantomime of the confidence she did not feel, but hoped she might manifest. She knocked. Quietly, but with a rap of her knuckles, rather than the soft tapping of her manicured nails against the door, like a well-behaved dog waiting at the back door to be let in.\n\n\"It's me,\" she announced. She wasn't particularly loud about it, but nor was she speaking in a hush, instead maintaining a conversational volume that could be noted by others nearby, if indistinct through the walls that divide them in the halls. As the only woman in their dorm, it certainly made it obvious when she spoke.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-08T20:15:03.239000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1414705617784016987",
+    "channel_id": "1414705617784016987",
+    "author": {
+      "id": "128691687169064961",
+      "username": "electrochemistry",
+      "avatar": "15c510b31c8fa3c1333544dd821136c8",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1382845914192023632",
+          "asset": "nameplates/nameplates_v3/aurora/",
+          "label": "COLLECTIBLES_NAMEPLATES_CAT_BEANS_A11Y",
+          "palette": "teal"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 2,
+        "colors": [
+          14963742,
+          16711568
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      },
+      "primary_guild": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0
+  },
+  {
+    "type": 0,
+    "content": "(( <@206175579358232578> ))",
+    "mentions": [
+      {
+        "id": "206175579358232578",
+        "username": ".tsukikage.",
+        "avatar": "a_46c3fb914b80216510fecd78138bfdb7",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Akuma",
+        "avatar_decoration_data": {
+          "asset": "a_35e64c0eb789d6019a76b1e95ba13497",
+          "sku_id": "1479191582002516020",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1349849614102036581",
+            "asset": "nameplates/nameplates/cherry_blossoms/",
+            "label": "COLLECTIBLES_NAMEPLATES_CHERRY_BLOSSOMS_A11Y",
+            "palette": "berry"
+          }
+        },
+        "display_name_styles": {
+          "font_id": 10,
+          "effect_id": 4,
+          "colors": [
+            12189699
+          ]
+        },
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "425124932398350338",
+          "identity_enabled": true,
+          "tag": "UMA",
+          "badge": "31773be45923b9d830659c3b9ec15a2d"
+        },
+        "primary_guild": {
+          "identity_guild_id": "425124932398350338",
+          "identity_enabled": true,
+          "tag": "UMA",
+          "badge": "31773be45923b9d830659c3b9ec15a2d"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-08T20:15:17.987000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1414705679641481246",
+    "channel_id": "1414705617784016987",
+    "author": {
+      "id": "128691687169064961",
+      "username": "electrochemistry",
+      "avatar": "15c510b31c8fa3c1333544dd821136c8",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1382845914192023632",
+          "asset": "nameplates/nameplates_v3/aurora/",
+          "label": "COLLECTIBLES_NAMEPLATES_CAT_BEANS_A11Y",
+          "palette": "teal"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 2,
+        "colors": [
+          14963742,
+          16711568
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      },
+      "primary_guild": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0
+  },
+  {
+    "type": 0,
+    "content": "Whilst Zašia wallowed beneath her feeling of social inadequacy, Vornakir was roiling with a similar issue but his took the form of physical and to some degree magical ineptitude. After the trial and everyone had returned to their own domains, he paced his floor. As the rest likely were, he was in his bed clothes - his favorite golden scale patterned pajamas and no shirt, the side of his torso sans an arm now fully protected with the layer of shimmering golden adult scales after the new-grown ones shed away. \n\nSomething beneath the scales could simmer no longer, though. Emotions that weren’t his own strangled him, his throat tightening and his jaw ticking in sourceless rage. It was like a fire being stoked against his will burning his insides, his neck craned and head turned to the side to make a crunching sound as he strained the bone enough to pop. His ochre eyes slitted and his nostrils flared heavily - a chuff of breath so frustrated that he could swear there was a taste of ash and smoke on his tongue. \n\nHe needed a release, something to snare his attention and focus. He wasn’t sure why these emotions grappled him, but he knew he needed to vent them out. He fell to the floor after a sparkling flick of his wrist conjured his trusty mage hand, and he began doing one armed push-ups. \n\nIt was a struggle, doing even two handed ones before was. But he needed to be better, he couldn’t stand to shame himself forever. He wasn’t as fast or efficient as Caspian could do them, he didn’t even bother counting them. He knew he wouldn’t stack up. But the effort was being made, several grueling seconds passing every-time he lowered himself almost nose to the floor and even more passed before he could struggle to lift himself upward. When he took the stance of holding himself aloft after each push up, his arm noticeably wobbled — the muscle screaming in protest as sweat beaded at his brow and fell from his skin to the ground below. It wasn’t enough. \n\n> *”Gold holds value to everyone. It’s yearned for, it’s fought for, it’s universally lusted over and killed for. So what does that make me…? Polished bronze? Fool’s Gold?”* \n\nHe gasped and suddenly his face made contact with the floor as his muscle gave out. A stained, choked nearly silent sob tore at his throat as he pounded a hand into the wooden floor and firmly planted his palm on it again. \n\n“Not enough…I need more…” He muttered through heavy pants as his throat burned, his ragged breaths felt like glass tickling his lungs. The mage hand found its prey and brought a book over for him to wash over, propped open beneath him during his physical struggle. \n\nFor several long moments, he repeated the pitiful display of forcing himself to work out and read to distract his mind, metaphorically sweating out every insecurity and inadequacy he veiled behind his mask of golden confidence. \n\n“To…find…A Fey….is unheard of…Outside of…mistakes…summoning…and their own will…having their..name…will make it—“ He paused his aloud reading of the tome on Fey at the sudden knock. He willed the hand over, having it unlock both doors for her to enter at will.\n\nHe just tried to manage getting himself off the ground before she was able to enter and see how he looked, and hopefully able to don the metaphoric mask to greet her in time.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-08T21:20:13.524000+00:00",
+    "edited_timestamp": "2025-09-08T21:20:41.622000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1414722018708033618",
+    "channel_id": "1414705617784016987",
+    "author": {
+      "id": "206175579358232578",
+      "username": ".tsukikage.",
+      "avatar": "a_46c3fb914b80216510fecd78138bfdb7",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Akuma",
+      "avatar_decoration_data": {
+        "asset": "a_35e64c0eb789d6019a76b1e95ba13497",
+        "sku_id": "1479191582002516020",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614102036581",
+          "asset": "nameplates/nameplates/cherry_blossoms/",
+          "label": "COLLECTIBLES_NAMEPLATES_CHERRY_BLOSSOMS_A11Y",
+          "palette": "berry"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 4,
+        "colors": [
+          12189699
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      },
+      "primary_guild": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 1
+  },
+  {
+    "type": 0,
+    "content": "The mage hand greeting her at the door was familiar by now, She may not love it, but if anyone deserved a pass for it, it would be Vornakir. The impersonal now given the plausible deniability of it being an aid to him.\n\nNot that it wasn't before, but he hadn't really *needed* to use it, he just—\n\nZašia realized her thoughts were spinning out of control. She needed to focus on what was in front of her, which was currently Vornakir's open door.\n\nStepping inside, she shut it behind her quietly and turned the lock, so as to give him the peace of that protection remaining in place. \n\nShe looked at him on the floor, metaphorically rooting herself to the spot rather than offer a hand, trusting that he would ask if he wanted it. He was so proud. *Too* proud at times. She'd promised to help shift his attitude. Mentally, she batted away the question of *could she?*\n\nAs she surveyed his room, she allowed it to paint a picture of his mood for her, even if it was somewhat abstract. She did not note the book on the floor, willing her eyes not to stray in that direction as he rose to his feet.\n\n\"Hey...\" Violet eyes darted off to the left, her hands coming to clasp together in front of her. She took a breath. It didn't matter if they'd managed to fall into some momentary lockstep with one another during the trial. It couldn't negate anything that came before.  The breath was let out slowly, an obvious play at calming herself before she spoke again.\n\n\"I think I might owe you several apologies.\"",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-08T22:01:15.945000+00:00",
+    "edited_timestamp": "2025-09-11T13:22:12.287000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1414732346850283532",
+    "channel_id": "1414705617784016987",
+    "author": {
+      "id": "128691687169064961",
+      "username": "electrochemistry",
+      "avatar": "15c510b31c8fa3c1333544dd821136c8",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1382845914192023632",
+          "asset": "nameplates/nameplates_v3/aurora/",
+          "label": "COLLECTIBLES_NAMEPLATES_CAT_BEANS_A11Y",
+          "palette": "teal"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 2,
+        "colors": [
+          14963742,
+          16711568
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      },
+      "primary_guild": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 2
+  },
+  {
+    "type": 0,
+    "content": "It took him a length of time, and it may have been a hard watch for her. Pushing himself from laying nearly flat on his stomach to his knees, then adjusting his weight to one knee and getting fully stood up after his work out wasn’t easy. It was exacerbated by the sweat covering his brow and the obvious overly tense muscles from the strain of a work out he wasn’t equipped for. \n\nHowever once he finally found his feet and his mage hand brought over a towel, he dried his face off the best he could and allowed it to carry the towel away before it whisked the tome on the ground back to its home. If she paid attention she’d see the title.\n\n> *The Feywild and its Mysteries*\n\nThe emotion was still there, that foreign feeling like claws dragging down the side of cavernous walls that made up his insides. One look at his eyes told her there was a war being waged within that he was doing his best to win. Slitted auric hues replaced the normal resplendence, and every micro expression paired with the body language spoken to her reminded her of the night they kissed for the first time. How his emotions were so intense she could swear she could feel waves of pressure radiating off him. \n\nBut the way he *tried* to look to her painted him in a different light. The effort was made to come off like he was attentive despite what happened in his minds palace.\n\nHis voice finally croaked out, hoarse — he clearly hasn’t been hydrating through this…torture he put himself through. “I find we’re having a similar start to all of our conversations as of late.”",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-08T23:18:41.515000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1414751831782981703",
+    "channel_id": "1414705617784016987",
+    "author": {
+      "id": "206175579358232578",
+      "username": ".tsukikage.",
+      "avatar": "a_46c3fb914b80216510fecd78138bfdb7",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Akuma",
+      "avatar_decoration_data": {
+        "asset": "a_35e64c0eb789d6019a76b1e95ba13497",
+        "sku_id": "1479191582002516020",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614102036581",
+          "asset": "nameplates/nameplates/cherry_blossoms/",
+          "label": "COLLECTIBLES_NAMEPLATES_CHERRY_BLOSSOMS_A11Y",
+          "palette": "berry"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 4,
+        "colors": [
+          12189699
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      },
+      "primary_guild": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 3
+  },
+  {
+    "type": 0,
+    "content": "It *was* hard to watch him struggle, but she took some heart in the fact that he wasn't just laying down and giving up the way that many would.\n\nBut when he spoke, she suddenly felt so small. She could see the change in him and couldn't help but feel she must have set it off. \"Yes, well... I'm sorry for that, too.\"\n\nThe tone wasn't dismissive, but she was at a loss of a better way to express herself, the words carrying much of the weight of her resignation. \n\nShe stared down at the floor, shame creeping in to add color her pale face. \"I won't excuse myself, but I can try to explain the roots of my mistakes... If you would find that helpful at all.\" One thumbnail began to push gently at the cuticle of the other in a nervous fidget.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-09T08:32:37.402000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1414891233196642368",
+    "channel_id": "1414705617784016987",
+    "author": {
+      "id": "128691687169064961",
+      "username": "electrochemistry",
+      "avatar": "15c510b31c8fa3c1333544dd821136c8",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1382845914192023632",
+          "asset": "nameplates/nameplates_v3/aurora/",
+          "label": "COLLECTIBLES_NAMEPLATES_CAT_BEANS_A11Y",
+          "palette": "teal"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 2,
+        "colors": [
+          14963742,
+          16711568
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      },
+      "primary_guild": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 4
+  },
+  {
+    "type": 0,
+    "content": "For several lengthy moments, he just fixed her with a tired stare; tired of the state of things, of how much that weighed on his shoulders with no sign of relent anytime soon. But like always he hid it behind his mask. He lifted his arm and rubbed at the back of his neck, and then turned to give a vague gesture to his bed for her to sit if she wanted. “Make yourself comfortable.” \n\nHe didn’t sit, instead he kept his back to her as he walked toward the armoire where many of his things were stored, notably of course his clothes. A night shirt was plucked from a hangar and with the assistance of his mage hand he pulled it on over his head. This was one of the ones that had already been surgically altered to remove a sleeve and meticulously sewn at the left shoulder. \n\nWithout turning yet, he spoke over his shoulder at her. “You can say whatever it is you like or feel you need to say. But while you do, can you please include the answer of ‘is this what you want?’ for me — You perplex me and some understanding would do me wonders right now.” He said in an even, flat tone, the walls erecting around him again albeit not as thick as before. It seemed he expected to hear something he didn’t want to.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-09T08:54:39.378000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1414896777965993990",
+    "channel_id": "1414705617784016987",
+    "author": {
+      "id": "206175579358232578",
+      "username": ".tsukikage.",
+      "avatar": "a_46c3fb914b80216510fecd78138bfdb7",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Akuma",
+      "avatar_decoration_data": {
+        "asset": "a_35e64c0eb789d6019a76b1e95ba13497",
+        "sku_id": "1479191582002516020",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614102036581",
+          "asset": "nameplates/nameplates/cherry_blossoms/",
+          "label": "COLLECTIBLES_NAMEPLATES_CHERRY_BLOSSOMS_A11Y",
+          "palette": "berry"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 4,
+        "colors": [
+          12189699
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      },
+      "primary_guild": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 5
+  },
+  {
+    "type": 0,
+    "content": "Zašia's inclination was to stay standing, but Vornakir already had a foot of height advantage on her, so what was a little more? She crossed the room to sit, her hands still folded together, now on her lap, her other thumb pushing now.\n\nShe noted the little things that showed he *did* still trust her, even if he was upset. The way he put his back to her did something to negate the sting of his words.\n\nAt first, she remained silent, waiting for him to dress, waiting for him to turn to look at her, waiting for his eyes to meet hers.\n\n\"*I want this.*\" Voice steady, firm, she spoke it at first in Draconic to give more emphasis to her intention. She continued in common, \"I'm *bad* at this, I think that's obvious. I... I didn't think I'd clam up that badly. I also didn't expect to tell everyone the way that I did.\"\n\nHer gaze slid away for a moment, tongue running over the front of her teeth behind her lips. She made sure her self-directed frustration was aimed nowhere toward him. With a breath, she set it aside and returned her eyes to his. \"I'm not justifying my behavior. Feeling like someone else was in control of me and I could only watch helplesly doesn't mean you shouldn't feel how you feel.\"\n\n*Great Goddess in gold*, if she messed this up out of the gate, she wasn't sure she could ever forgive herself.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-09T16:04:39.483000+00:00",
+    "edited_timestamp": "2025-09-11T13:25:24.695000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1415004991449468942",
+    "channel_id": "1414705617784016987",
+    "author": {
+      "id": "128691687169064961",
+      "username": "electrochemistry",
+      "avatar": "15c510b31c8fa3c1333544dd821136c8",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1382845914192023632",
+          "asset": "nameplates/nameplates_v3/aurora/",
+          "label": "COLLECTIBLES_NAMEPLATES_CAT_BEANS_A11Y",
+          "palette": "teal"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 2,
+        "colors": [
+          14963742,
+          16711568
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      },
+      "primary_guild": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 6
+  },
+  {
+    "type": 0,
+    "content": "The words in Draconic made him close his eyes, first anyway. He turned, walking closer to her before coming to rest a few feet away straight ahead of her. He cracked open his eyes, and met hers with a small frown touching his lips. He let her speak her piece, at least this piece, before he would interject his own thoughts. The least he could have done was hear her out, and then calculate his answer to it. \n\nAnd his answer came to him as a bite that he had to dull because those roiling emotions in his chest fought against his better judgement. Choking down the fight inside, he managed to mutter out to her. \"Listen...\" He began, his voice surprisingly tender as his expression fell and his brows met. \"I know this isn't something you're good with. I'm not asking for you to be a perfect partner, before you start to spiral about it. What I *do* ask is that you don't do anything that makes me question if this is what you want, and that you're *you* around me. I don't...like it when you're more yourself with other people than you are with me. It makes me feel like...\" He paused again, muttering to himself under his breath a string of curses in Draconic, nerves seeming to bubble up again. \n\nHe shook his head, just leaving that hang there. He was making conscious effort, very obviously, to allow her to have the spotlight and voice everything she needed to before he dove too deeply into his own needs. He managed to breathe out, \"Continue please.\" before crossing his arm over his chest.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-09T17:47:12.323000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1415030798331154543",
+    "channel_id": "1414705617784016987",
+    "author": {
+      "id": "206175579358232578",
+      "username": ".tsukikage.",
+      "avatar": "a_46c3fb914b80216510fecd78138bfdb7",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Akuma",
+      "avatar_decoration_data": {
+        "asset": "a_35e64c0eb789d6019a76b1e95ba13497",
+        "sku_id": "1479191582002516020",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614102036581",
+          "asset": "nameplates/nameplates/cherry_blossoms/",
+          "label": "COLLECTIBLES_NAMEPLATES_CHERRY_BLOSSOMS_A11Y",
+          "palette": "berry"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 4,
+        "colors": [
+          12189699
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      },
+      "primary_guild": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 7
+  },
+  {
+    "type": 0,
+    "content": "It felt like it took physical effort not to spiral. Her breath felt unsteady, the fingers of her left hand curled tighter around the right, her thumbnail slowly ruining her manicure.\n\n\"I didn't feel like myself,\" she said in a small voice. \"But I understand why you feel that way. I...\" How to even phrase it? She could barely parse her own thoughts, let alone explain them. With no shortage of resignation, she decided on her confession. \"Caspian felt safe.\" She didn't dare let that linger long, lest he get the wrong idea. \"He's no stakes. It felt safe to pander to his ego a bit for a laugh. I guess maybe I was trying to deflect something, but...\"\n\nShe shook her head. She'd already made clear she doesn't think any explanation provided justification. \"I never meant to make you feel that way. I'm just...\"\n\nA quiet note of frustration passed from her. \"I don't know. *Terrible* at all this and don't know how to remotely handle myself. I haven't been open with anyone — haven't really *been with* anyone — since I was younger, and you know how that turned out for me.\" Again, her gaze angled away so he would know the pain that flashed in them was in no way directed at him. \"I've always panicked, self-sabotaged, and bailed.\"\n\nViolet eyes returned to his gold and she let out a quavering breath. \"But you aren't my past. You're my present. And I hope maybe you'll be my future.\"",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-09T18:09:12.206000+00:00",
+    "edited_timestamp": "2025-09-11T13:27:43.300000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1415036334321569924",
+    "channel_id": "1414705617784016987",
+    "author": {
+      "id": "128691687169064961",
+      "username": "electrochemistry",
+      "avatar": "15c510b31c8fa3c1333544dd821136c8",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1382845914192023632",
+          "asset": "nameplates/nameplates_v3/aurora/",
+          "label": "COLLECTIBLES_NAMEPLATES_CAT_BEANS_A11Y",
+          "palette": "teal"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 2,
+        "colors": [
+          14963742,
+          16711568
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      },
+      "primary_guild": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 8
+  },
+  {
+    "type": 0,
+    "content": "He dropped his head and looked at his feet, exhaling a heavy breath through his nostrils again. The taste of ash lingered on his tongue still, but he was doing a better job at reigning the foreign emotions in and saddling them to be handled later. One foot in front of the other, he slowly stalked his way over to the chair set in a corner with its little side table, his reading nook for all accounts and purposes. \"It isn't just about him, so please don't think that either. I don't see any being competition, so in truth I'm not remotely jealous of him - That would imply he has something I don't that I want or that he's better than me in some way. ***I*** have the prize, and by all counts I've won that particular battle.\" He explained and even posed her as the prize in that regard, finally willing the mage hand to bring him the glass of water he'd left on the desk earlier to sip from it and quell the embers in his throat. \n\nHe cleared it with a sputter, and once he found his voice again it wasn't as hoarse as before. \"My concern lays in that if you *want* this, and you hope I'll be your future why you can't be *safe with me*. I don't care how or what others think of me, because I know what and who I am. What I do care about is that I am, and wish to continue, courting you...and any topic regarding me is varied between you being almost too anxious to speak out about me or us, or feeling inadequate and it weighing you down so hard you shut down.\" \n\n\"I know your past, I know your concerns and your worries. I just hope eventually you can see that I'm not...like the others. I threw myself in the way of certain death *for you*. I lost my arm *for you*. I turned down your sister *for you*. I don't want to continue piling on the things I've done on behalf of you, because I don't want you to feel guilty or obligated - but I wanted to say enough for this point to get across. For all the things I've done for you, what more will it take until I make you feel safe too? That girl I saw shamelessly flirting with Caspian, the one that oozed confidence in her words and actions - The only envy I felt was that it I'm not the one who receives that side of you.\"",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-09T18:21:12.810000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1415039356753674250",
+    "channel_id": "1414705617784016987",
+    "author": {
+      "id": "206175579358232578",
+      "username": ".tsukikage.",
+      "avatar": "a_46c3fb914b80216510fecd78138bfdb7",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Akuma",
+      "avatar_decoration_data": {
+        "asset": "a_35e64c0eb789d6019a76b1e95ba13497",
+        "sku_id": "1479191582002516020",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614102036581",
+          "asset": "nameplates/nameplates/cherry_blossoms/",
+          "label": "COLLECTIBLES_NAMEPLATES_CHERRY_BLOSSOMS_A11Y",
+          "palette": "berry"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 4,
+        "colors": [
+          12189699
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      },
+      "primary_guild": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 9
+  },
+  {
+    "type": 0,
+    "content": "Goddess, how she wanted him to reach for her instead of sitting apart from her. Gently, tenderly, lovingly, harshly, angrily, *violently*— anything but this indifference that the space created in her mind.\n\nHer eyes closed and her lips parted, her face turned down to the hands in her lap that continued to fidget of their own accord without thought from her. A sharp inhale and a lingering wince accompanied his reminding assertions.\n\n*For you.*\n\nShe reminded herself that this thing they had, whatever it was, and the feelings she felt all began before he had shoved her away from him and allowed the Beholder's gaze to settle on him in full.\n\n*I don't want you to feel guilty or obligated.*\n\nBut she was beginning to. Should she *not* feel guilt or obligation? Scant weeks ago, when she was still spitting invectives at him and using his surname exclusively — *go fuck yourself, Vanori* — all in earnest, wouldn't he have thrown *himself* out of the way and let the bitch of the ball fight or die?\n\nShe bit back her first response. *I never asked you for any of that.* He'd told her that wasn't the point he was trying to make, so she'd do herself the favor of not attempting to make it hers. Instead, she cringed in on herself just slightly, pulling the *real* issue into focus, unfortunately along with all the bad memories and feelings tied to it.\n\n\"It isn't you,\" she said, unsure if she was even repeating it anymore for how many times she repeated it in her head. \"I don't know what it is—\" *Trauma.* \"—but it isn't you.\" Finally, she lifted her chin and set her eyes on him again. \"I don't know what I can do other than promise to try... to do or be better.\" *More of what you want me to be.*",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-09T21:46:35.429000+00:00",
+    "edited_timestamp": "2025-09-11T13:31:35.396000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1415091041563971634",
+    "channel_id": "1414705617784016987",
+    "author": {
+      "id": "128691687169064961",
+      "username": "electrochemistry",
+      "avatar": "15c510b31c8fa3c1333544dd821136c8",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1382845914192023632",
+          "asset": "nameplates/nameplates_v3/aurora/",
+          "label": "COLLECTIBLES_NAMEPLATES_CAT_BEANS_A11Y",
+          "palette": "teal"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 2,
+        "colors": [
+          14963742,
+          16711568
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      },
+      "primary_guild": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 10
+  },
+  {
+    "type": 0,
+    "content": "“You can begin by, please, answering that question if there is one. I’m not posing this to you as a way to yearn for a fight, I’m asking because as I said before in there. I don’t have a lot of experience in this regard. Trusting a woman to take the bed was already difficult enough, but there are…*ways to have her* that don’t include her having the ability to cut my throat.” He implied heavily, not to make her jealous or upset but to inform her that while he’s had other partners in the bedroom, it was only because he could do it in a way that kept him safe from harm. \n\n“It’s not as simple to take a partner in love with my trust issues. You’re my first true experience in that, and I’m not…” *~~Good enough~~* “Fully prepared for what it takes to handle it. So please tell me, what more will it take and what must I do to make you feel that same comfort with me? That’ll let me see the side of you that’s not weighed down by gods know what…Until you feel *safe* with me like you do him?” \n\nWith that, he remained in the chair but he leaned forward and finally settled those ochre hues on her. His brow was still furrowed, the light shimmered off the exposed scales a this neck when he turned his head just right. \n\nShe could see it in his eyes, the plea and the yearning. It was genuine. He was grounded right now, his mind not tracing circles around the dozens of mistakes he’s made lately and the fool he made himself out to be. It settled only on her, and what he could do better. Humble enough now to know he wasn’t what she deserved, but he wanted to be. Gods how he wanted to be…",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-09T23:19:37.512000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1415114454517022873",
+    "channel_id": "1414705617784016987",
+    "author": {
+      "id": "206175579358232578",
+      "username": ".tsukikage.",
+      "avatar": "a_46c3fb914b80216510fecd78138bfdb7",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Akuma",
+      "avatar_decoration_data": {
+        "asset": "a_35e64c0eb789d6019a76b1e95ba13497",
+        "sku_id": "1479191582002516020",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614102036581",
+          "asset": "nameplates/nameplates/cherry_blossoms/",
+          "label": "COLLECTIBLES_NAMEPLATES_CHERRY_BLOSSOMS_A11Y",
+          "palette": "berry"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 4,
+        "colors": [
+          12189699
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      },
+      "primary_guild": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 11
+  },
+  {
+    "type": 0,
+    "content": "\"I don't know what it's going to take to get past this for me,\" Zašia admitted. \"To not be afraid that being open around you isn't going to just... allow everyone to know that any unkind thing you might say about me in the future must be true, because everyone's seen us together, so you would know.\"\n\nShe fell silent for a moment, then let out an unbidden laugh in spite of herself. A single, rueful bark. \"Do you know how much I hate that I melt just to look at you? You fear a knife to your heart, and I fear the same, but the kind that I have to continue to live through over and over again.\" She shook her head quickly. \"I meant to be so aloof, to build up *such* walls. To feel nothing for anyone again, until I knew I was strong enough to destroy anyone foolish enough to crush my heart and mar my reputation again.\"\n\nThat hadn't happened. It never would.\n\n\"Instead, every time I'm with you, I hand you that knife and I wrap your fingers around the hilt, and I hope you won't use it.\" She smiled sadly to him, commiserating. \"It's hell not to trust fully. I feel the way you grow tense when I do something unexpected.\" She knows she impacts him, too.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-10T00:04:09.335000+00:00",
+    "edited_timestamp": "2025-09-11T13:35:00.803000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1415125660954919013",
+    "channel_id": "1414705617784016987",
+    "author": {
+      "id": "128691687169064961",
+      "username": "electrochemistry",
+      "avatar": "15c510b31c8fa3c1333544dd821136c8",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1382845914192023632",
+          "asset": "nameplates/nameplates_v3/aurora/",
+          "label": "COLLECTIBLES_NAMEPLATES_CAT_BEANS_A11Y",
+          "palette": "teal"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 2,
+        "colors": [
+          14963742,
+          16711568
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      },
+      "primary_guild": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 12
+  },
+  {
+    "type": 0,
+    "content": "Her words sparked it in him at that moment, at last something stoked the flame in his mind to find a way to connect with her, to make it clear to her that he was trusting her with a knife just as much as she was to him. He stood from the chair, and quietly walked over to his desk. He said not a word to her, didn’t pass her a glance. Not until he pulled one of the mahogany drawers open, and sunk his living hand in to fish something significant out of what was clearly a false bottom that he likely installed himself. \n\nHe then closed it, turned with something clutched in his hand and strode to her - confident and ‘long spined’ as she referred to it earlier that day in the Inverse Layer. \n\nHe dropped his eyes to her hands and parted lips to speak to her. “Please hold out your hand for me.” He kindly requested, and if she did he would set something brass and sturdy into her palm — and then he’d close her fingers around it. He kept his own interlocked around her hand as she clutched what he deposited into her palm. The gaze he settled on her wasn’t one of expectation but empathy. He wanted her to know he understood what she said and what he had to offer was in earnest to meet her own expectation or to at least soothe her.\n\n“Then allow me to hand you your own knife and wrap your fingers around the hilt…and hope you won’t use it.” He said simply. And if she would allow it, he would bring her hand up to kiss the top before he’d finally release it so she could look down at what he gave her — if she hadn’t figured it out by the shape already. \n\n> *A key. Metaphorically, and in many ways literally, to his heart. She was now the sole owner outside of him to one of his few weaknesses; unlimited access to his chambers where she could hide and assassinate him, or sneak in at night to do the same.*\n\n“Hopefully,” he whispered intently at her while standing over her and reaching his fingers to cup her cheek and tilt her head back to look up at him while a faintest color tinged his cheeks. “This proves *something* to you.” And what it meant to her, he’d leave up to her.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-10T00:43:18.302000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1415135513236607017",
+    "channel_id": "1414705617784016987",
+    "author": {
+      "id": "206175579358232578",
+      "username": ".tsukikage.",
+      "avatar": "a_46c3fb914b80216510fecd78138bfdb7",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Akuma",
+      "avatar_decoration_data": {
+        "asset": "a_35e64c0eb789d6019a76b1e95ba13497",
+        "sku_id": "1479191582002516020",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614102036581",
+          "asset": "nameplates/nameplates/cherry_blossoms/",
+          "label": "COLLECTIBLES_NAMEPLATES_CHERRY_BLOSSOMS_A11Y",
+          "palette": "berry"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 4,
+        "colors": [
+          12189699
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      },
+      "primary_guild": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 13
+  },
+  {
+    "type": 0,
+    "content": "He'd practically had to pry that hand from it's hold on the other, for all that she hadn't realized the vise grip had happened until his own was there and coaxing. She felt the shape of it in her palm and knew what she held (in the literal sense) without him having to say. Her eyes were fixed on him. She didn't spare a single glance down.\n\nVornakir could feel her cheek warm beneath her hand as color crept up on her as well. Against her pale skin, it showed a brighter pink than his own. \"Are you certain?\" she asked him, eyes searching his for signs of doubt. \"You... You don't have to. I don't want you to feel—\"\n\nUnsafe. That was the entire point of this exchange. She shook her head. \"I have nothing to give you in return.\" It hardly felt an even exchange. She didn't consider that he already held one of her deepest secrets.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-10T00:50:04.146000+00:00",
+    "edited_timestamp": "2025-09-11T13:36:50.288000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1415137215469719562",
+    "channel_id": "1414705617784016987",
+    "author": {
+      "id": "128691687169064961",
+      "username": "electrochemistry",
+      "avatar": "15c510b31c8fa3c1333544dd821136c8",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1382845914192023632",
+          "asset": "nameplates/nameplates_v3/aurora/",
+          "label": "COLLECTIBLES_NAMEPLATES_CAT_BEANS_A11Y",
+          "palette": "teal"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 2,
+        "colors": [
+          14963742,
+          16711568
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      },
+      "primary_guild": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 14
+  },
+  {
+    "type": 0,
+    "content": "There wasn’t doubt present. The luster of his eyes only shone more as he bore his stare straight back into her soul. “There’s a Drow saying, that roughly translates to ‘Love can only fill the space that trust carves out of you’. It’s meant to not only tell you that you can’t love if you can’t trust someone, but to show that both of those things play a part. Trusting someone is leaving yourself vulnerable to another - carving a hole inside you. Their love is what fills that void *after*, proving they were worth the trust.” He recited.  But keeping her head tilted back, he refused to break eye contact or to remove his hand from her face. \n\n“I am certain. I don’t want anything *from* you, Zašia. That’s been the point of every conversation we have. I don’t want your name. I don’t want your body, not for the reasons you fear anyway. I don’t want your status. I don’t want *anything* from you.”\n\nAt that point he would lower himself to meet her eye level in a difficult squat, wincing at the soreness that wrecked his lower body but he endured it for her. It was important that he metaphorically and literally brought himself down to her level instead of being above her to offer his reply.\n\n> *”I just want you.”*\n\nHe started to finally take his hand back, not realizing that he whispered those last few words followed by a couple of words that could only be the natural Drow tongue — Elvish to be sure, but it was a dialect unique to The Barricade. \n\n*”Ulst Isilme…”* || *”My Moonlight…”* ||",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-10T01:06:21.528000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1415141314906816583",
+    "channel_id": "1414705617784016987",
+    "author": {
+      "id": "206175579358232578",
+      "username": ".tsukikage.",
+      "avatar": "a_46c3fb914b80216510fecd78138bfdb7",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Akuma",
+      "avatar_decoration_data": {
+        "asset": "a_35e64c0eb789d6019a76b1e95ba13497",
+        "sku_id": "1479191582002516020",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614102036581",
+          "asset": "nameplates/nameplates/cherry_blossoms/",
+          "label": "COLLECTIBLES_NAMEPLATES_CHERRY_BLOSSOMS_A11Y",
+          "palette": "berry"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 4,
+        "colors": [
+          12189699
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      },
+      "primary_guild": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 15
+  },
+  {
+    "type": 0,
+    "content": "Zašia grabbed for his hand, the key pressed between their joined palms, and pushed herself up to meet his lips with hers, cupping the side of his face with her free hand after getting to her feet enough not to need that hand on the mattress to steady her. \n\nShe pressed him backward with slow, deliberate steps and a guiding hand, carefully navigating the space and turning them so that when they arrived at the wall, her back was pressed to it and not his. Only then did she part from him, staring up with bright eyes and a flushed face. \"Mine,\" she whispered, tucking the key into the pocket of her robe. She then took his hand and brought it to rest over her heart.\n\n\"Yours.\"",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-10T06:43:07.420000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1415226064560459887",
+    "channel_id": "1414705617784016987",
+    "author": {
+      "id": "128691687169064961",
+      "username": "electrochemistry",
+      "avatar": "15c510b31c8fa3c1333544dd821136c8",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1382845914192023632",
+          "asset": "nameplates/nameplates_v3/aurora/",
+          "label": "COLLECTIBLES_NAMEPLATES_CAT_BEANS_A11Y",
+          "palette": "teal"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 2,
+        "colors": [
+          14963742,
+          16711568
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      },
+      "primary_guild": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 16
+  },
+  {
+    "type": 0,
+    "content": "He didn't resist, welcoming her even to make a move *at last*. Not that she never had in the past, but right now it meant more to him than any other time she made the first physical move. And she knew him so well, that instinct of putting her own back to the wall instead of his speaking to various facets of his personality that just showed how well she knew him. \n\nHe let her guide his hand, but right after he would shift it around to tangle their pinkies across each other - After of course letting his palm feel the thrumming of her heart for several moments. \"I promise I'll prove to you that it's worth your time.\" And with that, he sunk forward against her again if she allowed to ensnare her lips into a sweet embrace that would set the tone for the rest of the evening.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-10T07:08:36.854000+00:00",
+    "edited_timestamp": "2025-09-10T07:08:42.960000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1415232479471861821",
+    "channel_id": "1414705617784016987",
+    "author": {
+      "id": "206175579358232578",
+      "username": ".tsukikage.",
+      "avatar": "a_46c3fb914b80216510fecd78138bfdb7",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Akuma",
+      "avatar_decoration_data": {
+        "asset": "a_35e64c0eb789d6019a76b1e95ba13497",
+        "sku_id": "1479191582002516020",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614102036581",
+          "asset": "nameplates/nameplates/cherry_blossoms/",
+          "label": "COLLECTIBLES_NAMEPLATES_CHERRY_BLOSSOMS_A11Y",
+          "palette": "berry"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 4,
+        "colors": [
+          12189699
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      },
+      "primary_guild": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 17
+  },
+  {
+    "type": 0,
+    "content": "\"You already are,\" she murmured. Eyes fluttering shut, she let out a small sigh of contentment as that tension stemming from the fear of rejection melted away. Zašia allowed him to lay his claim to her for the night...\n\nAnd wouldn't care who saw her leave come morning.\n\n*~fin~*",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-10T07:19:04.340000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1415235111338905631",
+    "channel_id": "1414705617784016987",
+    "author": {
+      "id": "128691687169064961",
+      "username": "electrochemistry",
+      "avatar": "15c510b31c8fa3c1333544dd821136c8",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1382845914192023632",
+          "asset": "nameplates/nameplates_v3/aurora/",
+          "label": "COLLECTIBLES_NAMEPLATES_CAT_BEANS_A11Y",
+          "palette": "teal"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 2,
+        "colors": [
+          14963742,
+          16711568
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      },
+      "primary_guild": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 18
+  },
+  {
+    "type": 4,
+    "content": "Love is Just Another Four-Letter Word [closed]",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-10T07:19:29.204000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1415235215625949214",
+    "channel_id": "1414705617784016987",
+    "author": {
+      "id": "128691687169064961",
+      "username": "electrochemistry",
+      "avatar": "15c510b31c8fa3c1333544dd821136c8",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1382845914192023632",
+          "asset": "nameplates/nameplates_v3/aurora/",
+          "label": "COLLECTIBLES_NAMEPLATES_CAT_BEANS_A11Y",
+          "palette": "teal"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 2,
+        "colors": [
+          14963742,
+          16711568
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      },
+      "primary_guild": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 19
+  },
+  {
+    "type": 0,
+    "content": "+5 Development Points for all involved",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-21T00:13:14.733000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1419114215041400943",
+    "channel_id": "1414705617784016987",
+    "author": {
+      "id": "160196380323741696",
+      "username": "stressey_depressey",
+      "avatar": "6c13924df052a42e883dd40885075e9d",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "StresseyDepressey",
+      "avatar_decoration_data": {
+        "asset": "a_94191be95bb9c471ff17644f3639eb6d",
+        "sku_id": "1293373563184877618",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614173339688",
+          "asset": "nameplates/nameplates/spirit_of_spring/",
+          "label": "COLLECTIBLES_NAMEPLATES_SPIRIT_OF_SPRING_A11Y",
+          "palette": "sky"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 8,
+        "effect_id": 5,
+        "colors": [
+          747943
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 20
+  }
+]

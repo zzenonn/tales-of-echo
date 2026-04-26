@@ -1,0 +1,1706 @@
+[
+  {
+    "type": 0,
+    "content": "The parcel hadn't been large, but still larger than its recipient had expected. The card attached indicated that it came from her elder sister, who sent her love along with a piece from her wardrobe that she recalled was admired. Untying the string and peeling aside the plain paper, any hopes she had for what she might find there lost the wings to fly and fell crashing back on terra firma. Zašia had hoped to find blue silk, but instead met with its polar opposite.\n\n\"I said I liked it *on you*,\" she muttered, as if her sister could hear the response. With a defeated sigh, she unpackaged the dress and put it on a hanger and set that on a hook on her door.\n\n> *Can't wait to see you in this! Good luck on Sponsorship Day, Zša-Zša.*\n> \n> *\\- Mal*\n\nAmalia got her eye for what looked good on Zašia from their great uncle, she was certain now.\n\nResigned, she retrieved her sewing kit — her *serious* one, not the small one she used to repair buttons or loose seams. This was going to take effort that she would rather spend on her studies, but if her sister sent her a dress, then she had better be prepared to wear it. Was she coming for Sponsorship Day? Who the hell knew? Mal enjoyed the freedom to come and go with the wind, something her little sister envied.\n\nThe elder two Silverspan siblings were of marriageable age before scandal rocked their family, when their connections were more solid and their futures still shined brightly. They'd married who they chose, for love and companionship, and had their happiness. Rainier and Zašia were not so fortunate. It was up to them to forge new connections with more powerful families and help polish away the tarnish on their name.\n\nIt would be possible to do this alone, but it would be easier and go faster with a little bit of help.  Quietly, Zašia tapped on her dormmate's door.\n\n\"Sol?\" Her voice was equally soft, hoping to avoid disturbing him if he was resting between classes. \"Do you have a moment?\"",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-10-30T19:03:47.138000+00:00",
+    "edited_timestamp": "2025-10-30T19:03:56.149000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1433531851527426228",
+    "channel_id": "1433479305522057236",
+    "author": {
+      "id": "128691687169064961",
+      "username": "electrochemistry",
+      "avatar": "15c510b31c8fa3c1333544dd821136c8",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1382845914192023632",
+          "asset": "nameplates/nameplates_v3/aurora/",
+          "label": "COLLECTIBLES_NAMEPLATES_CAT_BEANS_A11Y",
+          "palette": "teal"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 2,
+        "colors": [
+          14963742,
+          16711568
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      },
+      "primary_guild": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0
+  },
+  {
+    "type": 0,
+    "content": "The door clicked open after only a moment. Sol had been pacing his room like a man possessed. A long strip of black fabric was bunched in one fist, emerald-green thread held between his teeth as though clamped there to keep from losing it to the chaotic depths of his workspace.\n\n“Mmff—yeah? What’s uu—” he started, the words hopelessly muffled around the thread.\n\nThen his eyes finally focused on what hung from the hook behind her.\n\nThe green thread nearly fell from his mouth.\n\nHe leaned sideways, head tilting like a curious raven. The intensity in his gaze softened into something amused.\n\n“Huh. *Interesting choice*.” He plucked the thread free so he could speak properly, gesturing vaguely at the dress. “Not exactly your usual style.”\n\nThere was no bite behind the words. Just an honest critique dressed up as casual teasing.\n\n“But hey,” Sol continued, stepping back to give her room to enter, “I respect experimentation. Trying new things is half the fun of being alive, right?”\n\nOnly then did he remember the thread and fabric dangling from his hand. He dropped them on his desk and smiled. “So, what’s up?” he asked.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-10-30T20:11:49.046000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1433548972290605067",
+    "channel_id": "1433479305522057236",
+    "author": {
+      "id": "155436835013656576",
+      "username": "pyroshadow",
+      "avatar": "ed853f9f1777de28c22f287e735ce2b1",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nightingale",
+      "avatar_decoration_data": {
+        "asset": "a_670b722e56740d11d1e6fe55b8094013",
+        "sku_id": "1343751617303805983",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712028516443",
+          "asset": "nameplates/nameplates_v2/spirit_moon/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SPIRIT_MOON_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 8,
+        "effect_id": 2,
+        "colors": [
+          3163762,
+          9709528
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      },
+      "primary_guild": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 2
+  },
+  {
+    "type": 0,
+    "content": "Zašia glance behind her and saw the door had yawned open in her wake. Her shoulders slumped, her head dipping a little as she turned back, scratching the back of her neck. \"My sister sent it to me,\" she half-groaned. \"I made the mistake of telling her I thought it looked lovely. And it did, but it's...\"\n\nCheeks puffing out with an exhale, she left that statement to dangle. To say it wasn't her style was an understatement. \"I was wondering if you had a dressmaker's dummy I could borrow. It's just easier, no? I have to take in the waist.\" Her voice dropped to a low mutter. \"And the bust.\" At least she didn't need to worry about the hips, which she would have if she'd gotten the blue dress she'd hoped for. It would have been more work, but at least it wouldn't have been *that.*\n\n\"I can handle all the rest of it. I'm used to tailoring my own clothes. If you just have...\" Leaning slightly to look around Sol, her eyes narrowed faintly in assessment. \"An extra you aren't using, I suppose.\" Straightening up again, she held up her hands. \"But if it's all in use, that's fine. I'll make do. Just thought I'd check...\"",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-10-30T20:20:05.586000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1433551054930317482",
+    "channel_id": "1433479305522057236",
+    "author": {
+      "id": "128691687169064961",
+      "username": "electrochemistry",
+      "avatar": "15c510b31c8fa3c1333544dd821136c8",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1382845914192023632",
+          "asset": "nameplates/nameplates_v3/aurora/",
+          "label": "COLLECTIBLES_NAMEPLATES_CAT_BEANS_A11Y",
+          "palette": "teal"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 2,
+        "colors": [
+          14963742,
+          16711568
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      },
+      "primary_guild": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 3
+  },
+  {
+    "type": 0,
+    "content": "Sol let out a soft laugh, the kind that said *oh sweet summer child* without needing the words.\n\n“Zašia. Have you *met* me?”\n\nHe pointed to the corner of his room. There, half-buried beneath discarded pattern paper and a crime scene of thread spools, stood a mannequin draped in clashing shades of violet.\n\n“I have *five* mannequins,” he said, concentrating on the fine stitching of the fabric.\n\nHis eyes flicked toward the mannequin as if offended by its current state.\n\n“I was testing colors for your Sponsorship Day look,” he clarified. “You can take that one if you want. I’m not using it right now.”\n\nSol walked over to the mannequin and disentangled a measuring tape from its neck, offering it to her with a grin.\n\n“And for the record,” he added, head canting thoughtfully, “I can help make that dress look more like you. It just needs a little zhuzhing up.”",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-10-30T22:58:16.196000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1433590861433671821",
+    "channel_id": "1433479305522057236",
+    "author": {
+      "id": "155436835013656576",
+      "username": "pyroshadow",
+      "avatar": "ed853f9f1777de28c22f287e735ce2b1",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nightingale",
+      "avatar_decoration_data": {
+        "asset": "a_670b722e56740d11d1e6fe55b8094013",
+        "sku_id": "1343751617303805983",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712028516443",
+          "asset": "nameplates/nameplates_v2/spirit_moon/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SPIRIT_MOON_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 8,
+        "effect_id": 2,
+        "colors": [
+          3163762,
+          9709528
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      },
+      "primary_guild": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 4
+  },
+  {
+    "type": 0,
+    "content": "Violet eyes blinked rapidly, as if surprised to hear that there was actually going to be something made for her. Zašia felt her jaw grow tight, followed by her throat constricting. Her eyes remained open just a little too wide while she processed how she felt about that.\n\nFinally she let out the breath she realized she was holding as Sol brought the mannequin to her. \"I don't think there's any amount of *zhuzh* that's going to help.\"\n\nZašia glared at the collection of orange taffeta like it personally wronged her. \"Mal has blonde hair like honey and brown eyes and she's not nearly so pale as I am,\" she explained, grimacing. \"That dress looks *amazing* on her, but it's... all kinds of wrong for me.\" She gave a helpless look back to Sol. \"But she wants to see me in it, so...\"\n\nIt was clear she wanted anything but that. It felt like social humiliation waiting to happen. \"So, I'll fit it to myself and be prepared to show it off whenever I happen to see her again.\"\n\n*Goddess. Please don't let her show up for Sponsorship Day. Please, spare me.*",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-10-30T23:06:07.542000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1433592838402342982",
+    "channel_id": "1433479305522057236",
+    "author": {
+      "id": "128691687169064961",
+      "username": "electrochemistry",
+      "avatar": "15c510b31c8fa3c1333544dd821136c8",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1382845914192023632",
+          "asset": "nameplates/nameplates_v3/aurora/",
+          "label": "COLLECTIBLES_NAMEPLATES_CAT_BEANS_A11Y",
+          "palette": "teal"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 2,
+        "colors": [
+          14963742,
+          16711568
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      },
+      "primary_guild": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 5
+  },
+  {
+    "type": 0,
+    "content": "Sol’s expression softened, turning into quiet understanding. He knew that feeling too well: wanting to make a sibling proud, their approval meaning *everything*.\n\n“I get it,” he said gently. “Trust me. When your sibling believes in you…you want them to see you at your best.” A small smile tugged at his mouth, bittersweet but sincere. “Gods know I’d do ridiculous things if Lucien said he thought it suited me.”\n\nHe steps closer, inspecting the offending orange like he might disintegrate it with enough disdain.\n\n“But Sponsorship Day?” His gaze returned to her, clear and steady. “That’s about *you*, Zašia. It’s about stepping into a room and making everyone there realize exactly who they’re dealing with. And who you are—” he pauses, gesturing to her hair, her eyes, her presence, “—is cool tones, elegance, and quiet power. Not…” He waved at the dress like it smelled terrible. “Pumpkin Queen of the Harvest Festival.”\n\nHe gave a faint wink to soften the jab.\n\n“And if your sister saw this campus, this event, she’d understand that you need something that fits the person you’re becoming here.”\n\nHe tapped his finger thoughtfully against his chin, pacing a slow semicircle around the dress as an idea unfurled in his mind.\n\n“But.” \n\nHis smile returned.\n\n“If it would make her happy to know she’s part of your big moment, I can do something better than altering the dress.” He pinched a bit of the orange fabric between his fingers, studying it with reluctance. “We can take *pieces* of it and weave it into what I’m already making.”\n\nHe looked up at her again, steady and sure.\n\n“That way she’ll be with you, *you’ll* be the one shining, and we can show everyone who Zašia Silverspan truly is.”",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-10-31T00:23:41.372000+00:00",
+    "edited_timestamp": "2025-10-31T00:25:39.861000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1433612357979869326",
+    "channel_id": "1433479305522057236",
+    "author": {
+      "id": "155436835013656576",
+      "username": "pyroshadow",
+      "avatar": "ed853f9f1777de28c22f287e735ce2b1",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nightingale",
+      "avatar_decoration_data": {
+        "asset": "a_670b722e56740d11d1e6fe55b8094013",
+        "sku_id": "1343751617303805983",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712028516443",
+          "asset": "nameplates/nameplates_v2/spirit_moon/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SPIRIT_MOON_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 8,
+        "effect_id": 2,
+        "colors": [
+          3163762,
+          9709528
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      },
+      "primary_guild": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 6
+  },
+  {
+    "type": 0,
+    "content": "Again, she felt her jaw get tight, and when she took a breath in, it felt like there wasn't enough space in her lungs for it to all fit. The smile was returned, but small and a little uncertain.\n\nWhy did she feel so sick?\n\n\"It does mean something that she sent this,\" she admitted in a quiet voice, \"and I *hate* it for me, but she might want it back later, and if we use it for scrap...\"\n\nZašia shook her head quickly. \"No, I'll just alter it to fit me and I'll plan to wear it at some other event. If she arrives for Sponsorship Day, I'll just... try to assuage any hurt feelings she may have.\"\n\nShe smiled with a little more strength, but there was still tumult in her eyes. \"I appreciate the offer, though. I really, truly do. It... means a lot that you would want to help me out like that.\" She lifted her chin and let out a sigh. \"But I'm used to this. When she was with child, she had me go through and take what I wanted from her closet.\" Picking at the sleeve of her blouse, she shrugged. \"I chose all the neutral tones I could.\"\n\nIt was true. He'd seen her mostly in ivories, whites, creams, but with violet accents. Even those were few, reused often with different outfits. Nothing wrong with that, but it certainly didn't present an image of extravagance that one might expect from a prominent noble house.\n\nProminent, but minor, and shaken by quiet scandal. Zašia shouldered much of the burden that came from that with more grace than most may have mustered. Her eyes strayed again to the dress, posture sagging by degrees.\n\nHer newfound confidence had been shaken by the attack on Vornakir's life and the realization that the only way she'd been able to protect him was by destroying the node. If they'd been anywhere else, that encounter would likely have ended very differently.\n\nZašia scanned Sol's face keenly for signs of falsehood in his response as she asked, \"Who *am* I, truly, in your eyes?\"",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-10-31T01:14:59.757000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1433625269662384229",
+    "channel_id": "1433479305522057236",
+    "author": {
+      "id": "128691687169064961",
+      "username": "electrochemistry",
+      "avatar": "15c510b31c8fa3c1333544dd821136c8",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1382845914192023632",
+          "asset": "nameplates/nameplates_v3/aurora/",
+          "label": "COLLECTIBLES_NAMEPLATES_CAT_BEANS_A11Y",
+          "palette": "teal"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 2,
+        "colors": [
+          14963742,
+          16711568
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      },
+      "primary_guild": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 7
+  },
+  {
+    "type": 0,
+    "content": "Sol looked at his friend, warmth spreading across his face like a small fire.\n\nAt her question, he didn’t rush to fill the silence. He let himself honestly *look* at her: at the tension in her jaw, the way she held herself like someone bracing for a blow that might never come.\n\nWhen he spoke, his voice was low, sure, and without a shred of performative charm:\n\n“In my eyes?” He took a tiny step closer, just enough to make the words feel meant for her and her alone.\n“You’re a brilliant caster, who keeps trying to pretend she isn’t.” A faint smile tugged at his mouth. “Smart as hell, even when you talk yourself out of believing it.”\n\nHe tilted his head, taking in her posture, her eyes, all the quiet strength she didn’t realize she wore.\n\n“You’re beautiful,” he said plainly. “The kind of beauty that makes a room go quiet without even trying.”\n\nHe let that land for a heartbeat before continuing:\n\n“You’re a fiercely loyal friend; the kind of person who sees someone she cares about in danger and decides *the world itself* can break before she lets them fall.”\n\nHis smile sharpened just a fraction, affection layered in the edge.\n\n“And, you’re stubborn as fuck.”\nA soft huff of a laugh. “But so am I. So… we’re alike in that regard.”\n\nSol glanced briefly toward the orange dress, then back to her, his gaze unwavering.\n\n“You carry more than people know. Probably more than you should have to. But none of that,” he gestured gently to \nher head, “changes who you are.”\n\nHe paused, making sure she was hearing every word:\n\n“In my eyes, Zašia Silverspan…you are someone who deserves to walk into Sponsorship Day wearing something that shows the world exactly how powerful you already are. Not something that makes you feel small.”\n\nA final, quiet beat:\n\n“And I’ll remind you of that as many times as you need, until *you* see it too.”",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-10-31T10:54:06.405000+00:00",
+    "edited_timestamp": "2025-10-31T10:56:36.514000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1433771007667077253",
+    "channel_id": "1433479305522057236",
+    "author": {
+      "id": "155436835013656576",
+      "username": "pyroshadow",
+      "avatar": "ed853f9f1777de28c22f287e735ce2b1",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nightingale",
+      "avatar_decoration_data": {
+        "asset": "a_670b722e56740d11d1e6fe55b8094013",
+        "sku_id": "1343751617303805983",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712028516443",
+          "asset": "nameplates/nameplates_v2/spirit_moon/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SPIRIT_MOON_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 8,
+        "effect_id": 2,
+        "colors": [
+          3163762,
+          9709528
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      },
+      "primary_guild": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 8
+  },
+  {
+    "type": 0,
+    "content": "Zašia wore a mask of composure, but the eyes that looked out from behind it showed Sol what lay beneath. The next breath she took again felt too shallow. Her gaze shifted askance as he listed off the qualities in saw in her, only coming up when he called attention to her beauty.\n\n*Don't mock me.*\n\nShe could and *had* admitted that she was beautiful, noted the effort she put into herself to make that so, but also believed that there were others on campus that routinely eclipsed her entirely and put her beneath notice. She *wanted* to be seen as beautiful, have it acknowledged, but it also made her feel defensive. She both desired to be underestimated because of her beauty, but also loathed and resented it. A dual-edged sword if there ever was one.\n\nThere was *so* much else there beside that note, though. Her brow pinched slightly as he went on, almost as if flinching away from each compliment. Finally he completed his list and she cast her gaze down again. \"Thank you,\" she murmured, her voice still low, meek. \"I don't even know if—\"\n\nThe last note on that aborted sentence sounded sharper, suggesting the next word she was leaning into also held a sharper edge than the consonant in the last syllable before it. She shook her head, dismissing the entire notion. \"Thank you,\" she simply offered again. \"That's all very kind of you to say.\"",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-10-31T15:06:32.094000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1433834533291032708",
+    "channel_id": "1433479305522057236",
+    "author": {
+      "id": "128691687169064961",
+      "username": "electrochemistry",
+      "avatar": "15c510b31c8fa3c1333544dd821136c8",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1382845914192023632",
+          "asset": "nameplates/nameplates_v3/aurora/",
+          "label": "COLLECTIBLES_NAMEPLATES_CAT_BEANS_A11Y",
+          "palette": "teal"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 2,
+        "colors": [
+          14963742,
+          16711568
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      },
+      "primary_guild": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 9
+  },
+  {
+    "type": 4,
+    "content": "[closed] Take It In/Let It Out",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-10-31T17:04:01.609000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1433864101100130335",
+    "channel_id": "1433479305522057236",
+    "author": {
+      "id": "128691687169064961",
+      "username": "electrochemistry",
+      "avatar": "15c510b31c8fa3c1333544dd821136c8",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1382845914192023632",
+          "asset": "nameplates/nameplates_v3/aurora/",
+          "label": "COLLECTIBLES_NAMEPLATES_CAT_BEANS_A11Y",
+          "palette": "teal"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 2,
+        "colors": [
+          14963742,
+          16711568
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      },
+      "primary_guild": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 10
+  },
+  {
+    "type": 0,
+    "content": "Sol let out a soft laugh,  amused at a truth he recognized instantly.\n\n“You are *terrible* at taking compliments,” he said, eyes narrowing just enough to show the mask she tried to hide behind didn’t fool him.\n\nHe stepped back toward his desk, lifting the black fabric he’d been working with, but kept his gaze on her a moment longer.\n\nHis tone was tone sly but gentle, “I can see right through that perfectly poised Silverspan composure you know?”\n\nHe gave her a soft shrug, “You don’t have to believe every nice thing I say yet, but I can give you time for them to settle with them.”\n\nHe nodded toward the mannequin, “Now go tame that pumpkin dress. And when you’re ready?”\n\nHis smile returned, bright and excited. “I’ll have something waiting for you that that makes you shines.”",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-01T19:59:10.012000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1434270564402462952",
+    "channel_id": "1433479305522057236",
+    "author": {
+      "id": "155436835013656576",
+      "username": "pyroshadow",
+      "avatar": "ed853f9f1777de28c22f287e735ce2b1",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nightingale",
+      "avatar_decoration_data": {
+        "asset": "a_670b722e56740d11d1e6fe55b8094013",
+        "sku_id": "1343751617303805983",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712028516443",
+          "asset": "nameplates/nameplates_v2/spirit_moon/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SPIRIT_MOON_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 8,
+        "effect_id": 2,
+        "colors": [
+          3163762,
+          9709528
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      },
+      "primary_guild": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 11
+  },
+  {
+    "type": 0,
+    "content": "Zašia laughed self-consciously, wincing faintly. \"Yeah, so I've been told.\" She was apologetic about that. She never rejected any one of those compliments, but she held them. When she'd need one later, she would have one at the ready.\n\n\"Well,\" she said of her imperfect mask, \"we can't all be accomplished illusionists.\" She lifted the mannequin he was lending to her and smiled genuinely, gracious. \"Thank you. I'll have this back to you as soon as I can.\"\n\n----\n\nIt didn't take her more than a night to finish those alterations, but she'd also simply disappeared after classes. After grabbing something to eat from the kitchen, she hadn't fully managed to close the door with her foot, and Sol spied her with a mouth full of pins, diligently stitching darts that created a fan-like effect across the back of the dress.\n\nCome to think of it, he'd seen that technique on a few of her blouses and jackets. This was not the first time she'd nipped a waist in this way.\n\nWhen she was done, she hung the dress up in the back of her wardrobe to not be looked upon again until she had to do herself the indignity of wearing it. Then, she hauled the mannequin out into the hallway to return it to its owner, knocking gently on his door once again.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-01T21:49:36.090000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1434298356187926548",
+    "channel_id": "1433479305522057236",
+    "author": {
+      "id": "128691687169064961",
+      "username": "electrochemistry",
+      "avatar": "15c510b31c8fa3c1333544dd821136c8",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1382845914192023632",
+          "asset": "nameplates/nameplates_v3/aurora/",
+          "label": "COLLECTIBLES_NAMEPLATES_CAT_BEANS_A11Y",
+          "palette": "teal"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 2,
+        "colors": [
+          14963742,
+          16711568
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      },
+      "primary_guild": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 12
+  },
+  {
+    "type": 0,
+    "content": "Sol opened the door with a smile, “Hey, thanks!”\n\nHe took the mannequin from her arms and nudged it inside with his foot. Then he paused, glanced over his shoulder toward his workspace, and a slow, proud smile lit his face.\n\n“Oh, actually? *Perfect* timing!”\n\nHe stepped aside just enough for her to see into his room; a full lineup of finished Sponsorship Day outfits were displayed like a private runway show at the back of the room.\n\nHe pointed directly to the one nearest the front. The white off-the-shoulder blouse with lilac-stitched flowers, the sharp black corset featuring silver vines and crystals, the layered belt adorned with chess-piece charms, and the queen gleaming brightest; every detail unmistakably Zašia.\n\nSol gestured toward it with both hands, almost reverently.\n\n“So,” he said, smile softening, “what do you think?”",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-02T17:39:09.491000+00:00",
+    "edited_timestamp": "2025-11-02T17:39:57.573000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1434597717929230449",
+    "channel_id": "1433479305522057236",
+    "author": {
+      "id": "155436835013656576",
+      "username": "pyroshadow",
+      "avatar": "ed853f9f1777de28c22f287e735ce2b1",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nightingale",
+      "avatar_decoration_data": {
+        "asset": "a_670b722e56740d11d1e6fe55b8094013",
+        "sku_id": "1343751617303805983",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712028516443",
+          "asset": "nameplates/nameplates_v2/spirit_moon/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SPIRIT_MOON_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 8,
+        "effect_id": 2,
+        "colors": [
+          3163762,
+          9709528
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      },
+      "primary_guild": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 13
+  },
+  {
+    "type": 0,
+    "content": "Zašia's brows lifted at the assertion that she'd come by at just the right time. \"Oh?\" Her head tilted, gaze shifting to view the space he was no longer obstructing. She smiled faintly, a smile that grew and warmed as she took in the designs of the outfits for her dormmates.\n\nThen her eyes landed on the distinctly feminine form and the smile ran away from her face. She stood confused, as if unable to make sense of what she was seeing. *Surely* that wasn't meant for her. Sol must've been designing for a friend from class. Something like that.\n\nBut the floral stitching. The purple accents. The inclusion of chess pieces. Her breath caught in her throat.\n\nWith wide eyes and a soft mouth, she just stared at Sol for a long moment before she managed to find her voice, but only just. It was merely a squeak when she spoke, positively overwhelmed by emotion.\n\n\"*That's for me?*\"",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-05T23:28:52.664000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1435772891332350086",
+    "channel_id": "1433479305522057236",
+    "author": {
+      "id": "128691687169064961",
+      "username": "electrochemistry",
+      "avatar": "15c510b31c8fa3c1333544dd821136c8",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1382845914192023632",
+          "asset": "nameplates/nameplates_v3/aurora/",
+          "label": "COLLECTIBLES_NAMEPLATES_CAT_BEANS_A11Y",
+          "palette": "teal"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 2,
+        "colors": [
+          14963742,
+          16711568
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      },
+      "primary_guild": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 14
+  },
+  {
+    "type": 0,
+    "content": "Sol blinked at her, then let out the kind of laugh that only slipped when someone said something adorably absurd.\n\n“*For you?*” he echoed, as if the question were the strangest thing he’d heard all week. “Zašia, who else would it be for? *Diana?!*” He laughed until he couldn’t breathe anymore. “Please. I don’t make clothes for just anyone.”\n\nHe stepped a little closer to the mannequin and tipped his head, eyes bright with sincerity beneath the teasing.\n\n“I only design for the special ones.”\n\nA slight shrug, playful but sincere: “And you’re very high on that list.”\n\nHe lifted the edge of the jacket’s hem carefully between his fingers, letting the amethyst thread glimmer under the light.\n\n“This was designed for you: for your mind, for your magic, for the way you move when you’re focused. I wanted something that didn’t just sit *on* you…” His gaze flicked up to meet hers again. “…but something that feels like it’s *part* of you.”\n\nSol stepped back, offering her space to approach it.\n\n“Go on,” he encouraged, softening his voice. “Take a closer look.”",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-06T02:46:49+00:00",
+    "edited_timestamp": "2025-11-06T02:47:38.041000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1435822704295940257",
+    "channel_id": "1433479305522057236",
+    "author": {
+      "id": "155436835013656576",
+      "username": "pyroshadow",
+      "avatar": "ed853f9f1777de28c22f287e735ce2b1",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nightingale",
+      "avatar_decoration_data": {
+        "asset": "a_670b722e56740d11d1e6fe55b8094013",
+        "sku_id": "1343751617303805983",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712028516443",
+          "asset": "nameplates/nameplates_v2/spirit_moon/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SPIRIT_MOON_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 8,
+        "effect_id": 2,
+        "colors": [
+          3163762,
+          9709528
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      },
+      "primary_guild": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 15
+  },
+  {
+    "type": 0,
+    "content": "Zašia entered the room with steps as hesitant as a newborn fawn's. In spite of his teasing and assurances, she still held some disbelief. As she approached, the fine detail came into clearer view and she gasped softly in wonder and appreciation.\n\nShe met his gaze when he sought hers. Still dumbstruck, she only blinked. Then, she turned back to the attire and carefully reached out to feel the fabric of the jacket between her fingers. She admired the way the amethyst baubles caught the light. The attention to detail and the way she could identify each flower sewn.\n\nThe way that queen *gleamed.*\n\nFinally, she looked up at Sol again. \"I haven't had fine clothing that was just mine in *years*.\" Tears glistened in her eyes and she pressed her lips together as though that would hold back the flood of emotion.\n\nIt made sense, when he thought about it. Although she could accessorize and keep things fresh, he noticed her wardrobe was actually quite small, mixing and matching pieces gave the illusion of having more to work with than she truly did. The darts and pleats in her jackets and skirts. Everything was at *least* two seasons out of fashion.\n\nWith hitching breaths, audible and pitchy, her voice still scratchy, she praised his work. \"It's beautiful. Incredible.\" Zašia shook her head almost helplessly. \"*Thank you.*\"",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-06T02:56:57.980000+00:00",
+    "edited_timestamp": "2025-11-06T02:58:24.230000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1435825258543448124",
+    "channel_id": "1433479305522057236",
+    "author": {
+      "id": "128691687169064961",
+      "username": "electrochemistry",
+      "avatar": "15c510b31c8fa3c1333544dd821136c8",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1382845914192023632",
+          "asset": "nameplates/nameplates_v3/aurora/",
+          "label": "COLLECTIBLES_NAMEPLATES_CAT_BEANS_A11Y",
+          "palette": "teal"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 2,
+        "colors": [
+          14963742,
+          16711568
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      },
+      "primary_guild": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 16
+  },
+  {
+    "type": 0,
+    "content": "Sol’s eyes softened the instant he saw those tears threaten to fall. With a simple flick of his fingers, a small cerulean-colored tissue box floated up from a shelf and drifted toward her, bobbing gently in the air like it wanted to nudge her shoulder.\n\n“I keep these around,” he said, tone light but full of understanding, “because I cry at literally *everything*. Angry cry, proud cry, spilled-coffee-on-my-pants cry, you name it, I’ve been there.”\n\nHe let out a small laugh meant to ease the tightness in her chest.\n\n“And anytime you need a stylist…” His grin grew sheepish but sure. “…or a designer, or someone to tell you you’re the most powerful piece on the board? I’m your guy, okay?”\n\nFor a moment, he watched her brush her fingers across the embroidery, a silent awe hanging in the space between them. Then, with a soft lift of his brow, he gestured toward the outfit with open arms:\n\n“Whenever you’re ready, Zašia, it’s yours.”",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-06T05:33:44.530000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1435864712473481217",
+    "channel_id": "1433479305522057236",
+    "author": {
+      "id": "155436835013656576",
+      "username": "pyroshadow",
+      "avatar": "ed853f9f1777de28c22f287e735ce2b1",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nightingale",
+      "avatar_decoration_data": {
+        "asset": "a_670b722e56740d11d1e6fe55b8094013",
+        "sku_id": "1343751617303805983",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712028516443",
+          "asset": "nameplates/nameplates_v2/spirit_moon/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SPIRIT_MOON_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 8,
+        "effect_id": 2,
+        "colors": [
+          3163762,
+          9709528
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      },
+      "primary_guild": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 17
+  },
+  {
+    "type": 0,
+    "content": "Zašia grabbed a tissue out of the box, then a second, dabbing at her eyes to catch the moisture before it could ruin her meticulously applied make-up.\n\n\"This is one of the nicest things anyone's made for me,\" she said in a soft voice. \"Maybe *the* nicest, next to the gown at my coming out party.\" She looked back at the mannequin and smiled wide. \"If I'd had you to make it, it'd have been even more splendid.\" Of that she was certain. Her dress had been ever so lovely, but it hadn't been made to capture her *character* so strikingly.\n\nHe may have been gesturing toward the outfit, but Sol found himself with an armful of Zašia, hugging him tightly with her face buried against his chest. \"Thank you so much.\"\n\nThis was vastly better than facing the world in a ill-suited orange gown.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-06T05:54:49.547000+00:00",
+    "edited_timestamp": "2025-11-06T05:56:48.314000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1435870018339340318",
+    "channel_id": "1433479305522057236",
+    "author": {
+      "id": "128691687169064961",
+      "username": "electrochemistry",
+      "avatar": "15c510b31c8fa3c1333544dd821136c8",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1382845914192023632",
+          "asset": "nameplates/nameplates_v3/aurora/",
+          "label": "COLLECTIBLES_NAMEPLATES_CAT_BEANS_A11Y",
+          "palette": "teal"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 2,
+        "colors": [
+          14963742,
+          16711568
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      },
+      "primary_guild": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 18
+  },
+  {
+    "type": 0,
+    "content": "The second Zašia’s arms wrapped around him, he hugged her back without hesitation. He held her tight, resting his head on top of her head.\n\nA small, quiet laugh carrying more warmth than amusement escaped him.\n“You’re welcome, Z,” he murmured against her hair.\n\nHe leaned back just enough to look at her, smiling widely. “You deserve it.”\n\nThere was no teasing in his smile this time, just genuine affection.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-07T02:15:38.787000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1436177247919935630",
+    "channel_id": "1433479305522057236",
+    "author": {
+      "id": "155436835013656576",
+      "username": "pyroshadow",
+      "avatar": "ed853f9f1777de28c22f287e735ce2b1",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nightingale",
+      "avatar_decoration_data": {
+        "asset": "a_670b722e56740d11d1e6fe55b8094013",
+        "sku_id": "1343751617303805983",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712028516443",
+          "asset": "nameplates/nameplates_v2/spirit_moon/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SPIRIT_MOON_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 8,
+        "effect_id": 2,
+        "colors": [
+          3163762,
+          9709528
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      },
+      "primary_guild": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 19
+  },
+  {
+    "type": 0,
+    "content": "Drawing back as he did, she smiled up at him, still a shaky and tearful thing, but happy and filled with gratitude. \"Thank you.\" Why were there so few words to express that feeling? She felt like a broken record.\n\n\"You're really nice, you know that, Sol?\"",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-07T02:18:19.160000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1436177920572788887",
+    "channel_id": "1433479305522057236",
+    "author": {
+      "id": "128691687169064961",
+      "username": "electrochemistry",
+      "avatar": "15c510b31c8fa3c1333544dd821136c8",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1382845914192023632",
+          "asset": "nameplates/nameplates_v3/aurora/",
+          "label": "COLLECTIBLES_NAMEPLATES_CAT_BEANS_A11Y",
+          "palette": "teal"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 2,
+        "colors": [
+          14963742,
+          16711568
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      },
+      "primary_guild": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 20
+  },
+  {
+    "type": 0,
+    "content": "Sol barked out a half-genuine, half-performative laugh. “Stop, you’ll ruin my image,” he said, shaking his head with mock severity. “I’ve got this whole *diva* fashion designer thing going on; if people start thinking I’m actually nice, the mystique is gone.” He flicked his fingers dramatically, as if scattering glitter into the air.\n\nHe tilted his head, a crooked grin tugging at his mouth. “Next thing you know, they’ll expect hugs with their fittings and free therapy sessions during alterations.”\n\nThe teasing softened as he looked at her, the traces of laughter fading into warmth. “But I guess I can make an exception for you.”\n\nHe exhaled softly, a smile lingering at the corner of his lips. “So yeah. I’m *‘nice.’* Don’t tell anyone, though, I’ve got a reputation to maintain. Plus, you know you can call me Sunni, right?” He winked.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-07T03:31:23.992000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1436196311891316757",
+    "channel_id": "1433479305522057236",
+    "author": {
+      "id": "155436835013656576",
+      "username": "pyroshadow",
+      "avatar": "ed853f9f1777de28c22f287e735ce2b1",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nightingale",
+      "avatar_decoration_data": {
+        "asset": "a_670b722e56740d11d1e6fe55b8094013",
+        "sku_id": "1343751617303805983",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712028516443",
+          "asset": "nameplates/nameplates_v2/spirit_moon/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SPIRIT_MOON_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 8,
+        "effect_id": 2,
+        "colors": [
+          3163762,
+          9709528
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      },
+      "primary_guild": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 21
+  },
+  {
+    "type": 0,
+    "content": "Zašia looked embarrassed. \"I mean, I'm trying to maintain a reputation as someone who... I don't know, is a frosty loner?\" She ran fingers through her hair self-consciously. \"So, I'll keep your secret if you keep mine, I guess.\"\n\nEveryone in their dorm already knew better, but they aren't who she hid herself away from. They might be her world, but they weren't *the* world.\n\nBut then that expression softened with confusion again. \"I can?\" The renewed smile had a false start, falling just once before it once again found home on her face. \"I wish I had a nickname to offer you in return. Maybe I'll say I'm open to any you come up with?\" She laughed self-consciously, a faintly worried slant coming to her brow. \"Oh, why do I feel I just set myself up for something unflattering?\"",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-07T03:37:21.021000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1436197809379610736",
+    "channel_id": "1433479305522057236",
+    "author": {
+      "id": "128691687169064961",
+      "username": "electrochemistry",
+      "avatar": "15c510b31c8fa3c1333544dd821136c8",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1382845914192023632",
+          "asset": "nameplates/nameplates_v3/aurora/",
+          "label": "COLLECTIBLES_NAMEPLATES_CAT_BEANS_A11Y",
+          "palette": "teal"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 2,
+        "colors": [
+          14963742,
+          16711568
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      },
+      "primary_guild": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 22
+  },
+  {
+    "type": 0,
+    "content": "Sol tapped his chin, pondering her question. “Hmm…‘frosty loner’? Then I suppose we should go with *Frosty*.” He smirked, clearly enjoying himself. “Or maybe *Gambit*, since you play life like it’s a chess match; you have very queen-on-the-board energy.”\n\nHe chuckled, waving a hand as if to brush the joke away. “I’m kidding. Mostly. I’m not cruel enough to let either of those stick, unless you actually start freezing people mid-conversation, then I reserve the right to say I told you so.”\n\nTilting his head, his expression softened, humor mellowing into something easy and genuine. “Honestly? I like *Zee.* It’s simple.”",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-07T16:01:10.253000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1436384997945643069",
+    "channel_id": "1433479305522057236",
+    "author": {
+      "id": "155436835013656576",
+      "username": "pyroshadow",
+      "avatar": "ed853f9f1777de28c22f287e735ce2b1",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nightingale",
+      "avatar_decoration_data": {
+        "asset": "a_670b722e56740d11d1e6fe55b8094013",
+        "sku_id": "1343751617303805983",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712028516443",
+          "asset": "nameplates/nameplates_v2/spirit_moon/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SPIRIT_MOON_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 8,
+        "effect_id": 2,
+        "colors": [
+          3163762,
+          9709528
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      },
+      "primary_guild": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 23
+  },
+  {
+    "type": 0,
+    "content": "Zašia winced. Those two *would* be at best awkward, but even she can catch the joke and she chuckles all the same. \"Seems to be the one people land on,\" she admits of *Zee* with a shrug that signaled neither dismissiveness or displeasure.\n\nViolet eyes darted one way, then the other, as though checking that the coast was clear before leading in to confide, \"Vornakir calls me *his moonlight*.\" She smiled small and pleased. She was clearly fond of it. \"In the drow language, of course. Isn't that sweet?\" Then she laughed. \"Better than what my siblings call me. My brother had a difficult time saying *Zašia* when he was itty bitty, so it came out *Za-Za*, and it stuck.\" She rolled her eyes good-naturedly. \"But only Rainier gets to call me that, so don't get any ideas,\" she teased.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-07T16:28:45.848000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1436391942014505064",
+    "channel_id": "1433479305522057236",
+    "author": {
+      "id": "128691687169064961",
+      "username": "electrochemistry",
+      "avatar": "15c510b31c8fa3c1333544dd821136c8",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1382845914192023632",
+          "asset": "nameplates/nameplates_v3/aurora/",
+          "label": "COLLECTIBLES_NAMEPLATES_CAT_BEANS_A11Y",
+          "palette": "teal"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 2,
+        "colors": [
+          14963742,
+          16711568
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      },
+      "primary_guild": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 24
+  },
+  {
+    "type": 0,
+    "content": "Sol’s mouth curved into an amused smile. “Moonlight, huh?” he echoed, the word rolling off his tongue like it tasted strange. “That’s actually sweet. Weirdly so, though, I didn’t know Vornakir had that setting installed beneath all the brooding and ego.” He grinned, clearly entertained by the idea of the stoic drow whispering endearments into Zašia's ears.\n\nAt her next confession, he snorted. “Za-Za,” he repeated with playful emphasis, then raised both hands as if surrendering. “Noted. Off-limits. I value my life far too much to challenge a sibling's exclusive nickname.”\n\nHe leaned lightly against the doorframe, still smiling. “We’ll figure something out for you. Nicknames are like enchantments; they work best when you don’t force them.”\n\nA sly gleam crept into his eyes as he added, “Just like how *Twinkletoes* happened for Caspian.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-07T22:10:47.556000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1436478016296456202",
+    "channel_id": "1433479305522057236",
+    "author": {
+      "id": "155436835013656576",
+      "username": "pyroshadow",
+      "avatar": "ed853f9f1777de28c22f287e735ce2b1",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nightingale",
+      "avatar_decoration_data": {
+        "asset": "a_670b722e56740d11d1e6fe55b8094013",
+        "sku_id": "1343751617303805983",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712028516443",
+          "asset": "nameplates/nameplates_v2/spirit_moon/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SPIRIT_MOON_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 8,
+        "effect_id": 2,
+        "colors": [
+          3163762,
+          9709528
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      },
+      "primary_guild": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 25
+  },
+  {
+    "type": 0,
+    "content": "Zašia snorted a laugh at the mention of Caspian's nickname, but then her expression softened and she again dabbed at and around her eyes to make sure her make-up remained protected.\n\n\"Vornakir's... different, when it's us. He's just himself, and not whoever it is everyone's told him he's supposed to be.\" She tucked a strand of hair behind her ear, her shoulders coming up a little bit, glancing away and pressing her lips together.\n\nBashful.\n\n\"He goads me sometimes, but it's because he believes in me even when I don't.\" But even as her shoulders eased down and she let go of the embarrassment, she wasn't at ease. She brought her gaze back to Sunni, her eyes a tempest in violet. \"You know he lost his arm because he was protecting me, right?\" Zašia managed a faint smile through the guilt. \"He's not all ego, dark stares, and acerbic wit. He really cares about me.\" \n\nThere would be no allowing Sunni to fall prey to the mistaken belief that Vornakir Vanori lacked depth.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-08T05:21:51.939000+00:00",
+    "edited_timestamp": "2025-11-08T05:25:21.626000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1436586499381530715",
+    "channel_id": "1433479305522057236",
+    "author": {
+      "id": "128691687169064961",
+      "username": "electrochemistry",
+      "avatar": "15c510b31c8fa3c1333544dd821136c8",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1382845914192023632",
+          "asset": "nameplates/nameplates_v3/aurora/",
+          "label": "COLLECTIBLES_NAMEPLATES_CAT_BEANS_A11Y",
+          "palette": "teal"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 2,
+        "colors": [
+          14963742,
+          16711568
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      },
+      "primary_guild": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 26
+  },
+  {
+    "type": 0,
+    "content": "Sol gave Zašia a soft smile. “I’ve honestly never thought about him like that,” he admitted. “But it makes sense. Vornakir keeps so many walls up around everyone else that I’m not surprised he drops them for you. You probably make him feel safe enough to.”\n\nHe tilted his head slightly, clearly in deep thought. “I thought reading his aura would give me more hints into his personality, but I’ve always had trouble reading it.”\n\nHe looked back at Zašia, opening his palm and casting an illusion as he tried to explain what he meant. With a sparkle of golden magic, a small golden figure in the shape of a person appeared. “With most people, I can tell what’s simmering under the surface; emotions have color, texture, and movement to them.” As he said that, a vibrant green slithered around the figure like a snake, clearly showing envy.\n\n“But with him?” He gave a slight shrug. “It’s like staring at a door that’s locked from the inside.” The green around the figure faded, replaced by a faint gray pulse.\n\nA beat passed before a faint smile tugged at his lips again. “Adrien calls me *Sunbeam*,” he said, a little laugh escaping him. “Yeah, I know, painfully on the nose, right? But I think it’s adorable. Especially the way his expression softens when he says it.” \n\nHis voice took on a fond, airy quality for a moment before dipping into a quieter tone. “My dad used to call me that too, before, well, before everything happened.” The wistfulness hung in the air for a moment, then he let out a breath that carried it away.\n\n“But Adrien,” Sol’s tone warmed again, more at peace now. “Being with him feels like time slows down for a bit. He’s this constant in all the noise: calm, steady, a deep, oceanic blue. That’s his aura; always the same. While everyone else on campus flickers like fireworks, he’s just…there, unwavering and unchanging. And somehow that’s exactly what I need.”",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-08T23:35:32.656000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1436861732617457766",
+    "channel_id": "1433479305522057236",
+    "author": {
+      "id": "155436835013656576",
+      "username": "pyroshadow",
+      "avatar": "ed853f9f1777de28c22f287e735ce2b1",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nightingale",
+      "avatar_decoration_data": {
+        "asset": "a_670b722e56740d11d1e6fe55b8094013",
+        "sku_id": "1343751617303805983",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712028516443",
+          "asset": "nameplates/nameplates_v2/spirit_moon/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SPIRIT_MOON_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 8,
+        "effect_id": 2,
+        "colors": [
+          3163762,
+          9709528
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      },
+      "primary_guild": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 27
+  },
+  {
+    "type": 0,
+    "content": "The little illusion was viewed with interest and appreciation both, a little smile playing on Zašia's lips. She was impressed at his ability to both control what he displayed as well as clearly illustrate this concept he was explaining to her. While the bad feelings within her never really go away, it did help to lessen them considerably, for the moment.\n\n\"Maybe try and read him the next time you catch the two of us holding hands,\" she suggested with a chuckle. \"See what it looks like then.\" It would be interesting regardless, wouldn't it? She was a little envious of Sunni's ability to read others more easily than she could, but their powers were very different and she resisted the desire to act as they could be measured perfectly against one another.\n\nThe mention of Adrien and the appearance of his aura saw Zašia laying her hand over her chest, touched by the sweetness. \"I really thought you were just looking for a good time with that one, but I'm glad he's making you happy.\" She nudged his elbow gently with her own. \"You deserve it. And to build better associations with that nickname.\"\n\nShe refrained from heading off on a diatribe about how terrible she thought Sunni's father was. Given the chance, someone would probably have to hold the shorter aasimar back from spitting invectives at him.\n\n\"Dare I ask what my aura looks like?\" she laughed nervously. \"I probably don't want to know, actually.\" She could only imagine what melancholy looked like. The color was likely dismal.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-09T02:06:03.664000+00:00",
+    "edited_timestamp": "2025-11-09T02:06:29.463000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1436899611410169916",
+    "channel_id": "1433479305522057236",
+    "author": {
+      "id": "128691687169064961",
+      "username": "electrochemistry",
+      "avatar": "15c510b31c8fa3c1333544dd821136c8",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1382845914192023632",
+          "asset": "nameplates/nameplates_v3/aurora/",
+          "label": "COLLECTIBLES_NAMEPLATES_CAT_BEANS_A11Y",
+          "palette": "teal"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 2,
+        "colors": [
+          14963742,
+          16711568
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      },
+      "primary_guild": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 28
+  }
+]

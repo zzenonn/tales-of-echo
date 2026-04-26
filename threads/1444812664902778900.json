@@ -1,0 +1,83 @@
+[
+  {
+    "type": 0,
+    "content": "The raging storm killed what would’ve been a quiet night in the forest. Sol had temporarily stepped a few steps out the building away from the others for a moment, his boots sunk into the muddy ground. The trees swayed in the storm's power squalls, leaves hurling in every direction. \n\nHis bracer hummed against his wrist, reacting to his heartbeat. He exhaled a shaky breath, then he lifted his hand. Threads of gold, silver, and bronze magic unspooled from his fingertips like liquid metal. They curled in the air, weaving together until they formed a floating prismatic sphere the size of a camera lens; it clicked softly as it solidified.\n\nIt pointed at him, and he suddenly felt twelve years old again, trying to explain feelings into words.\n\n“Okay,” Sol murmured to himself. “Okay. Start.” The orb chimed, alerting Sol that it was recording.\n\nSol straightened his shoulders as he looked into the lens. “Hey, Adrien.” His voice was quiet. “I, um, I don’t really have time to talk to you in person. A lot of things are happening right now, and I can’t tell you everything because that would put you in danger.”\n\nHe breathed, looking away as a distant crash echoed from deeper in the woods.\n\n“We found something, or we’re about to, and whatever it is, it poses a massive threat to everyone on campus. I’m sorry, that’s all I can say for now.”\n\nHis hands fidgeted with the pin on one of his belt sashes. “I might come back really injured, or I might not come back at all,” he tried to place a smile on his face as he choked back tears.\n\n“I don’t want to scare you. I need you to know what’s going on and that I’m thinking about you. A lot.”\n\nThe orb whirred, capturing every twitch of his expression. “Dating you has been one of the best things that’s ever happened to me.” He huffed out a soft laugh. “I know I don’t say stuff like that pretty much ever, and I know I’m not great at talking about my feelings. You know that’s because of how I grew up, and you’ve never pushed me to do more than I’m comfortable with; you just…you let me be myself.”\n\nHis throat tightened as he tried to speak. “I just wanted to say—” He stopped, and his eyes dropped, lips trembling as he tried again.\n\n“I just wanted to say that I…” Another pause, long enough for a crack of thunder to boom behind.\n\n“I love you.” The words were threadded with both passion and fear. He lifted his head, golden eyes shining in the forest’s darkness. “I love you,” he repeated more steadily. “So much more than I know how to say.”\n\nAnother crash echoed from behind him, as a flash of silver moonlight from a spell faded behind him. Sol winced.\n\n“I don’t know how this is going to end, but if you don’t hear from me in 48 hours,” he drew in a slow breath, “then I’m probably gone.” Tears streamed down the aasimar’s face.\n\nHe swallowed. “If that happens, I want you to have my design journals. They’re behind the illusory wall in my room, the one that looks like it’s part of the bookshelf.”\n\nHe lifted his hand and showed an image of shimmering illusion-lines outlining the hidden panel.\n\n“There’s a sequence you’ll have to use to open it.” He offered a faint smile. “Remember the hunter’s belt, the one we always look for first.”\n\nSol heard a scream from Redd behind him, followed by a loud crash. His fingers trembled as he reached toward the orb.\n\n“I have to go,” he rushed. “I hope you never have to watch this; I hope I get to tell you all of it myself.” His voice softened to a whisper. “But just in case…goodbye, Adrien.”\n\nHe tapped the orb, and the lens collapsed inward, shrinking into a small prismatic sphere that lightly pulsed. It floated inside his palm, waiting to be sent off.\n\nSol lifted his hand. “Find him,” he told it quietly.\n\nThe sphere shimmered, then shot off like a comet, zig-zagging through branches and vanishing into the night.\n\nSol watched it disappear and quickly flew back to rejoin the others.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-11-30T22:09:42.634000+00:00",
+    "edited_timestamp": "2025-12-01T00:27:46.182000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1444812664902778900",
+    "channel_id": "1444812664902778900",
+    "author": {
+      "id": "155436835013656576",
+      "username": "pyroshadow",
+      "avatar": "ed853f9f1777de28c22f287e735ce2b1",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nightingale",
+      "avatar_decoration_data": {
+        "asset": "a_670b722e56740d11d1e6fe55b8094013",
+        "sku_id": "1343751617303805983",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712028516443",
+          "asset": "nameplates/nameplates_v2/spirit_moon/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SPIRIT_MOON_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 8,
+        "effect_id": 2,
+        "colors": [
+          3163762,
+          9709528
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      },
+      "primary_guild": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "❤️"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": true,
+        "burst_count": 0
+      }
+    ]
+  }
+]

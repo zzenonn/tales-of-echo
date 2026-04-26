@@ -1,0 +1,1631 @@
+[
+  {
+    "type": 0,
+    "content": "*~Three Days after the Quasi Incident™~*\n\nIt felt like months had passed since Vornakir's birthday celebration, and weeks since the effective implosion of the Quasi. They had no classes to attend, no High Courts to impress, and most importantly no investigation to continue with. For the first time since most of them arrived on campus, they finally had *free* time that was genuinely *free*. There was worry about their friends, and foes to some degree in the case of Velvyn at least on Vornakir's side of things. Nimbus. Aurum. But other than that, they all had the run of campus. \n\nAnd to Vornakir, that felt like high time to pamper himself. All this stress and combat was doing numbers on his personal health. The few friends he'd made that noticed the bags under his eyes would realize how much weight he had on his shoulders not only from the investigation but all the other underlying factors he dealt with on a day to day basis. Only Redd however would truly know how different that was to the day they first met. He was so composed back then and so well groomed. He was a disheveled facsimile of the man he used to be. \n\nIf there was one other person in his dorm that understood how important things like this were, it was the only other person that cared as much about their looks as Vornakir himself did. It was clear what he needed to do with some of this free time and he didn't want to do it alone. \n\nThat's how he found himself standing outside of Sol's bedroom door. He composed himself, taking a steady breath and lifting his hand to rap the knuckles against the wooden door thrice.\n\n*Knock Kn-Knock*\n\n\"Sorry for the sudden visit, Sol. But I think it's time we stop letting our hair down and getting tangled in everyone's mess for a change. It's time to put our hair *up* and wash away all this fucking mess. Do you fancy a bit of an impromptu spa day?\" He asked the door, turning to lean his back against the wall beside Sol's door. \n\nOne leg crossed over the other and his only arm rested over his chest while he waited for Sol to decide if that was something he wanted to do. He called over his shoulder again, \"Hair, nails, mage hand massages, face masks. Fuck it I'll even slice up some cucumbers for our eyes if you want.\" He mused.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-14T19:12:31.428000+00:00",
+    "edited_timestamp": "2025-12-14T19:15:34.528000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1449841504511066184",
+    "channel_id": "1449841504511066184",
+    "author": {
+      "id": "206175579358232578",
+      "username": ".tsukikage.",
+      "avatar": "a_46c3fb914b80216510fecd78138bfdb7",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Akuma",
+      "avatar_decoration_data": {
+        "asset": "a_35e64c0eb789d6019a76b1e95ba13497",
+        "sku_id": "1479191582002516020",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614102036581",
+          "asset": "nameplates/nameplates/cherry_blossoms/",
+          "label": "COLLECTIBLES_NAMEPLATES_CHERRY_BLOSSOMS_A11Y",
+          "palette": "berry"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 4,
+        "colors": [
+          12189699
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      },
+      "primary_guild": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0
+  },
+  {
+    "type": 0,
+    "content": "[[ <@155436835013656576> ]]",
+    "mentions": [
+      {
+        "id": "155436835013656576",
+        "username": "pyroshadow",
+        "avatar": "ed853f9f1777de28c22f287e735ce2b1",
+        "discriminator": "0",
+        "public_flags": 64,
+        "flags": 64,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Nightingale",
+        "avatar_decoration_data": {
+          "asset": "a_670b722e56740d11d1e6fe55b8094013",
+          "sku_id": "1343751617303805983",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1377377712028516443",
+            "asset": "nameplates/nameplates_v2/spirit_moon/",
+            "label": "COLLECTIBLES_NAMEPLATES_V2_SPIRIT_MOON_A11Y",
+            "palette": "violet"
+          }
+        },
+        "display_name_styles": {
+          "font_id": 8,
+          "effect_id": 2,
+          "colors": [
+            3163762,
+            9709528
+          ]
+        },
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "394252141138804736",
+          "identity_enabled": true,
+          "tag": "RVYN",
+          "badge": "6082c2553b03b47ccaea5203567df3cf"
+        },
+        "primary_guild": {
+          "identity_guild_id": "394252141138804736",
+          "identity_enabled": true,
+          "tag": "RVYN",
+          "badge": "6082c2553b03b47ccaea5203567df3cf"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-14T19:12:36.436000+00:00",
+    "edited_timestamp": "2025-12-14T19:12:49.444000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1449841525516406965",
+    "channel_id": "1449841504511066184",
+    "author": {
+      "id": "206175579358232578",
+      "username": ".tsukikage.",
+      "avatar": "a_46c3fb914b80216510fecd78138bfdb7",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Akuma",
+      "avatar_decoration_data": {
+        "asset": "a_35e64c0eb789d6019a76b1e95ba13497",
+        "sku_id": "1479191582002516020",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614102036581",
+          "asset": "nameplates/nameplates/cherry_blossoms/",
+          "label": "COLLECTIBLES_NAMEPLATES_CHERRY_BLOSSOMS_A11Y",
+          "palette": "berry"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 4,
+        "colors": [
+          12189699
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      },
+      "primary_guild": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0
+  },
+  {
+    "type": 0,
+    "content": "Sol was half-draped across the couch: one leg tucked under himself, the other dangling uselessly off the side as auroral light slowly danced across the walls of his room. The events at the Quasi still echoed in his mind: the pressure, the sounds of implosions, the static of the unstable magic that refused to dissipate. He’d meant to meditate, sketch, or do literally anything productive, but instead he’d been blankly staring at the ceiling.\n\n*Knock. Kn-Knock.* The sound cut through the quiet, pulling Sol out of the half-daze state he’d been drifting in. \n\nVornakir’s voice carried through the door, and Sol exhaled a tired laugh. He pushed himself upright with a quiet groan and rubbed at one eye as he padded barefoot across the room. \n\n“Give me a second,” he called back, voice muffled and rough. \n\nThe door opened a moment later, and Vornakir was greeted first by the room itself. The room felt like stepping into a constellation. A night sky stretched across the ceiling, auroras of violet, sapphire, and soft emerald drifted slowly as stars rearranged themselves in subtle patterns that reflected Sol’s exhaustion. The warmth humming through the space was from a gentle, scented, magical breeze, faintly of vanilla and honey. The breeze stirred through the sheer celestial fabrics on the lofted canopy bed dressed in navy and gold silks. Beneath it sat a plush white couch and a low table atop a deep black rug. On the far side of the room was a meticulously ordered design station: mannequin, half-finished fabric, spools sorted by shimmer, tools aligned with care. Near it was a newly added lectern where a sleeping Bookie rested atop it.\n\nThe sentient book looked peaceful, with beady eyes shut and unbothered by the state of the world. His cover page rose and fell with each soft *Hrrrk—shff* of his muffled snore.\n\nThen Sol stepped fully into view, revealing him in a state very few people ever saw him in: unguarded, unpolished, and clearly running on fumes.\n\nHe was wearing a black, off-the-shoulder crop top, loose enough to slip down one arm; elvish music lyrics arched across the back in silver thread, and a golden band logo was emblazoned on the front. Loose, black joggers hung low and comfortably on his hips. He wore no jewelry, his hair was yanked into a messy high bun, with stray curls escaping to frame his face, and his square gold-framed glasses sat slightly crooked on his nose.\n\nHe looked exhausted, but when he saw Vornakir, his expression softened into a sleepy smile.\n\n“Yeah,” Sol said, leaning against the doorframe. “I could definitely use some pampering.”\n\nAs if on cue, Bookie let out another tiny snore behind him. Sol glanced behind him, amusement tugging at his mouth.\n\n“I think his adventure in the Quasi absolutely tuckered the little guy out,” he adds with a quiet laugh. “He’s been knocked out for days now. Pretty sure he’ll still be asleep by the time we get back.”\n\nHe reached up, absently touching his hair; he winced as his fingers brushed through one of the curls, the feeling of oil coating it.\n\n“Oh Gods,” he cringed. “Okay. Yeah. I don’t even remember the last time I washed my hair properly. This is unacceptable.”\n\nHe stepped aside, grabbing some sandals, clearly past the point of caring how he looked today. He gestured toward the hallway, a smile returning. \n\n“Please,” he said, tone warm and grateful. “Lead the way. Save me from whatever unholy state I’m currently in.”",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-14T23:29:07.738000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1449906081315950717",
+    "channel_id": "1449841504511066184",
+    "author": {
+      "id": "155436835013656576",
+      "username": "pyroshadow",
+      "avatar": "ed853f9f1777de28c22f287e735ce2b1",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nightingale",
+      "avatar_decoration_data": {
+        "asset": "a_670b722e56740d11d1e6fe55b8094013",
+        "sku_id": "1343751617303805983",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712028516443",
+          "asset": "nameplates/nameplates_v2/spirit_moon/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SPIRIT_MOON_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 8,
+        "effect_id": 2,
+        "colors": [
+          3163762,
+          9709528
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      },
+      "primary_guild": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 1
+  },
+  {
+    "type": 0,
+    "content": "At long last, Sol appeared and Vornakir passed his glance over to his friend with a gentle smile. He looked about as worse for wear as Sol did. No matter what grooming and hygiene procedures he put himself through, he didn’t have the time or energy lately to do a full day to pamper himself and restore the luster that the Prince originally arrived with.\n\n He gave a gesture down the hall, leading the pair of them away. Even he wasn’t dressed as well as usual, a baggy sweater with one sleeve chopped and jogging pants that made him look like he just needed a nap. His hair was in a messy, rattled little bun and he cared very little who saw him today. \n\n“I pulled some strings and had my mother send me a care package. I intended to use it after finals but I think now is a wonderful time to do it. Not a lot of people care much about it but each dorm has a communal bath. Some dorms have en suites, some have one shared, some have both.” \n\nOnward he went, leading him outside their own dorm to one nearby that none of them have visited until now. Well, perhaps Redd may have for some of them men that live there. “Kael and I have gotten closer lately. She told me most of her dorm mates are busy for nearly the entire week, and she’s holed up in the infirmary so it’s pretty open. They have a large communal one, if done right you can fill the bath with a lot of super hot water and essentially turn the room into a sauna.”\n\nThe large stone door opened for Vornakir with his mage hand forcing it to give way. The walls inside were also made of stone and winded a little deeper, larger than their own dorm. “I already came by and got things ready. Care package is in there, and the rooms been steaming for a bit.”\n\nEasily he led the pair of them into a large chamber at the end of the hall and a soothing warmth flooded the room as Vornakir made his grand entrance. Fragrant steam was everywhere, and a pair of chairs were already sat out. The trickle of hot water filled pools in every corner of the room, and a pair of foot baths were ready in front of the chairs.\n\nA box between them was already sat out open. Various products were stored inside. Ointments, face masks, shampoos, conditioners, hair treatments, files for nails, everything needed for a veritable day for beauty and relaxation. “Viola, welcome to the Vanori Villa.”",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-15T23:44:20.674000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1450272298312667139",
+    "channel_id": "1449841504511066184",
+    "author": {
+      "id": "206175579358232578",
+      "username": ".tsukikage.",
+      "avatar": "a_46c3fb914b80216510fecd78138bfdb7",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Akuma",
+      "avatar_decoration_data": {
+        "asset": "a_35e64c0eb789d6019a76b1e95ba13497",
+        "sku_id": "1479191582002516020",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614102036581",
+          "asset": "nameplates/nameplates/cherry_blossoms/",
+          "label": "COLLECTIBLES_NAMEPLATES_CHERRY_BLOSSOMS_A11Y",
+          "palette": "berry"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 4,
+        "colors": [
+          12189699
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      },
+      "primary_guild": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 2
+  },
+  {
+    "type": 0,
+    "content": "Sol followed Vornakir, content to let him take point as they moved through the halls. The farther they got from their dorm, the quieter his thoughts became; each step eased the knots in his shoulders. By the time the stone door opened and the warmth spilled out to greet them, he exhaled a long, slow breath he hadn’t realized he’d been holding.\n\n“Oh gods,” Sol breathed, the sound halfway to a laugh as the steam curled around him. He stepped fully into the chamber, shoulders immediately loosening as the heat seeped into his skin. “I could fall asleep standing up in here.”\n\nHe pushed his glasses up the bridge of his nose, blinking through the haze as he took in the pools, the chairs, and the gentle sound of water trickling against stone. For a moment, he just stood there, letting the warmth quiet the lingering static in his chest and the pressure behind his eyes.\n\nWhen he notices the box, Sol drifted toward it, crouching slightly as he peered inside. He lifted one of the bottles, turning it in his hands before uncapping it and inhaling deeply. His expression softened immediately.\n\n“Wow,” he said, reverence in his voice. He brought the bottle closer again, breathing it in like it might fix him on the spot. “I forgot how good clean actually *smells*.”\n\nHe set it down carefully, fingers brushing over the other containers, shampoo, conditioner, treatments, clearly resisting the urge to start using them immediately.\n\n“Thank you,” Sol added quietly, glancing back toward Vornakir with a sincere smile. “For this. For thinking ahead. I didn’t realize how badly I needed to stop being on edge.”\n\nHe straightened, already tugging at the hem of his crop top as if preparing to shed the weight of the last few days.\n\n“Alright,” he says, warmth and amusement threading back into his voice. “Vanori Villa, it is. Tell me what I’m doing first before I pass out in a foot bath.”",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-16T03:39:23.201000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1450331448598069258",
+    "channel_id": "1449841504511066184",
+    "author": {
+      "id": "155436835013656576",
+      "username": "pyroshadow",
+      "avatar": "ed853f9f1777de28c22f287e735ce2b1",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nightingale",
+      "avatar_decoration_data": {
+        "asset": "a_670b722e56740d11d1e6fe55b8094013",
+        "sku_id": "1343751617303805983",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712028516443",
+          "asset": "nameplates/nameplates_v2/spirit_moon/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SPIRIT_MOON_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 8,
+        "effect_id": 2,
+        "colors": [
+          3163762,
+          9709528
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      },
+      "primary_guild": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 3
+  },
+  {
+    "type": 0,
+    "content": "Vornakir didn’t hesitate to gesture to the right, his mage hand following his guidance to gather up arguably the most important part of this spa day. Another small box was pulled closer, and he reached down to gather what he wanted out of it. A plush pristine robe and some comfortable slippers. There were more in the box for Sol to indulge as well. \n\n“The steam is meant to be both relaxing and to somewhat open our pores — I didn’t imagine you’d want to double up in a warm bath together so this was the next best thing. Feel free though to get comfortable in this stuff.”\n\nThen he made his way over to the crate of goods. He rifled around through it humming to himself, until he found a couple of small containers with screw on lids with elvish scripts written on them. After a mild inspection, lifting the lid to sniff and giving a nod of approval he’d fully open one and sat it on the table between the two chairs.\n\n“Not many people know this but the Obsidian Barricade is a flourishing environment beyond just caverns in its own way. There’s freshwater grottos, underground rivers rich with minerals, subterranean volcanoes, geysers, natural geothermal hot springs, you name it. By no means is it a destination tourism but our people thrive on more than deceit. It’s always about how you can be better than the man or woman next to you. Drow culture is steeped in aristocracy. So we learned how to harvest almost anything and transform it into something upscale. For example…” he gestured to the tin that he had just sat out for them.\n\nInside seemed to be some form of cream, a bit thick at first glance. It was mostly black and gray with specks of something embedded in it but the aroma that came from it was surprisingly pleasant. \n\nSauntering a bit off to the side behind one of the privacy screens, he began to undress so he could don the robe - of course staying in his underclothes so he wouldn’t reveal himself to Sol by mistake or anything of the sort. Just comfort in the robe and slippers. \n\n“In addition to being inside the ruling class my mother has a passion for beauty. She founded much of the stuff we’re about to use. Of course not the actual items but those particular blends. First off on the table there is an exfoliating body scrub. It’s mixed of volcanic ash, an oil harvested from one of our harder subterranean crops, hand harvested clay from a nearby riverbed, a bit of sugar, and honey. A few other things of course, I’m no expert and there’s some manner of ‘secret ingredient’ but gods only know what it is.” \n\nAs he stepped around the screen and fully allowed himself to soak in the steam, he exhaled a sigh of relief. A smile touched his lips and kindness radiated in his eyes. Finally after all this time, they had some time to just be themselves. Just relax, rest, recuperate and maybe bond a little. \n\nWhile Sol may find himself ready to don his own ‘spa attire’, Vornakir went ahead and poured in some oils and cleansers into their footbaths that still had a stream of warm steam radiating off of them.\n\n“I was thinking we start with the body scrub - platonically and completely innocently applying it to one another or ourselves, whatever you’re comfortable with. Afterward we could apply one of our special long term shampoos into our hair and rest our feet in the baths while it penetrates and gets nice and homogenous with our hair. Then rinse it out, go to the paired conditioner and leave ins, then move on to the lovely face masks. There’s also a handful of other treatments and such we can do if you feel so inclined.”",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-16T19:08:09.047000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1450565179736719544",
+    "channel_id": "1449841504511066184",
+    "author": {
+      "id": "206175579358232578",
+      "username": ".tsukikage.",
+      "avatar": "a_46c3fb914b80216510fecd78138bfdb7",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Akuma",
+      "avatar_decoration_data": {
+        "asset": "a_35e64c0eb789d6019a76b1e95ba13497",
+        "sku_id": "1479191582002516020",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614102036581",
+          "asset": "nameplates/nameplates/cherry_blossoms/",
+          "label": "COLLECTIBLES_NAMEPLATES_CHERRY_BLOSSOMS_A11Y",
+          "palette": "berry"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 4,
+        "colors": [
+          12189699
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      },
+      "primary_guild": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 4
+  },
+  {
+    "type": 0,
+    "content": "Sol couldn’t help but chuckle at the *platonically and innocently* line; his laugh was soft and genuine with a hint of teasing.\n\n“If this is your attempt to flirt with me, Vornakir,” he said amused, eyes crinkling behind his glasses, “it’s charming, but I am spoken for. You’d have to get past a very adorably awkward illusionist first, and I don’t recommend it. Plus you’re not exactly my type,” he said everything in jest, trying to make his friends smile.\n\nHe snapped his fingers, and golden light briefly bloomed around him; when it faded, his clothes had shifted seamlessly into the plush robe. His discarded outfit appeared neatly folded on the stone beside him, every line crisp like it had just been hot pressed. Sol was a designer; of course, he’d mastered the art of magically changing clothes.\n\nSol padded over toward the chairs, pausing long enough to take in the scents in the air before settling down. He lowered himself into the chair, easing his feet into the waiting bath with a quiet, relieved sigh. The warmth makes his shoulders drop instantaneously, all the pressure and stress washing away like a leaf in a stream.\n\n“I’m good with applying the scrub myself,” he added gently, glancing up at Vornakir with an easy smile. “I know you’re particular about personal space, and I want you actually to relax, not brace for impact.” He laughed jovially, the first time he’s done so in days.\n\nHe closes his eyes for a moment, breathing in the serenity: the steam, the oils, the soft echo of water against stone.\n\n“This is really nice,” Sol said quietly. “It’s nice to actually relax without having to worry about a death cult, necrotic radiation, or the looming threat of buildings imploding.”\n\nHe opened his eyes again, calm settling into his expression. “Lead on, Your Highness,” he said softly.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-17T04:43:11.245000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1450709892443930716",
+    "channel_id": "1449841504511066184",
+    "author": {
+      "id": "155436835013656576",
+      "username": "pyroshadow",
+      "avatar": "ed853f9f1777de28c22f287e735ce2b1",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nightingale",
+      "avatar_decoration_data": {
+        "asset": "a_670b722e56740d11d1e6fe55b8094013",
+        "sku_id": "1343751617303805983",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712028516443",
+          "asset": "nameplates/nameplates_v2/spirit_moon/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SPIRIT_MOON_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 8,
+        "effect_id": 2,
+        "colors": [
+          3163762,
+          9709528
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      },
+      "primary_guild": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 5
+  },
+  {
+    "type": 0,
+    "content": "A scoff and playful roll of his eyes, \"Between you and Redd, I swear.\" He said in his own jest laughing in spite of himself. \"I try my best to ensure I *don't* come off flirty.\" He waved his hand dismissively, not seeming thrown off at all by what Sol said in the slightest. \"You wound me though, I'm *everyone's* type.\" He replied though it didn't hold any forward notions. Just Vornakir being the same confident, a bit cocky, self. \n\n\"You've got a knack for the most interesting magics, I swear. You'd think by now I'd have mastered the sorts that would help with menial and tedious things as well.\" With a shake of his head, admitting to not being good at something was a bit out of character for him. \n\nHe made his way around to settle fully in his own seat just to Sol's side with the tub of body-scrub between them. Slipping his feet out of the slippers, he spared no time before sinking them into his own bath with an elated sigh. \"Mmh, I don't think I'd be too worried about you being close to me like that. I'm starting to trust you a bit more, honestly. All of you for that matter, for different reasons and at different levels. It's kind of nice, albeit new, to me.\" He admitted without concern for hiding his true sentiment behind the mask. \n\nVornakir to his credit also wasted no time in setting out a second tub of the scrub just in case, and immediately set into taking a scoop out of one of them to begin applying it to his skin where he felt it was most necessary. Every so often, Sol would get a small glimpse as his robe shifted to noticing the difference in his scale patterns if he never had before. The left side seemed far more populated with the draconic gift than the right. \n\n\"You've got that right. And classes being suspended temporarily so we don't need to worry too much about finals. Don't get me wrong, the death cult shit was a horrible experience and I never want to deal with that again but the silver lining is this week of relaxation.\" \n\nHis mage hand dove into the crate for the pair of them and began setting out their veritable 'buffet' of treatments. Shampoos, conditioners, lotions, oils, really almost anything either of them could think of that would make this spa day a success. His mother was quite the expert it would seem, and his ruling-class status meant she spared no chances on him wanting for anything with this. Sol was more than free to pursue his own route of beauty treatment or follow Vornakir's lead. \n\n\"Speaking of your beau, did you...you know, cancel that 'If you're seeing this, I'm dead' illusory thing from showing up? I vaguely recall you mentioning the Love bomb in there, I don't remember if you two had said that to one another before now so correct me if I'm wrong.\"",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-17T08:42:32.952000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1450770129808785591",
+    "channel_id": "1449841504511066184",
+    "author": {
+      "id": "206175579358232578",
+      "username": ".tsukikage.",
+      "avatar": "a_46c3fb914b80216510fecd78138bfdb7",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Akuma",
+      "avatar_decoration_data": {
+        "asset": "a_35e64c0eb789d6019a76b1e95ba13497",
+        "sku_id": "1479191582002516020",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614102036581",
+          "asset": "nameplates/nameplates/cherry_blossoms/",
+          "label": "COLLECTIBLES_NAMEPLATES_CHERRY_BLOSSOMS_A11Y",
+          "palette": "berry"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 4,
+        "colors": [
+          12189699
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      },
+      "primary_guild": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 6,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "👀"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "Sol snorted, laughter bubbling up easily as he scooped some of the scrub into his palms.\n\n“Forgive me,” he said lightly, working it into his arms. “I just tend to like the quiet, nerdy-but-secretly-strong type.” He glanced sideways at Vornakir with a teasing smile. “You, meanwhile, are *never quiet* about how powerful you are.”\n\nHe rolled his shoulders back as he scrubbed, clearly relaxed. “I’d be happy to teach you the clothing-change spell sometime. It’s honestly a simple trick, and it’s convenient when you’re late for something or covered in monster goo.”\n\nWhen Vornakir admitted to trusting him more, Sol’s teasing softened. He looked over at him with a warm and sincere expression.\n\n“That means a lot,” he said. “Really. I know trust doesn’t come easy for you. I’ll do my best not to squander it.”\n\nAs he continued applying the scrub, his attention drifted briefly to the shifting of Vornakir’s robe and to the glimpse of scales beneath. His brow furrowed slightly with curiosity.\n\n“Hey,” Sol murmured, gesturing with his chin. “Your scales, they’re spreading more, aren’t they? They look almost like armor plating now.” He pauses, careful with his next question. “Are they comfortable, being that pronounced that is. You’re basically turning into a storm dragon at this point.”\n\nA beat of quiet settled in as Sol reached up and removed the sunray-shaped clip holding his hair in place. The curls spill free, tumbling past his shoulders in a wild cascade. As he leaned forward to wet it, the water darkened the hair strands, creating a contrast impossible to miss: the silvery-blonde lengths that gave way at the roots to a deep raven black. It’s a detail Vornakir might notice, but one he hadn’t seen before; he might even notice that the color was strikingly similar to the hair of Sol’s father.\n\nHe slowly and methodically worked the shampoo into his hair, fingers massaging from roots to ends, and detangling as he went. The steam clung to him as Vornakir asked his question.\n\nSol exhaled. “Yeah,” he said after a moment. “I can’t undo the spell. It’s like words, once it’s cast, it’s out there in the air forever, whether he’s seen it yet or not.” He rinsed the shampoo out, then immediately went back in for a second lather. “I don’t think he’s seen it, or maybe he has and just isn’t ready to talk about it.”\n\nHe laughed softly, but there was tension in it. “I jumped the gun, saying I loved him. We’ve only been dating for a few months. Hells, I didn’t even ask him to be my boyfriend; he asked *me*, and I panicked so hard I didn’t answer him for a week.”\n\nHe scrubbed a little harder, frustration slipping through. “Believe it or not, I’m terrible at expressing my feelings.” \n\nAnother huff of laughter escaped him. “Maybe this is karma, maybe this is him getting back at me for the boyfriend thing.”\n\nSol leaned back slightly, closing his eyes as the water ran over his hair. “Gods,” he mutters. “I wish I could just *feel* what he’s feeling, it would make this so much easier.”\n\nHe opened his eyes again, glancing toward Vornakir, vulnerability laid bare. “Sorry,” he added quietly. “Didn’t mean to dump all that on spa day.”\n\nBut somehow, in the steam and quiet and shared exhaustion, it felt like the right place to say it.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-19T01:43:54.078000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1451389549346426953",
+    "channel_id": "1449841504511066184",
+    "author": {
+      "id": "155436835013656576",
+      "username": "pyroshadow",
+      "avatar": "ed853f9f1777de28c22f287e735ce2b1",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nightingale",
+      "avatar_decoration_data": {
+        "asset": "a_670b722e56740d11d1e6fe55b8094013",
+        "sku_id": "1343751617303805983",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712028516443",
+          "asset": "nameplates/nameplates_v2/spirit_moon/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SPIRIT_MOON_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 8,
+        "effect_id": 2,
+        "colors": [
+          3163762,
+          9709528
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      },
+      "primary_guild": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 7
+  },
+  {
+    "type": 0,
+    "content": "“You wound me.” Vornakir said as light heatedly as he could manage. But it was apparent he didn’t actually mind. “Ah, yeah I guess I can be a little forward about my pride.” He said as if he rarely sinned in the name of pride.\n\n“Gods, let’s hope we don’t end up covered in monster goo for a little while longer from here on. I don’t know about the others but my skin can’t handle being smothered in blood, grime and whatnot several times a week.” Vornakir commented while applying his own scrub where he could or needed to - having the mage hand do so on his arm when it was time. \n\nThe topic of trust though a positive one made him frown. Not because he was upset or the mood was shot, but because he knew how true the words were. Trust didn’t come easy to him. “I wish it didn’t have to be that way. I know how it makes people feel, when I won’t sit close to them or drink and eat with them. Or even shake their hand with my own. And gods I know how it makes me look.” \n\nHe sighed, shaking his head but smiling either way over at Sol. “I’m just glad all of you were patient enough to earn it in spite of that. It means a lot to me.”\n\nThe question came after though, and his heart sank. His fingers halted rubbing the scrub in and his eyes immediately flicked down to the scales in question. It wasn’t a secret, he spoke some to Aurum about it in front of everyone. Maybe though it was different, for everyone to start witnessing the changes. “They’re…I don’t know how to describe the comfort honestly. I was born with scales, so I’ve had them all my life. I don’t know what to compare it to.”\n\nHe wiped his hand clean and pulled the robe open enough to properly show his left side - and his *entire* torso on that side was covered. Anyone who’d seen him topless before this happened would have known they used to be less intense, just covering vitals mostly. But this was exactly as Sol said, basically on the way to being a storm dragon. Almost everything from the center of his chest onward to the left was adorned in a thick plating of scales. \n\nUp the side of his neck, it tapered out to being normal and perfectly symmetrical again however. “They’re heavier though. The left side is far more dense than the right, it makes my balance really weird. Honestly I’m not sure how many more of the…gifts…I can take, if we’re ever able to get more. I don’t want to turn into a Dragonborn.” He admitted.\n\nAs the silence that followed that stretched, Vornakir this time took Sol’s lead and did the same -  wetting his hair and generously lathering in the shampoo from root to tip, and slicking his hair back to rest out of his face. Doing this made most of the golden undertones more prominent for now. He noted the similarity to Sol’s father in his friend’s hair, what surely would be a sore topic if he brought it up now. But he stored that information away for later. \n\nWhilst Sol changed the subject with him to relationships , specifically with his for now, Vornakir idly watched his charm bracelet with a small smile. “Don’t be sorry, I’m glad you feel comfortable with me. And that’s what we’re here for, washing away all of our worries. Verbally and physically.” He assured him as he finally turned to smile at him. \n\nThis time it reach his eyes fully and crinkled his nose. Genuine. “I don’t think you made a mistake. I can’t speak for him, but I know he wouldn’t have come to save you if he didn’t feel deeply for you as well. But you don’t have to feel what he’s feeling…you just have to know, and trust he’s telling the truth. Ask him. If it took you that long to accept his request to date, it would show a lot of courage and love that you were willing to face him yourself and have the confidence to ask how he feels about you this time around.” \n\nHe was no expert on relationships but. He wanted to help somehow.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-19T17:35:28.163000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1451629019295518881",
+    "channel_id": "1449841504511066184",
+    "author": {
+      "id": "206175579358232578",
+      "username": ".tsukikage.",
+      "avatar": "a_46c3fb914b80216510fecd78138bfdb7",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Akuma",
+      "avatar_decoration_data": {
+        "asset": "a_35e64c0eb789d6019a76b1e95ba13497",
+        "sku_id": "1479191582002516020",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614102036581",
+          "asset": "nameplates/nameplates/cherry_blossoms/",
+          "label": "COLLECTIBLES_NAMEPLATES_CHERRY_BLOSSOMS_A11Y",
+          "palette": "berry"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 4,
+        "colors": [
+          12189699
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      },
+      "primary_guild": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 8
+  },
+  {
+    "type": 0,
+    "content": "Sol rinsed the last of the conditioner out of his hair, letting the warm water run off before he reached up and twisted it back into the sunburst clip. His curls were still damp, but at least they were out of his face.\n\nHe listened as Vornakir spoke about the scales, his teasing fading away. When Vornakir pulled his robe aside to show the extent of them, Sol gained a thoughtful expression across his features.\n\n“Yeah,” he murmured. “I can see what you mean about the weight.”\n\nHe tilted his head slightly, studying the plating with a designer’s eye: the balance, the distribution, how the scales’ composition shifted up Vornakir’s body.\n\n“Do you think it still feels like a *gift*,” Sol asked with genuine curiosity, “if it keeps going like this? Or do you think it’ll stop at scales?” His gaze flicked briefly upward, toward Vornakir’s eyes, before he smiled. “I don’t know, being a storm dragon would be a cool look in my opinion.”\n\nHe let the moment hang, then nudged it to a lighter tone. “Hey, maybe you’ll sprout wings next,” Sol added, grinning. “I could use a flying buddy.”\n\nHe reached for a small vial of vanilla-scented oil and warmed it between his palms. He shifted, bringing one of his wings forward, and he began the familiar, almost instinctive process of preening it. He worked the oil carefully into the feathers, smoothing them, and removing a few damaged feathers with practiced ease.\n\nWhen Vornakir spoke about Adrien, Sol went quiet again. He sighed, his shoulders rising and falling slowly. “I meant what I said earlier,” he admitted. “About wishing I could feel what he’s feeling.”\n\nHis fingers stilled for a moment in his feathers before resuming their gentle work.\n\n“Something changed during the Quasi fight, or after, I’m not sure.” He swallowed. “I don’t just *see* auras anymore; emotions have started leaking into me. I can actually *feel* them: fear, tranquility, grief, adoration. Sometimes separately, sometimes all at once.” A breathy laugh escaped him. “It’s been a lot to say the least.”\n\nHe glanced sideways at Vornakir. “But with Adrien?” Sol shook his head. “Nothing; it’s like there’s a wall there.” His mouth twisted slightly. “It’s kind of like when I could only see muddled grays in your aura before we got closer.”\n\nA beat of silence hung between them. “Maybe it’s the same thing,” Sol said quietly. “Maybe we’re just not close enough yet.” He exhaled a small, sad laugh. “I guess that says a lot about our relationship, huh?”\n\nHe finished smoothing the last feather with oil, and he let his wings settle comfortably before looking back up at Vornakir.\n\n“I think you’re right, though,” he added after a moment. “About talking to him; asking him how he feels, even if it scares the hell out of me.”",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-20T05:35:37.618000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1451810252885459089",
+    "channel_id": "1449841504511066184",
+    "author": {
+      "id": "155436835013656576",
+      "username": "pyroshadow",
+      "avatar": "ed853f9f1777de28c22f287e735ce2b1",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nightingale",
+      "avatar_decoration_data": {
+        "asset": "a_670b722e56740d11d1e6fe55b8094013",
+        "sku_id": "1343751617303805983",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712028516443",
+          "asset": "nameplates/nameplates_v2/spirit_moon/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SPIRIT_MOON_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 8,
+        "effect_id": 2,
+        "colors": [
+          3163762,
+          9709528
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      },
+      "primary_guild": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 9,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "❤️"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "He was a little behind the routine so he had just begun to apply in the conditioner as Sol was washing his own out - letting the robe fall closed as to not display the scales all the way again. \n\n\"Mmh. No, I think looking back I should have turned it down in the first place. It's volatile, and gods only know when it may completely ruin my existing magic. But since I've already started taking them, I'm going to see it through until I feel like it's a good point to stop. I will not be indulging too much more...maybe one? Two more, maximum...Enough to make the magic and gifts from it worth the downsides I've gotten and will get, but not enough to make the downsides outweigh the benefits.\" \n\nA light laugh came as he massaged the conditioner into his scalp with his actual hand, the mage hand gradually applying some manner of face mask to him in the mean time to save a bit of his own precious time. \n\n\"You took the words from my mouth. I think if I sprouted wings, a horn or tail, that would be my definitive sign to stop before it gets worse. But if you ever want a flying buddy, let me know. I *can* cast the spell to give myself flight.\" He knew it likely wasn't the same thing, given he wouldn't have wings in that scenario but maybe he'd get lucky for once with the fragments of power. \n\nIf they even got anymore going forward. \n\nPerplexed by what Sol revealed, Vornakir lofted his brow in the direction of his spa-mate as he washed the conditioner from his scalp. His face mask was fully on now, covering his dove gray skin in a slightly deeper gray peel mask. \n\n\"Is it something you think that could be...man made? If that makes sense, I don't know how reading works but. Perhaps he's purposefully keeping you out so you don't have a cheat route in your relationship. Always knowing how he feels just by magic and Adrien having to use the good old fashioned way of just knowing you inside and out might feel unfair to him.\"\n\nHe lifted his shoulder and leaned back comfortably in the chair again while the treatments worked their magic. \"'Course I'm no expert, just a thought as to why his emotions may seem like they're behind walls.\"",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-22T09:29:21.610000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1452593849502273648",
+    "channel_id": "1449841504511066184",
+    "author": {
+      "id": "206175579358232578",
+      "username": ".tsukikage.",
+      "avatar": "a_46c3fb914b80216510fecd78138bfdb7",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Akuma",
+      "avatar_decoration_data": {
+        "asset": "a_35e64c0eb789d6019a76b1e95ba13497",
+        "sku_id": "1479191582002516020",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614102036581",
+          "asset": "nameplates/nameplates/cherry_blossoms/",
+          "label": "COLLECTIBLES_NAMEPLATES_CHERRY_BLOSSOMS_A11Y",
+          "palette": "berry"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 4,
+        "colors": [
+          12189699
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      },
+      "primary_guild": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 10
+  },
+  {
+    "type": 0,
+    "content": "Sol got quiet for a moment when Vornakir mentioned the orbs. He grabbed a tub of what looked to be jasmine-scented lotion and began a rhythmic motion, slowly rubbing it into his arms.\n\n“You could do that,” he replied, tone soft yet factual. “If Aurum was still around.” His mouth tightened before he exhaled. “I’m pretty sure we’re stuck with whatever powers we’ve already got,” he paused, “unless he somehow survived.”\n\nHe didn’t linger on that thought long; instead, he tilted his head and let a small smile return.\n\n“Though,” he added lightly, “if you *did* grow a tail, you’d match Auri perfectly, and honestly? That would be pretty adorable,” Sol gushed in a higher-pitched register.\n\nSol finished rubbing the lotion into his skin and grabbed a nearby towel to wipe the excess off his hands. He hated the extra-greasy feeling.\n\nHe looked over at Vornakir. “How are you two, by the way?” Sol asked, full of genuine curiosity. “Your auras light up when you’re near each other; it’s like watching a light show, and it’s the cutest thing I’ve seen in a while.” \n\nHe shifted his wings subtly. “And hey, if you ever want to fly to clear your head,” Sol added, “you’re welcome to join me. Wings or not.” He gave Vornakir a playful wink.\n\nWhen the conversation drifted back to Adrien, Sol shook his head.\n\n“I don’t think he’s putting up walls,” he said. “That’s not who he is as a person. He knows I can read auras, and he’s never tried to hide his from me. Plus, I haven’t even told him about the empathy thing yet, so I doubt he’s suppressing anything on purpose.”\n\nHe paused, contemplating his new ability. “Also, it’s not like I feel *everything*,” Sol explained. “Just surface-level emotions, what someone’s experiencing in the moment. If I want more, I have to probe deeper, and it feels invasive to reach into places that aren’t mine, so I don’t.” He quietly \nlaughed. “It’s basically like I’m really good at reading body language, except I can feel it inside my chest.”\n\nSol reached for another towel and gently patted dry the remaining curls of his hair that were still damp before he began braiding a few loose strands with practiced fingers.\n\n“Sometimes,” he admitted, “I can’t even control it. I passively feel whatever’s around me.”\n\nA beat of quick silence followed.\n\n“Truthfully?” Sol exhaled, voice dropping. “It’s probably just me.”\n\nHe started speaking faster after that, like the floodgates of his mind breached open, and there was no mote to contain it all.\n\n“This is my first relationship *ever*. First date, first kiss, first night over—” he cleared his throat, cheeks warming at the edges as his fingers fumble with the braid in progress, “—first time being *intimate*,” he shyly admitted. \n\nHe returned his focus to the very intricate braiding of his hair. “I don’t want to mess it up,” Sol continued. “So most of the time I let Adrien move first. It feels safer to react than to initiate. It means I can’t push too far or scare him off, right?”\n\nHe swallowed.\n\n“But this time *I* moved first,” he said, shocked. “I said *I* loved *him*!” A nervous, breathy laugh escaped him. “Now my brain won’t stop replaying it on loop, wondering if I said it too soon, and if I put something on him he wasn’t ready to return.” Sol’s hands paused. “What if I *ruined* everything?!”\n\nHe resumed his panicked braiding, the speed noticeably faster than before and now matching the haste with which Sol spoke. “What if he feels cornered, or pressured to respond the same way?” Sol’s brow creased. “What if I crossed a line and didn’t even realize it?!”\n\nSol realized he was spiraling and spewing his words out as he finished his last braid in the hairstyle, and quickly stopped talking. He took in a deep breath, his shoulders slowly lifting, then he let it all out in a controlled exhale.\n\n“Sorry,” he said sheepishly, rubbing his face. “I just dumped my entire relationship drama onto the table, didn’t I?”",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-28T02:36:54.511000+00:00",
+    "edited_timestamp": "2025-12-28T03:09:01.324000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1454664379839549442",
+    "channel_id": "1449841504511066184",
+    "author": {
+      "id": "155436835013656576",
+      "username": "pyroshadow",
+      "avatar": "ed853f9f1777de28c22f287e735ce2b1",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nightingale",
+      "avatar_decoration_data": {
+        "asset": "a_670b722e56740d11d1e6fe55b8094013",
+        "sku_id": "1343751617303805983",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712028516443",
+          "asset": "nameplates/nameplates_v2/spirit_moon/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SPIRIT_MOON_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 8,
+        "effect_id": 2,
+        "colors": [
+          3163762,
+          9709528
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      },
+      "primary_guild": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 11
+  },
+  {
+    "type": 0,
+    "content": "Surprisingly, through Sol's panicked babbling, he’d managed to put together something quite intricate. His hair was gathered into a half-up style, the top section pulled back and secured neatly, while the rest spilled freely down his back in soft, loose waves. Along one side, thin braids were woven close to the scalp, feeding smoothly into the pulled-back section. A few finer braids threaded through the longer lengths as well, creating subtle accents in the long, silvery-blonde hair.\n\nHe looked back at Vornakir with an embarrassed smile. “You probably think this is so stupid,” he laughed, “no way His Royal Highness has anxiety problems when it comes to dating.”",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-28T02:42:08.702000+00:00",
+    "edited_timestamp": "2025-12-28T03:11:04.505000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1454665697652375603",
+    "channel_id": "1449841504511066184",
+    "author": {
+      "id": "155436835013656576",
+      "username": "pyroshadow",
+      "avatar": "ed853f9f1777de28c22f287e735ce2b1",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nightingale",
+      "avatar_decoration_data": {
+        "asset": "a_670b722e56740d11d1e6fe55b8094013",
+        "sku_id": "1343751617303805983",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712028516443",
+          "asset": "nameplates/nameplates_v2/spirit_moon/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SPIRIT_MOON_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 8,
+        "effect_id": 2,
+        "colors": [
+          3163762,
+          9709528
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      },
+      "primary_guild": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 12
+  },
+  {
+    "type": 0,
+    "content": "*A reference photo for what Sol is doing with his hair (I tried my best to describe it <:00EPICWinionheld:896808350132625439>)*",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1454666119477727242",
+        "filename": "IMG_0114.jpg",
+        "size": 30504,
+        "url": "https://cdn.discordapp.com/attachments/1449841504511066184/1454666119477727242/IMG_0114.jpg?ex=69ee24a5&is=69ecd325&hm=4665c54721fbd3a3473633ee78213b42638c49016d6a2699b94ff9a459ac248f&",
+        "proxy_url": "https://media.discordapp.net/attachments/1449841504511066184/1454666119477727242/IMG_0114.jpg?ex=69ee24a5&is=69ecd325&hm=4665c54721fbd3a3473633ee78213b42638c49016d6a2699b94ff9a459ac248f&",
+        "width": 400,
+        "height": 500,
+        "content_type": "image/jpeg",
+        "content_scan_version": 3,
+        "placeholder": "ZSgKDgK3qfzkbNd3iZxVh4h5WJBUAzs=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2025-12-28T02:43:49.325000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1454666119695826965",
+    "channel_id": "1449841504511066184",
+    "author": {
+      "id": "155436835013656576",
+      "username": "pyroshadow",
+      "avatar": "ed853f9f1777de28c22f287e735ce2b1",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nightingale",
+      "avatar_decoration_data": {
+        "asset": "a_670b722e56740d11d1e6fe55b8094013",
+        "sku_id": "1343751617303805983",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712028516443",
+          "asset": "nameplates/nameplates_v2/spirit_moon/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SPIRIT_MOON_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 8,
+        "effect_id": 2,
+        "colors": [
+          3163762,
+          9709528
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      },
+      "primary_guild": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 13
+  },
+  {
+    "type": 0,
+    "content": "Aurum. That made his lips turn downward, at least for a brief moment. He wasn't as close to the *being* as the others, but he'd owed him his life. Literally. If not for Aurum, it wouldn't have just been his arm that disintegrated but literally his entire body. \n\nHe recalled briefly the fight that was going on, how much his body's will power had to fight so hard to still the tide of disintegration before it consumed all of him, and the visions he had when Aurum set to work on him. \n\nJust as Sol had though, he let the thoughts wash away and moved onto a new topic while he started the next part of his care. Polish for his scales. A unique blend of product his mother made especially and exclusively for herself and for him - He had shared it with Nyx when they got closer (while they were allowed to anyway) but never allowed Tyr to indulge. It was always why his golden scales and Nyx's silver ones gleamed lustrously but Tyr's were dull and scratched - Worse for wear all around. \n\nThis process by far took the longest out of all his routines as he applied the lilac paste-like serum to all the scales above his waist, and used a small metal tool in some places to get under the layers and ensure nothing major was stuck between the scales. A warm rumble of a laugh left his lips, \"I can see it now. Twirling and holding tails whilst we walk through campus. It would be sickeningly cute, no?\" \n\nThe thought alone made his cheeks barely darken with color. \"So a tail for Auri, and wings for you. I'm a regular little dragon doll it seems.\" He jested but while using a clean, fine cloth to continue the polishing of his scales he tipped his head to the side. \"Things are going pretty well. We had a sweet date the other day on the rooftop. For the first time, I feel like I don't need to second guess a potential partner's motives. it's nice, you know.\"\n\nShifting his eyes over to watch his friend, Vornakir studied his body language the same way he had with Redd before. Attentive to Sol's natural aura, the way he breathed. Everything that could give him indications on how he felt without speaking. \n\nAs he finished applying the first layer and polishing the scales, he applied a secondary coat of something else and started to scrub them with a more coarse cloth. \"That's got to be really...strange. To have all these foreign emotions and sensations welling up inside you from all the different sources. I imagine it's overwhelming. Truly I don't think I'd do well with it, in your shoes. I already struggle enough with my own.\" He admitted with a lighter laugh before he shifted a bit to watch Sol more. \n\nWatching his fingers fumble on the braids, the flush to his cheeks, the nervous way his fingers worked as he spoke on the deeper emotional parts, every time he paused, the way the words came like they were pouring from a basin as soon as he started to overthink it a little. He was learning a lot about Sol, simply by listening and watching. \n\nWhen it was appropriate to finally speak up, Vornakir shook his head and hoped that his calm demeanor would somewhat relax Sol when he spoke.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-28T20:10:02.831000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1454929410863140925",
+    "channel_id": "1449841504511066184",
+    "author": {
+      "id": "206175579358232578",
+      "username": ".tsukikage.",
+      "avatar": "a_46c3fb914b80216510fecd78138bfdb7",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Akuma",
+      "avatar_decoration_data": {
+        "asset": "a_35e64c0eb789d6019a76b1e95ba13497",
+        "sku_id": "1479191582002516020",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614102036581",
+          "asset": "nameplates/nameplates/cherry_blossoms/",
+          "label": "COLLECTIBLES_NAMEPLATES_CHERRY_BLOSSOMS_A11Y",
+          "palette": "berry"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 4,
+        "colors": [
+          12189699
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      },
+      "primary_guild": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 14
+  },
+  {
+    "type": 0,
+    "content": "\"I don't think you ruined anything. I can understand how some of these things being firsts for you would make you panic a little, and maybe you showed your hand a little faster than you would appreciate. But I think a bit of insight from my culture might give you a new perspective. Everyone views things like that differently; For us, secrets are life. Deceit is key and the most important thing. Lying, not being upfront or direct. It's how almost everyone gets ahead, and keeps *their head*. To someone like me? Being honest, being up front, telling everything you feel without holding anything back as you feel it is incredibly romantic. It holds so much more weight to hold your head high and be proud of what you feel no matter how soon, no matter how strong and to admit it without a single worry in the world. Though I understand things aren't like they are back home - I just thought perhaps it would ease your worries to know at least one person out there values what you did. Personally? I think if Auri did what you to Adrien to me would make me *melt*. The more honest, and the more direct and open she is the faster I'll fall.\" \n\nHe lowered his head with a warm smile, more to himself than anything as he started to rinse his scales. Each one drank the water in and refreshed to a luster they hadn't shone in some time as they were washed clean. It really gave him a more regal appeal to see them look like adornments now. \n\nVornakir lifted his eyes up to Sol and then his brow to follow. And then, he laughed - Hearing Vornakir laugh was always strange when it was unabashed and real like this. Not the rehearsed proper one, just a young man laughing with his heart. Strange, mostly, because it was rare. \n\n\"You'd be surprised. I have anxiety about a *lot* of social things. I can command a room, I can demand attention and get it. I can work a war-room, a gala, a political take-over...Anything like that with ease. But when it comes to interpersonal things I'm gods awful. Growing up the way I did, I never had a chance to hone my social abilities in a real setting. It was impossible to meet another kid my age and make friends with them. They were afraid of me, or their parents forced them to act a certain way to curry favor. I truly didn't have any friends. Not a single one. I had family, I had Nyx briefly and...empty relationships that failed rapidly aside hollow friendships that were selfish and one sided. So, no I don't think this is stupid. I think I understand you better knowing someone else has anxiety and overthinks their actions when they matter like this.\" He said with a soft expression aimed at Sol.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-28T20:10:07.113000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1454929428822888491",
+    "channel_id": "1449841504511066184",
+    "author": {
+      "id": "206175579358232578",
+      "username": ".tsukikage.",
+      "avatar": "a_46c3fb914b80216510fecd78138bfdb7",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Akuma",
+      "avatar_decoration_data": {
+        "asset": "a_35e64c0eb789d6019a76b1e95ba13497",
+        "sku_id": "1479191582002516020",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614102036581",
+          "asset": "nameplates/nameplates/cherry_blossoms/",
+          "label": "COLLECTIBLES_NAMEPLATES_CHERRY_BLOSSOMS_A11Y",
+          "palette": "berry"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 4,
+        "colors": [
+          12189699
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      },
+      "primary_guild": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 15,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "🤩"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "Sol snapped his fingers, and a soft bloom of gold and silver magic zipped in from outside the room, carrying in a small, ornate, wooden chest and a golden hand mirror that floated obediently at his side. The chest settled onto his lap and gently opened with a soft *click*, revealing a collection of hair rings, braid cuffs, and tiny charms shaped like leaves, antlers, and crescent moons, all glinting faintly in the light. The mirror drifted higher, angling itself so Sol could see the braids as he worked. \n\nHe glanced at his reflection once, more out of habit than vanity, then reached into the chest. At the image of Vornakir and Auri twirling tails together, Sol smiled, warmth softening his features as he selected a small charm and slid it carefully into place on one of his braids.\n\n“Oh, absolutely,” he said fondly. “You two would be the most adorable couple on campus; surely, people would lose their minds over it.”\n\nThe mirror adjusted as he added a thin ring farther down one braid; the charm chimed softly as it settled. He briefly looked at it before his gaze drifted back to Vornakir.\n\nAt Vornakir’s jokes about being a dragon doll, Sol laughed under his breath, shaking his head as he reached for another charm, this one etched with delicate woodland filigree.\n\n“Hey,” he said. “Nothing about that is silly.” He threaded the charm into his hair and smoothed the surrounding hair with his thumb. “Those scales are stunning. They’re lustrous, polished, and incredibly *regal*. Hells, you look like someone who jumped out of an epic poem. I guarantee you there are people on campus who are jealous of how you shine.” A teasing glint lit up Sol’s eyes, “Don’t let my compliments go to your head, though.” \n\nSol’s movements slowed as Vornakir spoke about Auri. He dug his hand back into the chest, choosing his next charm carefully; he grabbed a bronze clover charm and added it near the crown of his head, where it would catch the light.\n\n“I’m happy you have her,” Sol said gently. “You deserve happiness, especially after everything that’s been happening to you.” He looked back to Vornakir, the mirror momentarily forgotten. “You nicely complement each other; to me, it feels like you’re not fighting the world alone anymore.” He smiled.\n\nWhen Vornakir discussed openness, about how deceit and trickery were woven into his culture, yet he chose to see honesty and vulnerability as romantic, Sol exhaled a deep breath, the tension visibly leaving his shoulders. He slipped another hair ring into place and rested his fingers atop the chest’s lid.\n\n“I’ve never thought about it that way,” he admitted. “That being open like that can be romantic on its own.” A small, relieved smile curved his lips. “That perspective actually helps more than you know. Thanks.”\n\nSol released a quiet, affectionate chuckle when Vornakir commented about struggling with relationships with others. He picked up one last charm from the chest and rolled it between his fingers before setting it in place near the end of a braid.\n\n“You’re selling yourself short,” he said. “By a wide margin, as large as a canyon actually.” Sol lightly laughed as he met Vornakir’s eyes. “I see the way people respond to you, especially the others; the way you make auras shift when you enter a room. Sometimes it’s a good shift, sometimes not, but you make people feel something, even when you think you’re doing the opposite. But just between us, with the people who are closest to you, the auras are mostly positive.” He winked assuredly at Vornakir.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-31T05:47:38.160000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1455799541579255999",
+    "channel_id": "1449841504511066184",
+    "author": {
+      "id": "155436835013656576",
+      "username": "pyroshadow",
+      "avatar": "ed853f9f1777de28c22f287e735ce2b1",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nightingale",
+      "avatar_decoration_data": {
+        "asset": "a_670b722e56740d11d1e6fe55b8094013",
+        "sku_id": "1343751617303805983",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712028516443",
+          "asset": "nameplates/nameplates_v2/spirit_moon/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SPIRIT_MOON_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 8,
+        "effect_id": 2,
+        "colors": [
+          3163762,
+          9709528
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      },
+      "primary_guild": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 16
+  },
+  {
+    "type": 0,
+    "content": "The mirror drifted forward as Sol leaned back and took in his reflection, admiring the work he had finished. Then he returned to conversing with Vornakir again.\n\n“I get it, though,” Sol continued. “The upbringing, all the expectations.” His voice changed into a more personal tone. “I only really had my mom and my brother growing up. My dad was more of a disciplinarian than a warm father, but you already know how he is, and most of the friendships I was *allowed* to have were with the kids of other nobles my dad was trying to sweet-talk.” A faint, rueful smile appeared on his face. “Those friendships never felt real; when they discovered my talent for magic, they only ever wanted to talk to me to use my illusions, not actually get to know *me*.”\n\nHe closed the chest, and it locked with a quiet click; with a wave of his hand, it was coated in golden and silver magic, and hastily zipped out of the room again.\n\n“So yeah,” Sol said as the mirror floated over to rest beside Vornakir. “I think I understand you, too.” His smile brightened. “Also, you don’t have to worry about hollow friendships anymore.”\n\nHis smile widened. “You’ve got me.”\n\nHis eyes drift briefly to Vornakir’s hair, taking in the golden undertones that caught the steam-softened light, and his expression turned simultaneously thoughtful and playful.\n\n“You know,” he said, a little hopeful, “I could braid your hair sometime; do something really regal or laid-back, whatever you’re feeling.” A smile flickered. “I’ve been wanting to do someone else’s hair for a while now. You don’t have to accept, by the way, it’s just an offer.”",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-12-31T05:52:10.797000+00:00",
+    "edited_timestamp": "2025-12-31T06:21:57.996000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1455800685101580288",
+    "channel_id": "1449841504511066184",
+    "author": {
+      "id": "155436835013656576",
+      "username": "pyroshadow",
+      "avatar": "ed853f9f1777de28c22f287e735ce2b1",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nightingale",
+      "avatar_decoration_data": {
+        "asset": "a_670b722e56740d11d1e6fe55b8094013",
+        "sku_id": "1343751617303805983",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712028516443",
+          "asset": "nameplates/nameplates_v2/spirit_moon/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SPIRIT_MOON_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 8,
+        "effect_id": 2,
+        "colors": [
+          3163762,
+          9709528
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      },
+      "primary_guild": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 17
+  },
+  {
+    "type": 0,
+    "content": "Given that taking care of his skin and hair took less time, he spent more or less the rest of his time tending to each patch of his scales to ensure everything was shining as it ought to and nothing was beneath the layers. Usually he'd do this far more often so the upkeep was significantly less but with all that piled on, it seemed he let it fall by the wayside for some time. \n\n\"You flatter us, but I think we're a small ways away from being a couple anyway. I think there's something between us, but neither of us are ready to manifest it into existence. Maybe there's a fear of the thread between us being fragile or not wanting to jump the gun - Maybe it's as simple as we're just both silently agreeing to build a proper foundation so it's something real and lasting. But I won't pretend I wouldn't adore the idea of walking around, holding hands or tails if I'd grown one.\" He admitted with another warm laugh as he picked some dirt from beneath one of his scales beneath his upper chest. \n\nThen he snorted with a shake of his head, cracking a grin over at Sol. \"Don't let it go to my head, he says, as he strokes my ego more than I do in a given day.\" He teased back. \"But really, I appreciate the insight. Not just about the scales but...how you say people see me, and feel. It's hard for me to take things at face value with how my people are, and how things tended to go back home. I feel like I always assume everyone is lying for some reason or another.\" \n\nA sigh and a beat of silence followed as he listened to Sol's time back at his own home. He nodded along, digging some last bits of stone and dirt from the scales on his chest out. \"I guess we have that deeply in common then. I promise you, what you've got going on now...Not just with me, but especially me, it's real. None of us want to use your illusions or use you for personal gain. We all adore you. Some of us in our own ways, but in general it's all real.\" \n\nBut meeting his gaze, his grin turned back into the genuine smile of a boy that felt like he'd made one of his first friends ever. \"And you've got me, for what its worth.\"\n\nHe blinked, rolling his eyes upward as if he could see his hair atop his head by doing so. \"Really? Mm, you know back home it's an expectation to never let people see you at anything other than your best. When I first moved into the dorm, I'd never leave my room outside full proper outfit and properly groomed hair and all. I've slacked on that in the last few weeks, but. Never really gave thought to someone *else* doing my hair.\" \n\nWatching Sol carefully as he did his own hair, it made Vornakir tip his head to the side thoughtfully. \"I think I'd love that. Free reign, I want to see what you think would suit me best. You nailed it with the Sponsorship Day attire, surely this would be the same.\"",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-01-04T01:30:50.414000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1457184468270973009",
+    "channel_id": "1449841504511066184",
+    "author": {
+      "id": "206175579358232578",
+      "username": ".tsukikage.",
+      "avatar": "a_46c3fb914b80216510fecd78138bfdb7",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Akuma",
+      "avatar_decoration_data": {
+        "asset": "a_35e64c0eb789d6019a76b1e95ba13497",
+        "sku_id": "1479191582002516020",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614102036581",
+          "asset": "nameplates/nameplates/cherry_blossoms/",
+          "label": "COLLECTIBLES_NAMEPLATES_CHERRY_BLOSSOMS_A11Y",
+          "palette": "berry"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 4,
+        "colors": [
+          12189699
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      },
+      "primary_guild": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 19
+  },
+  {
+    "type": 0,
+    "content": "Sol’s smile softened, and a hint of shyness flickered across his face at Vornakir’s words. “That means a lot,” he said quietly, a faint flush creeping across his cheeks. “Really, hearing that from you means more than I can put into words.”\n\nWhen Vornakir agreed to allow Sol to braid his hair, Sol lit up like a dancing lights spell. “Yes,” he cheered jubilantly, throwing his hands in the air.\n\nWith a wave of his hands, the golden and silver light bloomed again in the steamy air as the small chest reappeared, settling at Sol’s side with a quiet chime. Sol glanced down at the self-care kit and grabbed a fine-toothed comb; then, he flicked his wrist, and the hand mirror glided in front of Vornakir, hovering obediently so Sol had a front-facing angle to see what he was doing.\n\n“Alright,” Sol said, flexing his fingers, eyes focused in a way designers got when inspiration hit\n\nHe stepped behind Vornakir and, using the comb's tail, sectioned the hair with practiced precision into clean lines along one side, creating narrow rows near the temple. He started with small, thin, tight braids close to the scalp, weaving the hair backward in clean tracks. Each braid fed seamlessly into the longer hair, anchoring the style.\n\nOnce the side was done, Sol gathered a larger section from the crown, and split it into thick strands and weaved them together into a loose, flowing braid that cascaded down the back of his head. It was softer looking than the braids at the side, an intentional contrast he used to allow the natural texture and gold undertones of Vornakir’s hair to shine through as the hair twisted and folded over itself.\n\n“Your hair feels very healthy by the way,” Sol noted as he worked, fingers moving steadily. “It holds shape well and feels strong.”\n\nHe reached into the ornate chest, selecting a few slim, metal rings etched with subtle storm runes, and slid them carefully onto a few of the thinner braids: some rings near the temple, some in the middle, and the rest lower down, where the braid tapered to an end. He followed that by adding some small charms: a dragon-claw-shaped charmed inlaid with polished sapphire, a crescent charm made of dark titanium. The final touch was a tree-like charm composed of half gold, half silver that resembled the Nythrilith if the Barricade that Sol attached near the nape of the neck, ensuring it would catch the light every time Vornakir shifted.\n\nSol stepped back and checked the braids' symmetry in the mirror, then smoothed a few stray strands back into place with his thumb.\n\n“There,” he said, satisfied. “Regal, but not too stiff; something that feels like you.”\n\nHe smiled at Vornakir’s reflection with both excitement and pride.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-01-06T07:08:44.147000+00:00",
+    "edited_timestamp": "2026-01-06T07:10:35.873000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1457994278201725080",
+    "channel_id": "1449841504511066184",
+    "author": {
+      "id": "155436835013656576",
+      "username": "pyroshadow",
+      "avatar": "ed853f9f1777de28c22f287e735ce2b1",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nightingale",
+      "avatar_decoration_data": {
+        "asset": "a_670b722e56740d11d1e6fe55b8094013",
+        "sku_id": "1343751617303805983",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712028516443",
+          "asset": "nameplates/nameplates_v2/spirit_moon/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SPIRIT_MOON_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 8,
+        "effect_id": 2,
+        "colors": [
+          3163762,
+          9709528
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      },
+      "primary_guild": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 20
+  },
+  {
+    "type": 0,
+    "content": "",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1457994343775211633",
+        "filename": "IMG_0140.jpg",
+        "size": 290535,
+        "url": "https://cdn.discordapp.com/attachments/1449841504511066184/1457994343775211633/IMG_0140.jpg?ex=69ee62cb&is=69ed114b&hm=2c441bb409cbb8ff8399299d0ec69ccabcae75a1514d347b4e8d9bbcbf3eb5a5&",
+        "proxy_url": "https://media.discordapp.net/attachments/1449841504511066184/1457994343775211633/IMG_0140.jpg?ex=69ee62cb&is=69ed114b&hm=2c441bb409cbb8ff8399299d0ec69ccabcae75a1514d347b4e8d9bbcbf3eb5a5&",
+        "width": 817,
+        "height": 1319,
+        "content_type": "image/jpeg",
+        "content_scan_version": 3,
+        "placeholder": "7RgOFAT7hZaIhoiXh4gDuEWQWw==",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2026-01-06T07:08:59.969000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1457994344564002927",
+    "channel_id": "1449841504511066184",
+    "author": {
+      "id": "155436835013656576",
+      "username": "pyroshadow",
+      "avatar": "ed853f9f1777de28c22f287e735ce2b1",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nightingale",
+      "avatar_decoration_data": {
+        "asset": "a_670b722e56740d11d1e6fe55b8094013",
+        "sku_id": "1343751617303805983",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712028516443",
+          "asset": "nameplates/nameplates_v2/spirit_moon/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SPIRIT_MOON_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 8,
+        "effect_id": 2,
+        "colors": [
+          3163762,
+          9709528
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      },
+      "primary_guild": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 21
+  },
+  {
+    "type": 0,
+    "content": "He rubbed at the back of his neck mildly nervously. \"It means a lot to me as well, honestly. Like I said before, I don't have a lot of friends so those that are counted among them mean a lot to me.\" He admitted sheepishly. \n\nThe excitement behind Sol surprised him, but pleasantly so. \n\nCautiously at first, but inevitably comfortably, he watched Sol stand and prepare everything to do what he needed for this impromptu grooming. He kept his head still as Sol walked behind him. Auric eyes peered through the mirror as well to ensure he was up to date on everything that was happening in real time. \n\nIt was curious to watch someone work on something that brought them a degree of passion. He imagined it was quite a show to see Sol doing his fashion work in real time as well, and even further this was probably the same level of passion he worked with when he cooked or painted. \n\nHis eyes rolled upward a couple of times, not rolling them at what Sol did or said but to eye a particular small fly away strand just seconds before Sol tamed it. Even someone like him had that *annoying* little unruly piece of hair that needed forced into submission. The perfection was, as usual, a ruse carefully constructed each morning. \n\n\"Honestly, it's always been my favorite part of me believe it or not. The Scales are a point of pride for sure but...I was born with those. They're a result of the blood. The hair? That's because of *me*. You'd be surprised at how gaudy some of the men's styles are back home. The popularity fluctuates between so many different types, it gives me whiplash.\" \n\nThe charms came next and his head canted to the side after Sol finished up with the work he put in. Vornakir lifted his hand to draw the tip of his finger carefully over some of the details. The thicker braid, the smaller ones, touching at each of the charms to let their significance sink in. All the while, his smile was ever present. \n\n\"You've got a real eye for this kind of thing. Not just clothing fashion but *personal*. Everything about someone's presentation. It's official, if you don't open a boutique in the Barricade I'm personally paying for a private teleportation circle being created nearby wherever you do open up.\" \n\nThe most unfortunate part of this wonderful spa evening they'd taken part in, was that it would eventually have to end whether they wanted it to or not. And judging by the steam gradually dissipating that time was rapidly approaching. \n\n\"Looks like we're gonna have to clean up and get out of here soon. We've officially wasted all the hot water they have in this dorm until the ecto recharges near their water source. I appreciate you humoring me and taking me up on this though. The relaxation was worth it, and I feel. Y'know, closer now.\" He said the last bit once more a bit more on the nervous side, as if he was afraid the blossoming friendship may be fragile.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-01-08T17:41:39.306000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1458878333293957315",
+    "channel_id": "1449841504511066184",
+    "author": {
+      "id": "206175579358232578",
+      "username": ".tsukikage.",
+      "avatar": "a_46c3fb914b80216510fecd78138bfdb7",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Akuma",
+      "avatar_decoration_data": {
+        "asset": "a_35e64c0eb789d6019a76b1e95ba13497",
+        "sku_id": "1479191582002516020",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614102036581",
+          "asset": "nameplates/nameplates/cherry_blossoms/",
+          "label": "COLLECTIBLES_NAMEPLATES_CHERRY_BLOSSOMS_A11Y",
+          "palette": "berry"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 4,
+        "colors": [
+          12189699
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      },
+      "primary_guild": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 22
+  },
+  {
+    "type": 0,
+    "content": "Sol’s smile lingered as Vornakir admired the finished braids. Pride briefly flickered across his face before it settled into contentment.\n\n“That might be the highest praise I can get from you, I’ll take it!” He laughed while rubbing the back of his neck. “You’ve all but convinced me to open up a boutique or two in the Barricade at this point. And honestly?” His eyes brightened. “I’ll probably offer hair styling on the side too; clothes are only half of someone’s story after all.”\n\nHe glanced one more time at Vornakir’s reflection, satisfied with his work, before looking his friend in the eyes again. “When I was little,” Sol added quietly, “doing hair was one of the few freedoms my father gave me.” He shrugged, fingers absently fidgeting with the edge of his sleeve. “I did my own, my mom’s, sometimes my dad’s when he wasn’t in a mood, but most of the time I did the hair of the kids of the staff of the estate. It was one of the few things that felt mine entirely.” A small smile returned.\n\nSol noticed the steam thinning around them and the warmth beginning to ebb. Sol nodded as Vornakir spoke.\n\n“Yeah,” he said softly. “It’s probably time to head out; the last thing we need is Headwatch investigating water heating issues,” he joked.\n\nHe snaps his fingers, and the mirror and chest dissolve into a gentle prism of light, fading harmlessly into the air. Then, with a wave of both of his hands, fine, luminous threads of golden magic spool outward, weaving through the air around them like spun silk. If Vornakir allowed Sol’s spell to take hold, the light would gather and coil, briefly obscuring the white robes as it wrapped them both in a soft shimmer. When it would fade, the robes would seamlessly be replaced with their casual wear, which would be subtly refined in cut and fit. The fabrics would look freshly pressed and impossibly clean, with a faint trace of warmth and a lingering scent like sunlit linen and vanilla.\n\nSol looked back at Vornakir. “I’m happy we did this, too,” he said honestly. “And the feelings mutual, I feel closer to you as well, I mean.” He smiled radiantly at his friend. \n\n“You don’t have to worry about this being an easily fracturing thing, by the way,” he smiled. “I figured that a friendship that can survive a spar fight gone awry and an exploding pocket dimension is pretty resilient.” He winked.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-01-09T04:14:18.564000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1459037545961750568",
+    "channel_id": "1449841504511066184",
+    "author": {
+      "id": "155436835013656576",
+      "username": "pyroshadow",
+      "avatar": "ed853f9f1777de28c22f287e735ce2b1",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nightingale",
+      "avatar_decoration_data": {
+        "asset": "a_670b722e56740d11d1e6fe55b8094013",
+        "sku_id": "1343751617303805983",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712028516443",
+          "asset": "nameplates/nameplates_v2/spirit_moon/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SPIRIT_MOON_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 8,
+        "effect_id": 2,
+        "colors": [
+          3163762,
+          9709528
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      },
+      "primary_guild": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 23
+  }
+]

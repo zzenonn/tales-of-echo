@@ -1,0 +1,99 @@
+[
+  {
+    "type": 0,
+    "content": "The night air bit at Sol’s cheeks as he cut through it, wings beating hard enough to sting his muscles. He didn’t fly often; flying was for moments when the ground couldn’t hold him, when his chest burned too hot to stay still. Tonight it was fury that carried him aloft.\n\nThe image of Griffin’s burned skin clung to him like smoke. He could still feel the way his own hands shook as he poured light into the wounds, could still hear the ragged edge of Griffin’s breath as he fought to stay conscious. \n\nSol had been taught that a good healer didn’t just mend flesh; they understood it. To heal someone, you had to feel the wound, step into their pain for a moment, and carry it with them until the magic took root. It’s what he felt made his healing touch so effective.\n\nBut with Griffin, it was different. The burns weren’t just marks on skin; they felt seared into Sol’s own chest as he worked, each hiss of torn flesh echoing in his bones. By the time the wounds closed, he was drained, trembling, and hollowed out. For the first time, he understood what it meant for healing to take something from the healer as well.\n\nThis was Sorjin’s display of power, not an accident or some test gone awry; it was purposeful and completely avoidable. He had warned them. He had told Hallowforge that Sorjin was unstable and wasn’t fit for a duel, and still, they threw Griffin into his fire like it was a game.\n\nAnd for what? For Sorjin to sneer and strut, to turn the field into a stage for his petty, high-school squabble with Redd and Zurr’ka? It made Sol sick. Using Griffin as a pawn to twist a knife into Zašia. How many more students were they willing to throw to Sorjin to preserve the academy’s farce image of order?\n\nHis wings snapped wide as he banked hard over the dorm roofs, the cold wind biting into the dampness in his eyes. What kind of academy was this? One that valued drama and prestige over its students’ lives? What kind of professors looked at them and saw expendable pieces instead of people? The thought left him raw and trembling from the betrayal of it all.\n\n“What the fuck is wrong with this place?” he muttered to himself, the words lost in the air.\n\nAbove the campus, Sol forced himself higher, pushing against the weight in his chest. He didn’t know if he was chasing clarity or just trying to outrun the sound of Griffin’s pain still echoing in his ears. Either way, flying was the only thing that felt big enough to hold his anger.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-21T07:15:29.199000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1419220475493748776",
+    "channel_id": "1419220475493748776",
+    "author": {
+      "id": "155436835013656576",
+      "username": "pyroshadow",
+      "avatar": "ed853f9f1777de28c22f287e735ce2b1",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nightingale",
+      "avatar_decoration_data": {
+        "asset": "a_670b722e56740d11d1e6fe55b8094013",
+        "sku_id": "1343751617303805983",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712028516443",
+          "asset": "nameplates/nameplates_v2/spirit_moon/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SPIRIT_MOON_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 8,
+        "effect_id": 2,
+        "colors": [
+          3163762,
+          9709528
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      },
+      "primary_guild": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "802952716979666984",
+          "name": "bloboohcry"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "👀"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": true,
+        "burst_count": 0
+      }
+    ]
+  }
+]

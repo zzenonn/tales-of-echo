@@ -1,0 +1,5 @@
+discord-fetch.env
+_site/
+.jekyll-cache/
+.sass-cache/
+Gemfile.lock

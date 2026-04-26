@@ -1,0 +1,461 @@
+---
+layout: default
+title: "*~Four Days after the Quasi Incident™~*"
+---
+
+<div align="center">
+
+# *~Four Days after the Quasi Incident™~*
+
+<img src="https://img.shields.io/badge/status-Unknown-95a5a6?style=for-the-badge" alt="Unknown" />
+
+**Campaign:** The Spark Saga  
+**Writers:** Vornakir &bull; Redd  
+**Date:** December 14, 2025 &ndash; January 08, 2026
+
+</div>
+
+---
+
+
+### &#x270D; Vornakir
+<sub>Dec 14, 2025 &middot; 07:26 PM UTC</sub>
+
+*~Four Days after the Quasi Incident™~*
+
+For the first time since arriving at Spark Oath, Vornakir was finally feeling like himself. His hair was beautifully groomed, well washed and scented like jasmine and his skin was aglow after whatever treatment he and Sol had decided on doing together. His nails were well maintained, and he smelled of a pleasant soft cologne. In fact it had been some time since most of his friends had witnessed him in such good conditions. Even most of the bags under his eyes started to fade away (for now). 
+
+Only when he felt like he was at his absolute best would he have slipped a note under Redd's door early in the morning and made his way to the kitchen. With the assistance of his mage hand and a lot of experience, he set his sights on all of the confectionary supplements he could find to make a delightful dessert spread. His by now dorm famous cherry tarts, a small assortment of gourmet cupcakes and lighter treats in the form of some crepes adorned in an array of in season fruits. 
+
+The table was sat with plenty of treats as well as a Drow special drink - He placed his hand over the lip of a large pitcher and manipulated the mana in the air to rapidly expand within the sugary flavored water to create some manner of carbonation. After he was satisfied with the small spread her created, he rested in his chair and kicked back to wait on Redd to awake to his note. It was simple, only a couple of sentences but it was clear this was his extension of an offer to spend time together just them.
+
+> *"Redd,*
+> 
+> *When you wake and are available to have a sit down with me, I have some treats prepared for you. I have some things I'd like to say to you - Not in that way, please don't have Zurr'ka incinerate me if he's in there with you. We've lived together for some time now and have never gotten closer than dormmates despite everything that's happened.*
+> 
+> *I'll be in the kitchen, follow the scent of sweets."*
+> 
+> *"- Vornakir Vanori"*
+
+
+<sub>Dec 14, 2025 &middot; 07:26 PM UTC</sub>
+
+[[ @user ]]
+
+
+### &#x270D; Redd
+<sub>Dec 15, 2025 &middot; 11:56 AM UTC</sub>
+
+Redd found the note when the light was just starting to slip through the narrow window of his room, pale and undecided.
+
+For a moment, he didn’t reach for it.
+
+Four days wasn’t long enough for his body to forget the Quasi incident—not the sharp vigilance, not the way his mind still ran quiet checks when he woke. And, unhelpfully, memory did what it always did when he let it wander: it dragged him back months, to the first time Vornakir had gone down and not gotten back up fast enough. To the moment Redd realized—too late—that he hadn’t healed him in time.
+
+That failure never screamed. It just… stayed.
+
+During the Quasi incident, he hadn’t let it repeat. He’d stayed close. On Vornakir. Watched him like a hawk, hands ready, focus locked. Not twice. Not again.
+
+The note pulled him out of it.
+
+He read it once, lips twitching despite himself. Of course it involved food. He read it again, slower this time, and caught the care threaded through the words—the reassurance, the very deliberate boundaries, the fact that this was clearly planned.
+
+He wouldn’t do this if it didn’t matter, Redd thought.
+
+With a quiet huff, he swung his legs out of bed.
+
+If Vornakir was going to take this seriously—and Redd knew he would, because when Vornakir committed to something he went all in—then the least Redd could do was meet him there. He cleaned up properly, chose a shirt that didn’t look slept in, coaxed his hair into something cooperative. Not full effort. But… enough. Maybe even enough to impress, just a little.
+
+Whimsy watched him with visible approval as he left.
+
+The scent hit him before the kitchen did.
+
+Redd slowed in the doorway, eyes sweeping over the spread with open appreciation before landing on Vornakir himself. Groomed. Polished. Composed. Cherry and soft cologne instead of exhaustion and strain. Redd wasn’t surprised—if Vornakir was going to host, this was exactly how he’d do it—but there was still a quiet relief in seeing him like this.
+
+“Well,” Redd said, leaning against the doorframe, arms crossing loosely, his gaze sweeping the table with exaggerated consideration, “if this were you coming on to me, you might actually give Zurr’ka a run for his money. I don’t usually need this much wooing,” he says in jest. 
+
+He stepped closer, gaze flicking from the cherry tarts to the crepes, then to the pitcher. “You know,” he added, smirk firmly in place, “you could’ve just said you wanted to talk.”
+
+Then his eyes returned to Vornakir, and the teasing softened at the edges.
+
+“You look good,” he said, plainly. No flourish. Just fact.
+
+Redd moved to the table and finally pulled out a chair, though he paused before sitting. “Also—before you say anything,” he added, tilting his head slightly, “thank you. For the cooking help. Especially the don’t accidentally poison Zurr’ka parts.” A beat, then a quiet laugh, “Honestly, we probably wouldn't have gotten together without it,” Redd laughs
+
+He took a seat at last, reaching for a glass as he settled, posture relaxed but attention fully on the sorcerer across from him.
+
+“We’ve been living together a long time,” Redd said, lighter again but not dismissive. “And somehow managed to dodge an actual sit-down until now. Feels a little overdue.”
+
+He poured himself a drink, took a small sip, then looked back up at Vornakir, expression open and steady.
+
+“So,” he said. “I’m here. You have my attention. What did you want to say?” His eyes drifted—just briefly—to the nearest tart before he clasped his hands together, clearly resisting the urge; waiting for Vornakir's response.
+
+
+### &#x270D; Vornakir
+<sub>Dec 15, 2025 &middot; 11:08 PM UTC</sub>
+
+The easy way in which Vornakir most often carried himself was never lost on his companions and for that, he was relieved. It didn’t seem like it carried a lot of weight, because in truth it was just their observations. But the fact that he was able to fool them into thinking most of the time it was just as natural as breathing meant his mask was mending. 
+
+Not that he wanted to hide his true self from his friends like that, but in his culture and lifestyle he had to pursue it was a blessing. A gift. He let out a soft breath when Redd finally arrived and gave him that easy, composed smile as he straightened up. 
+
+ “You flatter me,” He admitted as he gestured forward and his mage hand sparkled into existence just a few inches in front of him, enough to pull Redd’s chair out for him properly. “But of course I would never step between that. I was very invested in seeing the success and romance bloom after all.” He said in half jest but with. Serious undertone to it.
+
+A playful scoff came next, “Of course I could have but when have I ever resorted to something so base and bland? Mother always said, ‘Never miss a chance to leave an impression regardless of its good or bad’.” 
+
+ Vornakir patiently waited and watched his friend take the seat - Now that Redd was here with him alone, he might take note of some of his habits and mannerisms. The way he watched everyone’s movements like a predator, the way he watched every corner and entrance like prey. 
+
+The way he visibly relaxed when things were calm enough to not sense danger or when he was in company of someone he felt safe around.
+
+Just like it was now. He was comfortable and safe enough to not be completely on edge.
+
+“That’s part of it, honestly. We’ve been living together all this time and fought side by side…and it took me until I lost my arm to even know your full name besides ‘Redd’. Everything you’ve done for me, everything we’ve done together and you’re the only person I haven’t gotten to get close with.”
+
+For a few moments he let that hang in the air, gesturing to the treats to indicate Redd was more than allowed to help himself to any and every thing that was prepared.
+
+“I wanted to tell *you* Thank you. It isn’t lost on me, the amount of time you spent ensuring I didn’t die during our escapade into the Quasi. I apologize for any hinderance I may have been, but I’d be the worst person alive if I didn’t show my gratitude for how much you saved me. So I thought, fuck it. Why not cook some gourmet desserts, thank you proper and make up for lost time by getting to know you.”
+
+With that, he offered a kind smile and took one of the tarts for himself to hopefully encourage Redd to dig in himself.
+
+
+### &#x270D; Redd
+<sub>Dec 16, 2025 &middot; 04:29 AM UTC</sub>
+
+Redd didn’t hesitate this time. He reached out and took one of the cherry tarts, breaking it cleanly in half before taking a bite. Sweet, rich—dangerously good. He exhaled through his nose, a quiet sound that might’ve been a laugh if it weren’t so restrained.
+
+“Yeah,” he said after a moment, swallowing. “Okay. That was worth the wait.”
+
+He glanced back up at Vornakir as he spoke, nodding once at the thanks. His gaze drifted then, unbidden, to where Vornakir’s arm wasn’t.
+
+Redd’s fingers tightened slightly around the remaining half of the tart.
+
+“I already failed you once,” he said quietly. No drama. Just fact. “I was late. I misjudged it. And you paid for that.” His eyes lingered a second longer before he forced them back up to Vornakir’s face. “So during the Quasi? I wasn’t letting it happen again. I didn’t care what else was going on.”
+
+He took another bite, smaller this time, more out of necessity than appetite.
+
+“When you died the first time…” Redd trailed off, jaw setting. “I don’t think I handled it well. I’m good at pretending, but that really broke me” A faint, self-aware huff. “Seeing you go down again—I don’t know. Something in me just snapped into place.”
+
+He shrugged, one shoulder lifting. “Guess hovering was my way of making sure I didn’t have to look at myself later and wonder if I’d missed it again.”
+
+The tension eased slightly as he swallowed the last of the tart, brushing crumbs from his fingers. He looked at Vornakir then, properly—steady, present.
+
+“I’m glad you’re still here,” Redd said, simpler than everything else he’d said so far. “And… I appreciate you saying thank you. Even if I don’t really know what to do with it.”
+
+A beat. Then, gently, he tipped his head.
+
+ “What about you?” Redd asked, a small smirk returning as his eyes swept over him. “You’re looking good—suspiciously good, actually. If this is your idea of a recovery arc, I’m starting to feel underdressed.” A beat, softer. “But really—are you doing better? Is everything coming up Vornakir after your birthday party and the Quasi Incident?”
+
+
+### &#x270D; Vornakir
+<sub>Dec 16, 2025 &middot; 11:12 PM UTC</sub>
+
+His smile was unshackled and unburdened. Whether that was genuine or not remained to be seen. The effort was made regardless, and his head turned to tip to its side while Redd finally indulged. A chuckle, and then a shake of his head.
+
+“I do believe you’re my favorite person to cook for in the dorm, truthfully. Everyone appreciates it and enjoys it, but I don’t think any of them truly indulge in it like you do. You almost revel in the desserts.” He admitted, and despite the fact that he excelled at a good number of things his friends would know which ones came naturally from his prodigious upbringing and which ones were passions and labors of love.
+
+Cooking, specifically baking, seemed to be one of his passions.
+
+Vornakir despite his comfort in the moment was still hyper vigilant. The sidelong glance at his missing arm caused his chest to sink, the guilt his friend felt clearly noticed with ease. 
+
+The one armed Prince sat his half eaten tart on his plate for now, content to nibble at it over time it seemed. “You didn’t fail me, you know. Don’t get me wrong I know what guilt does to a man and how unpleasant it’s stay in your heart can be. How it whispers lies you can’t help but see as gospel…” 
+
+He cleared his throat, wiping at his lips with a cloth to clean any residue powder sugar and cherry filling from his face. 
+
+“But you must understand, things happen outside of our grasp. And I do not hold you responsible for the loss of my arm. I want you to hear that and understand it clearly. Yes losing it hinders me, even if I don’t show it. Yes it brings me despair. But it is ***not*** your fault, and no result of your lack of ability or awareness.”
+
+The silence would stretch for a couple of moments, Vornakir obviously having more to say but he didn’t want to prattle on until he figured that was sufficiently sunken in. 
+
+Snatching up the tart to chew at it again, and not speaking until he swallowed it and cleaned his lips proper again, Vornakir resumed shortly after.
+
+“Your efforts are very appreciated though. But when in doubt, just know I harbor no ill will to you. Nothing but appreciation and my own guilt for putting you through that.” 
+
+He hoped, for now, that would be sufficient to at least bury some of Redd’s lingering trauma and guilt. He finally broke eye contact with Redd, and set about just idly clawing the tip of his finger over the crispy crust of the tart. 
+
+A smirk, more genuine for certain than the first pleasant one he offered before, painted his face then. “Everything is coming up Vornakir for the time being, yes. We’re all alive, most of this is for now put behind us. My only concern now is school and interpersonal things like friendships and relationships. I’m hoping to resume my dueling career once the league is allowing them once again.” 
+
+“What about you? What’s your plan this upcoming semester? Any grand goals or shooting for the stars intentions?”
+
+
+### &#x270D; Redd
+<sub>Dec 17, 2025 &middot; 03:37 PM UTC</sub>
+
+Redd snorted softly at that, glancing down at the remnants of the tart in his hand. “Favorite person?” he echoed. “I don’t know. I would’ve put money on Caspian. I’ve seen that man eat like he’s preparing for a siege.” He took another bite anyway, clearly unrepentant. “I just have better taste, and he needs to watch those goodberry calories”
+
+The levity faded—not abruptly, but naturally—as Vornakir spoke on. Redd listened without interrupting, fingers stilling, his gaze lifting back to him and holding there. When Vornakir finished, Redd exhaled slowly through his nose.
+
+“I hear you,” he said quietly. “I do.” A beat. “I’m not going to pretend that flips a switch and makes the guilt disappear. It doesn’t work like that.” His mouth twitched, rueful. “But… it helps. Knowing you don’t blame me. Knowing that part of it isn’t something I have to keep arguing with myself about.”
+
+He glanced, briefly, at the empty sleeve again—then forced himself not to linger. “I’ll probably still carry it,” Redd admitted. “Just… a little lighter than before.”
+
+He shifted back in his chair when Vornakir asked about plans, the word itself clearly catching on something unfamiliar. “That’s a dangerous question,” he said dryly. “I’ve never really had a plan. Not long-term ones, anyway. I’ve always been more of a ‘see where I land’ kind of problem.”
+
+Still, he thought about it.
+
+“The spell dueling started out as… honestly? A way to help Zurr’ka. Twisted logic, maybe, but it made sense at the time.” He shrugged. “Somewhere along the way, I realized I actually enjoy it. It’s nice to be good at something that isn’t about charm or flirting or who I’m with. It’s mine.”
+
+There was a brief pause. “The nightmares are still there,” he said, quieter now. “Same ones. My town on fire. Streets I recognize going up in flames.” A small breath. “I manage,” he lies. 
+
+“Which is part of why I’m thinking about going back,” Redd continued, his expression shifting, something more complicated settling in. “Actually seeing how bad things are. Seeing them with my own eyes.”
+
+He glanced aside, then back. “And if this audience with the Archmage goes the way it’s supposed to, maybe I can finally get some answers about what’s been happening there. Or at least a direction.”
+
+A dry huff of a laugh followed. “Which is new for me. Directions. Goals. I’ve never really had those—I’m kind of making this up as I go.”
+
+Redd tilted his head, studying Vornakir in turn, that familiar spark of curiosity returning. “What about you, then?” he asked. “Getting back into dueling once the league opens is one thing—but after the assassination attempts, the Quasi, all of it…”
+
+His gaze flicked briefly, meaningfully. “And losing Velvyn in the middle of that mess—I know you two had this friendship (?) going on.”
+
+He let that settle before continuing, voice calmer, more intent. “Has all of that changed what you want out of it? Out of where you’re aiming next?” A pause. “And when we finally get that audience with the Archmage… what are you hoping to ask about?”
+
+
+### &#x270D; Vornakir
+<sub>Dec 19, 2025 &middot; 12:33 AM UTC</sub>
+
+“I enjoy cooking for everyone obviously, and for different reasons to each person. But you experience every bite, and appreciate the smaller finer details of what I make. That level of recognition makes me happy, that someone pays enough mind to my passion,” he said with a firm nod. 
+
+He let Redd’s words linger in the air and settle before he replied, not wanting to dismiss his concerns. “It’s understandable, really it is. You wouldn’t be half the man you are today if you merely let a few words dictate what the events that shaped you made you feel.” He added, taking note again at the way Redd paid mind to his lack of a left arm. 
+
+His own beat passed and he didn’t show shame or annoyance at the missing arm. In fact, he brought his remaining hand up to rub where his arm used to be. “I truly don’t think you’d ever be able to not carry it. I don’t want it to burden you til your last day, but something like this isn’t easy to forget when you witness it. Especially if you carry guilt for it. But at the very least, that’s what I wanted from you - for you to carry a little less, even if marginally.”
+
+Thinking about it, he tried to make light of it with a cracked smile that nearly reach the corners of his face. “Besides, it was kind of in a sad way a meet cute. I don’t think I’d have been able to truly take a look at myself, and see faults enough to open my eyes and…really see Auri. When she came to me to show that she’d done some of my school work to ensure I wouldn’t fall behind, that’s when I truly started to notice her.” 
+
+The admission made his face heat at least a little - it was strange, to see a man of his composure and station this…normal. “So if anything, take that to heart. I may have lost an arm, but in the process I may have gained something I always thought was out of my reach.” He didn’t specify what it was - it was too early to name it, but something definitely changed in him when he lost his arm for better or worse. 
+
+Intently he listened to what Redd felt about his past, and his future. Of course he felt sorrow for the position he was in, of the nightmares. He wished he could do as Nimbus and touch the dreams of others even if just barely. Perhaps it was time for him to pick up some books and master yet another talent…
+
+His lips fell into a frown, and he rubbed at the back of his neck. “Friendship is a loose term. She is one of the only people that comes from my home. I know her family. She was a friend to some degree but after a while I realized what she truly stood as to me.” A beat of silence and Vornakir’s eyes fell to the table. “She would have been someone I rule over if I win my trial. A citizen in the Barricade. In the time I knew her, I blackmailed her and used her - and she attempted to assassinate me. All of those things are normal where I’m from but I realized that…how could I expect to be a good Ruler of the Barricade if I couldn’t get the love and respect of one of its citizens when I had private time with her, her devoted attention and every chance to win her loyalty and respect?”
+
+“Just the thought that I had every chance to earn her loyalty to my name, to my banner, not appealing to the masses but forging a genuine connection with her. I failed, so bad that she wanted me dead enough to forsake her own life for it. So.. I think to be honest I’m holding up poorly with that. I don’t know what I need to do, how I need to change to be better. But I need to if I’m ever to be the next leader.” He said with resolve but uncertainty clouding his heart.
+
+And then a sigh, “You’ve got a noble thing to ask of them. For a while I wanted to ask what I needed to do to be stronger. How I could obtain power to put me above all others, how I could even be an Archmage myself but that’s a child’s answer. I wish I knew what to ask of them but right now, I feel like it’d be a waste of a question if I were face to face with them.”
+
+
+### &#x270D; Redd
+<sub>Dec 19, 2025 &middot; 03:43 PM UTC</sub>
+
+Redd let out a short laugh, shaking his head. “I mean—if you put good food in front of me, I’m going to notice it.” He glanced at the remaining desserts, then back at Vornakir. “But yeah. I get why that matters to you. You don’t half-do things.”
+
+When Vornakir spoke about carrying things—about how they don’t really leave—Redd nodded once. “I know,” he said simply. “It doesn’t go away.” A brief pause. “But hearing you say you don’t blame me… that helps.”
+
+He leaned back in his chair after that, expression tightening just slightly. “You’re not the only one who was supposed to look after people and failed at it.” His voice stayed level, unflinching. “I was bad at it. Careless. I caused a scandal bad enough that it stopped being my responsibility to fix things.”
+
+His jaw set. “It’s my brother’s job now. He’s younger than I was when I started making those mistakes, and he’s carrying weight I should’ve shouldered.” A breath. “I hate that. I really do.”
+
+Redd looked back at Vornakir, steady. “So when you talk about wanting loyalty instead of fear, I get it. Wanting to be better because you realized you weren’t. That doesn’t mean you failed completely—it means you noticed before it was too late.”
+
+He went quiet for a moment, then added, more firmly, “Power itself isn’t the problem. I might need some, eventually, to fix what I broke and protect what’s left. It’s what you do with it that matters. Why you’re reaching for it in the first place.”
+
+A small exhale, then a shift in tone. Redd tilted his head, the edge of a smirk returning. “That said—about Auri.” His gaze flicked back to Vornakir, curious rather than teasing. “I knew something was going on there. I thought you'd be single forever how things were going” He shrugged lightly. “What actually changed for you?”
+
+
+### &#x270D; Vornakir
+<sub>Dec 20, 2025 &middot; 12:44 AM UTC</sub>
+
+It came naturally to Vornakir to lean back simultaneously to Redd doing so. Mirroring his friend in only that, he remained with a neutral expression. “Are you talking about the ambassador thing? Forgive me for not being as privy to the details as some of the others, I only vaguely recall you mentioning how you’d slept with an ambassador or an ambassador’s son? And I recall that put you in negative standing vis a vis family.”
+
+His expression softened, and at first he tipped his head back to look upward. He considered everything that happened and the alternatives, his own expression finally tightening. “Putting myself in your shoes, I’d hate for one of my siblings to bear that responsibility too. Especially with how malicious our politics can get.” He exhaled a sigh and straightened back up to focus on Redd again.
+
+Body language didn’t betray his intentions often, he was a difficult man to read but Vornakir purposely made himself comfortable. He wanted Redd to know that for a change, he was listening. Paying attention and learning rather than only caring on himself.  
+
+Picking up now one of the gourmet mini cupcakes and undressing the wrapper deftly with only his middle finger and thumb while the rest of them held it, he perked a brow. 
+
+“Is power what you need though? Take it from me, a man who’s only ever chased power and what it brings…sometimes the answer is diplomacy. Sometimes the answer is honesty. Sometimes the best power you can have is being able to fix your problems without lifting a finger. Perhaps what you need first is clarity, answers - and from there, find the best course to take so that you can showcase why you’re an incredible person to depend on.” He suggested.
+
+A playful scoff and a bite from his cupcake later, Vornakir cleaned his lips of residue icing and adopted his own light tone. “Me? Single forever? Not even a chance. I chose to abstain from relationships because of my impossibly high standards. Too often, possible suitors chase me for my prestige or my title, or my wealth and connections. Sometimes to bring ruin, sometimes to bring them fortune. I refuse to lower myself to someone whose loftiest goals and ambitions are to ride my coattails. What changed for me?” He sighed wistfully and leaned his head back like a fool who’d just discovered love for the first time. 
+
+His voice was airy and distant, his body language melting into pure joy as he exhaled an enamored breath. “*Arivae*,” he rolled the name off his tongue as if somehow the spoken word were cursive. “It means ‘radiance’ in old Drow. The first time I truly saw her, it was like the sun rose just for me. I don’t know if anyone else knows this, hell she may not even know. It’s common knowledge that she helped me with my school work when I lost my arm and part of it was because she felt bad that I would fall behind. But I think she also did it because she refused to beat me when I’m not at my best. She’s filled with raw ambition, I truly see a burning desire to chase her goals and let nothing stop her. To me, that’s the most attractive thing I could ask for. A strong woman that doesn’t *need* me. One who could stand beside me. Not above, not below me, nor in my shadow.”
+
+
+### &#x270D; Redd
+<sub>Dec 22, 2025 &middot; 10:59 AM UTC</sub>
+
+Redd let out a quiet breath through his nose, half a laugh without much humor in it. “Yeah,” he said. “That ambassador thing.”
+
+“I slept with his son. Zachary Longsky,” Redd said plainly. “And a few of his guards. And his valet.” His shoulders lifted once, then settled. He hesitated, mouth parting as if to add something more—then thought better of it. “It wasn’t subtle. I probably intentionally made it less subltle to be honest. And it definitely wasn’t politically genius.”
+
+He glanced down at the table for a moment before looking back up. “My father disinherited me for it. No longer the heir. But…” He paused, honest. “He didn’t cut me off. He still supports me. Honestly, that’s probably more than I deserve.”
+
+His mouth tightened slightly. “For a while, people were calling my family Saintilic sympathizers. Like I’d picked a side instead of just… making a mess. And it wasn’t just me who paid for it. My family had to clean it up. My brother had to step into a role I should’ve been able to carry. He didn’t ask for that.”
+
+He shook his head once. “In hindsight? Yeah. It wasn’t my brightest moment.”
+
+Redd listened as Vornakir spoke about power, diplomacy, and clarity, and this time he nodded instead of pushing back. “I can’t really argue with that,” he admitted. “Power without understanding just turns into more damage.” His expression sobered. “Back home, we’ve got molten creatures crawling out of the ground. Whole stretches of land turned unstable. If I’m going to help at all, I don’t need more raw power—I need to understand why it’s happening. What’s causing it.”
+
+“That’s what I’m hoping to get from the Archmage,” he added quietly. “Knowledge first. Answers. Then I can decide what comes next.”
+
+The tension eased as Vornakir spoke about Auri, and Redd’s expression shifted with it, something warmer settling in. “Arivae,” he echoed lightly, testing the word. “Yeah. That makes sense.” A small smile tugged at his mouth. “Ambitious, capable, doesn’t need you—but chooses to stand beside you anyway. I can see why that’d undo you.”
+
+He leaned back, studying Vornakir now with open curiosity. “Does she know?” Redd asked. "Is your whole courting process gonna start soon?"
+
+He reached for another bite, unhurried, eyes still on Vornakir as the question hung comfortably between them.
+
+
+### &#x270D; Vornakir
+<sub>Dec 28, 2025 &middot; 07:35 PM UTC</sub>
+
+Vornakir, ever the gracious and epitome level host, was attentive as Redd gave his story. 
+
+Poised and relaxed, he simply watched his friend's body language. That much was important in being more personable. He learned a long time ago how much you could tell about a person due to their body language. How listening to their body could tell you more than their words. Up until now he'd only really used it to ensure his safety, but it was time he started to use it to connect better. 
+
+Watching his shoulders lift and then settle, watching his lips quirk to speak but stopping just shy of adding more. Watching his eyes flick down and up as if in shame. The building tension and the way his body finally started to relax when the subject would eventually change to something lighter. 
+
+Beginning to understand a little more, he logged it all in his memory. Redd's mannerisms so he could read him better in the future, and a newer depth to understanding arrived. 
+
+"Do you intend to go back, once you have some answers and a better grasp on the power you think you may need? Do you...I don't know...*want* to take that place back in your family? Do you want to shoulder the burden even now after all this time, or do you think perhaps your brother would be better to handle it - With you at his *side* as an advisor so he won't make similar mistakes?"
+
+He paused, taking a long drink of his water to wet his lips and clear his throat. "Not that I think you'd be a poor fit, nor him a better one. But there's always options. I've started to learn lately that shouldering the burden yourself can be crushing. Sometimes another pair of shoulders is exactly what a problem needs."
+
+As if that were a simple enough answer to satiate Redd, but not dismissive enough to end the topic, he shifted to reply about Auri. 
+
+"I don't know how much she knows, but she knows enough to see the interest I have in her I think. But no. I don't think the courting process will begin soon. Because I don't really...know how much of it is needed."
+
+He tipped his head back, rubbing at his jaw considering what was the best way to say it. "In my culture, the courting process - several steps anyway - is just ways to sus out who's worth your time, who's going to be a perfect fit. Who you can trust. It's a lot of tests. In my eyes, she's...worth skipping some of the steps for, which says a lot about her.  I might offer to do a couple, simply for tradition and because a couple of our courting processes are sweet in their own way."
+
+
+### &#x270D; Redd
+<sub>Dec 30, 2025 &middot; 01:00 PM UTC</sub>
+
+Redd went quiet for a moment after Vornakir’s question, fingers resting idly against the edge of his plate. His gaze drifted—not away, exactly, just unfocused—as if he were lining up half a dozen thoughts and discarding most of them before they could escape.
+
+“I don’t know,” he admitted at last. No joke. No deflection. Just the truth, plain and unadorned.
+
+He exhaled, rubbing his thumb against the side of the plate. “Blue just turned nineteen. That’s… young.” His mouth tightened slightly. “Too young to be carrying everything I dropped. And the worst part is, I don’t even know how he’s taking it. I haven’t heard from him. Not really.” A pause, heavier this time. “I don’t know if he’s angry. Or relieved. Or pretending he’s fine.”
+
+Redd looked back up at Vornakir then. “I don’t know if I want the title back. I don’t even know if that’s on the table.” He gave a short, humorless huff. “But I *do* know I want to help. Somehow. Even if that means standing at his side instead of in front of him. Making sure he doesn’t repeat my mistakes just because no one warned him in time.”
+
+His shoulders lifted, then settled. “So… yeah. Advisor. Shield. Problem-solver from the shadows. I'm open to anything. Whatever actually helps.” A beat. “I just don’t want him doing this alone.”
+
+Then—mercifully—the subject shifted.
+
+Redd blinked when Vornakir started explaining the courting rituals, incredulity spreading across his face almost immediately. “Wait,” he said, holding up a hand. “No shit. I’ve *read* about Drow courting rituals.” His brows knit together. “You cannot tell me all of that is serious. The poisoned kiss? The loyalty trials that involve near-death experiences? Even *I* have limits, and that’s saying something.”
+
+He shook his head, disbelief warring with amusement. “You’re telling me you’re skipping steps and that’s supposed to be romantic?” A pause, then a crooked grin. “I mean, I respect the confidence, but if Zurr'ka tried to test my worth with poison, I’d assume they were trying to kill me and respond accordingly.”
+
+He paused, then winced slightly, holding up a hand. “—Sorry. That came out sharper than I meant.” His tone softened immediately. “I’m not trying to offend. I know I’m looking at it from the outside, and Drow customs aren’t exactly written for my comfort level.”
+
+The grin softened, though, curiosity replacing it. “What actually got me,” he said. “is that you’re willing to *go through with them* at all.” A small, knowing smile tugged at his mouth. “Again, you don’t strike me as someone who’d bother unless it meant something.”
+
+Redd leaned back slightly, studying him. “So which traditions are you keeping, then?” he asked, tone lighter but genuinely interested. “The sweet ones? Are you keeping some of the ‘prove you won’t die’ ones.”
+
+
+### &#x270D; Vornakir
+<sub>Jan 04, 2026 &middot; 12:54 AM UTC</sub>
+
+For a time, Vornakir simply thumbed over the crust of the final remnants of his tart on its plate. He wasn't quite sure what the best way to proceed and help was, but as he'd been doing for now it was best to listen. 
+
+A frown took his lips, but it was brief as he'd come to chuckle to himself. "I don't know why the idea that your nicknames are Redd and Blue tickles me. Apologies." He said, waving off the laugh in hopes it didn't offend him. 
+
+"You are right, though. That young, for really any race, is too young to shoulder that burden alone. Perhaps it's too simple to ask or assume but have you yourself *reach out to him*? Are you forbidden from doing so, or have you just not thought to do so out of fear he doesn't want to hear from you?" He asked, curious to know what caused the small rift between two brothers. 
+
+A moment or two of worry flashed on his face, recalling his own rift forming between himself and his sister Seren. Thankfully, his brother Vesper wasn't upset with him but Seren and he were on rocky ground. He hadn't seen her since the incident with the Quasi - Really since Sponsorship Day. 
+
+"I believe you have the best course of action already in mind, in that case. If sitting in his position yourself isn't in the cards, the best thing you could do is assist him." He offered, hoping that might come as at least a modicum of help. But as the subject shifted fully, and the topic became his cultures mating rituals and traditions it made him shake his head with another laugh. 
+
+A beat of silence followed as he took a sharp breath. "Yes, unfortunately it's very true. Some of the more untrusting or known deceitful couples even take further higher stakes steps than the typical ones. I've always found many of the trials and traditions to be barbaric and horrific. Then again I've always been some manner of romantic. I've always dreamed of a love that transcended the need of every step, so that I wouldn't have the same doubts the people of my homeland have about their loves." 
+
+His lips formed a tight line at first but he laughed another gentle, warm laugh at Redd's concern. "No need to apologize, it's...meant to be uncomfortable. For everyone, it seems. But yes, I am willing to. ***Even*** the poison, if she asked to undertake it. Is that crazy? Too early to say? Mmh. I don't care, I'd be willing to. But yes, skipping steps is romantic. Especially skipping the poison, which is meant to be the make or break. It means I trust her implicitly with my life, so deeply that I wouldn't even need to test her." 
+
+Once more he leaned his head back like a lovestruck fool. "I think I'd love to do the first step, where we declare our feelings and intentions then wear the item in public from that point on...And I would adore the threads too. The dance though, I *yearn* for another moment like that. I was smitten in our first dance, I swear to the gods I could've lived forever in that moment." Yep, there it was. The hopeless romantic fool he was.
+
+
+### &#x270D; Redd
+<sub>Jan 06, 2026 &middot; 04:27 PM UTC</sub>
+
+Redd snorted softly at that, the corner of his mouth lifting. “Yeah. Redd and Blue.” He shrugged. “I was named after one of my father’s ancestors. My mother thought it was funny that I turned out green anyway—and when Blue was born yellow-scaled, she decided to lean into it and commit to the joke.”
+
+
+> *OOC: ooc note: I am colorblind, and red-green and blue-yellow are the most common types, don't mind my inside joke to myself 😜*
+
+
+Then—inevitably—the conversation drifted back toward Drow courting rituals, and Redd’s expression shifted into something openly incredulous before melting into fond amusement.
+
+“Well,” he said around another bite of tart, clearly unbothered, “the token thing is… actually pretty cute.” A beat. “The poison is still a hard no.”  
+
+He gestured vaguely, thinking it through. “But the silken cord? I can get behind that. Sounds like an adventure you’re forced to navigate together—no hiding, no posturing.” His mouth tilted into a small smile. “And the dance, honestly? That part sounds nice. Trading a secret like that can actually be even *more* dangerous than the toxins if you think about it. What about the mask thing? I know it's meant to be ritualistic, but I hope you guys still get to enjoy it.” Redd laughs. 
+
+He leaned back, studying him with a softer, almost incredulous look. “Who would’ve thought.” Redd said quietly. “It's kinda hard to imagine, but at one point, it was just the two of us here right?"
+
+A faint smile tugged at his mouth as he brushed a few crumbs from his fingers. “Back then, I thought you were just a pompous ass,” he added, glancing aside. “And I doubt I came off much better.” A small, fond huff of a laugh escaped him.
+
+He looked back at Vornakir, pastry still in hand, expression warmer. “Never in a million years did I think we’d be sitting here like this—you inviting *me* to eat treats *you made FOR Me* and us talking about our love lives.” A beat. “Turns out you’re just… kind of adorable. A romantic who wants someone to choose him back." Redd takes another big bite of pastry. "And a damn good cook”
+
+The humor lingered in the space between them, undercut by something quieter. There had been a time when it really *was* just the two of them—showing up first, asking the wrong questions, following books into demiplanes. Sweing dead professors. Making decisions. Trusting each other just enough to keep going anyway. Whatever came after with Caspian, and Suni, and Auri had built outward from that, but those early steps had been theirs alone.
+
+He set his plate aside, fingers lingering there as Redd's attention turned inward.
+
+“I haven’t been completely idle with my family,” Redd said after a beat. “I reached out to Matty first—my nanny. We’ve been writing back and forth.” He hesitated, then added, “They sent a message, too. A recorded memory crystal.” (see https://discord.com/channels/1240776531379224716/1443376342216216638/1455620896147509360 Redd would have either told Vornakir or showed him the thing)
+
+His jaw tightened slightly, but his expression softened. “My father was in it. And Blue.” A pause. “It was… good to see them. Especially him.” He exhaled through his nose. “That kid always idolized me—even when I was at my worst. He was everything I *thought* I was supposed to be.”
+
+A quieter breath followed. “And that’s why I still haven’t reached out to him myself.”
+
+Redd looked down, then back up. “I’ve thought about it. A lot. I just don’t know what I’d say without making things heavier for him. In hindsight, I was horrible role model. I don't know how he turned out as good as he did.” 
+
+He met Vornakir’s gaze again, unguarded. “Standing beside him might be the right thing. I just… need to figure out how to do that without taking something away from him in the process.”
+
+A softer exhale. “I'll definitely send a reply. Maybe get Suni's help with it too.”
+
+
+### &#x270D; Vornakir
+<sub>Jan 07, 2026 &middot; 12:13 AM UTC</sub>
+
+Vornakir canted his head to the side while Redd explained the origins of the names, smiling all the while. Afterward though he made certain to lift a finger for a moment - to keep Redd’s attention on that topic for but a few seconds longer. 
+
+“I apologize, by the way, I don’t know if I ever properly did in the past. About Y’know, not knowing your full first name or even your surname for much of the first stretch of time we knew one another. It was uncouth to say the least. I must remember to apologize to Caspian and Sol as well.” 
+
+The topic back to the courting rituals, Vornakir snorted and shook his head. “If I’m being honest, for a while the poison seemed almost like an absolute necessity to me. I’m sure that comes as no surprise but until now I was convinced that no matter who it was I’d refuse to accept courtship unless it was under the strict condition that each step of tradition was followed exactly.”
+
+His own beat of silence passed as the small smile bloomed once more. “But now? I think it would cause me unspeakable pain to watch her ingest something knowing good and well even the smallest misstep would result in her death. I think I’d rather drink both doses without an antidote than even for a moment gamble her life on account of tradition.” 
+
+Pondering on the mask, he tapped thoughtfully at his chin. At this angle, the faint luster of his scales that caught the light at just the perfect angle shimmering. Those were clearly polished very recently, something he hadn’t done in quite some time. 
+
+In fact, he’d also note that Vornakir’s hair was very intricately styled in a way that was *nothing* like he had done up until this moment.
+
+
+> *OOC: In case I described his hair before, retcon that - the spa takes place before this and I like him still having his hair done or having done it a similar way to Sol’s way he did for him*
+
+
+. It was nice, to see the previously burned out sovereign to be taking better care of himself. 
+
+He was still exhausted, still showing those bags and exhaustion to smaller degrees but he was doing better. 
+
+“I’m not sure about the masks either, truthfully. They almost seem…silly. They’re meant to symbolize us removing the masks we already wear daily with everyone but with her I don’t think I’ve worn one for a long time. Not since losing my arm.” He admitted, looking where the missing limb used to live.
+
+Then the sentimental sentiments arrived and his smile widened. He looked down, eyeing the crumbs and bits of powdered sugar that remained from the treat he made for himself. He recalled the time frame when it *was* just them. When they had very temporary roommates that left rapidly before any semblance of a bond was formed, before any of the wild events began. 
+
+The short time he had to go back and forth between his dorm and his siblings to keep them in check and ensure they found their way proper - balancing all of that with the dueling practice and study’s and the things assigned to he and Redd. It was fragile, it was untested - a friendship that was never tended but somehow slowly blossomed regardless. Much slower than some of the others but perhaps a foundation stronger at its core.
+
+ Bringing his gaze and attention back up to Redd’s, he flashed that charming smirk and raised his glass. “Cheers to seeing it through from that insufferable party til now, and for us getting past first impressions to making a real friendship at last.”
+
+After a long, indulgent sip from his drink he exhaled a sigh of relief and dusted himself off. He pushed his chair out and stood, beginning to gather the things he was finished with to take to their dorm sink nearby to be ready for washing later - and began to clean the table where he previously sat of any crumbs and powdered mess he made.
+
+
+<sub>Jan 07, 2026 &middot; 12:13 AM UTC</sub>
+
+All the while not moving his attention off the main subject, nodding and making small noises to indicate he was still listening. When silence took Redd, he took the moment to speak again. 
+
+“I think you’re on the right track then. And I think in time the correct answers will begin making themselves known - albeit maybe slowly at first. You just have to know where to look. And for what it’s worth, if there’s ever a moment you need anything from me don’t hesitate to ask. Where I may lack in interpersonal friendship experience, I make up for in political navigation.”
+
+Meeting Redd’s gaze once more, he gave the genuine nod and the expression on his face read serious. He wanted to help, in whatever way he could. “I won’t take up much more of your time though, I know we’ve all had a rough way to go and need some well deserved alone time to relax but we ought to hang out again sometime. It was…weird being more or less strangers despite sharing a wall.”
+
+
+### &#x270D; Redd
+<sub>Jan 08, 2026 &middot; 01:11 AM UTC</sub>
+
+Redd watched him for a moment as he moved about the kitchen, then lifted his own glass in answer to the toast.
+
+“Cheers,” he said simply, the word carrying more weight than it sounded. He took a small sip, then added, quieter but sincere, “And… thank you. For all of this. For the invite. For the food. And of course for the company.”
+
+He nodded once, meeting Vornakir’s gaze. “I’d like that—hanging out again. We’ve come a long way from awkward first impressions.” A beat. “And I’ll be sure to take you up on the offer, too. Eventually.”
+
+He leaned back slightly, more at ease now. “Get some rest. We’ve all earned it.”
+
+
+### &#x270D; Vornakir
+<sub>Jan 08, 2026 &middot; 06:05 PM UTC</sub>
+
+───  ⋅ ∙ ∘ ☽ 𝒻𝒾𝓃 ☾ ∘ ⋅ ⋅  ───
+
+
+---
+
+<div align="center"><sub>Thread ID: 1449845087008981002 &bull; Fetched from Discord</sub></div>

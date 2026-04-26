@@ -1,0 +1,895 @@
+[
+  {
+    "type": 0,
+    "content": "The blood was roaring in Zašia's ears even after she'd gotten Griffin back to his dorm and started making her way back on her own. The heels of her scuffed shoes clicked smartly along the walk as she moved with purpose and an aura that said *fuck off*.\n\nHe'd seen her. Sorjin had *seen her* in his dream, she was certain of it. He looked her right in the eye and then he unleashed that attack upon Griffin for no reason other than that he knew what it would *do* to her. Had he manipulated her? Manipulated what he saw? How much of it had been real and how much was put on for her to see?\n\nThe aasimar stared ahead at the fork in the path as she approached, intending to follow it to her dorm. Her eyes settled on the structures of the College of Illusion and the woods beyond.\n\n*Talentless imp.*\n\nVeering south, she turned up her collar and shoved her hands in her pockets, closing off her posture even more as she moved at a quicker clip. She felt an unnerving shift beneath her cloak, an uncomfortable sensation between her shoulder blades that had her rolling each one in turn to try and dispel it.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-21T06:30:21.293000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1419209117712777216",
+    "channel_id": "1419209117712777216",
+    "author": {
+      "id": "128691687169064961",
+      "username": "electrochemistry",
+      "avatar": "15c510b31c8fa3c1333544dd821136c8",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1382845914192023632",
+          "asset": "nameplates/nameplates_v3/aurora/",
+          "label": "COLLECTIBLES_NAMEPLATES_CAT_BEANS_A11Y",
+          "palette": "teal"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 2,
+        "colors": [
+          14963742,
+          16711568
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      },
+      "primary_guild": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": "1067602449180930068",
+          "name": "moxCry"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "When she approached the College of Illusion she would see the Veilbright twins sitting on a bench outside the school speaking to each other privately. \n\nWhen Caspian caught sight of Zašia he excused himself and stride up to Zašia. He made sure that Cordelia was out of earshot of any conversation they might have. \n\n“Zašia! Where are you going? To find Vorr? Sorjin? Is that a good idea right now?” He stated forcefully in the same tone he’d used to separate her from Sorjin earlier.\n\n“You have every right to be as furious as you are. But you’re not thinking clearly.”",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-21T22:10:15.862000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1419445653679116358",
+    "channel_id": "1419209117712777216",
+    "author": {
+      "id": "278357187246555137",
+      "username": "nemo3267",
+      "avatar": "14453b7d31e10ab8d07ae72652a0364c",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nemo3267",
+      "avatar_decoration_data": {
+        "asset": "a_35e64c0eb789d6019a76b1e95ba13497",
+        "sku_id": "1479191582002516020",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "625953788343091200",
+        "identity_enabled": true,
+        "tag": "FAB",
+        "badge": "4b70e09b6b8ddf55b5f9dc6816636760"
+      },
+      "primary_guild": {
+        "identity_guild_id": "625953788343091200",
+        "identity_enabled": true,
+        "tag": "FAB",
+        "badge": "4b70e09b6b8ddf55b5f9dc6816636760"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 1
+  },
+  {
+    "type": 0,
+    "content": "Zašia's momentum carried on unbroken, forcing Caspian to intercept, rather than call her aside. Annoyance creased her brow as he came at her with that same tone. He didn't owe her gentleness and their friendship did allow for some skipping straight to the point, but it rubbed her the wrong way.\n\nIt's his insinuation that got to her, however. Pivoting, she took an aggressive step toward him, stopping just short. If her hands hadn't been in her pockets, she might have shoved him. \"*Don't.*\" She warned in a terse monosyllable.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-21T23:51:17.975000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1419471080023916554",
+    "channel_id": "1419209117712777216",
+    "author": {
+      "id": "128691687169064961",
+      "username": "electrochemistry",
+      "avatar": "15c510b31c8fa3c1333544dd821136c8",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1382845914192023632",
+          "asset": "nameplates/nameplates_v3/aurora/",
+          "label": "COLLECTIBLES_NAMEPLATES_CAT_BEANS_A11Y",
+          "palette": "teal"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 2,
+        "colors": [
+          14963742,
+          16711568
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      },
+      "primary_guild": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 2
+  },
+  {
+    "type": 0,
+    "content": "\"Don't what Zašia?\"\n\nNot for the first time today did he express frustration at his friend. What she had learned about Vorr had seemed to seriously throw off her normally calculated judgement and it worried the fighter. Now coupled with the fact that Vorr's new protege had hurt Griffin. This day had spiraled from bad to worse and now Zašia looked about ready to hit him for his interference. He'd kept a remarkable cool but his temper finally flared and he began to raise his voice.\n\n\"Don't tell you that your judgement is clouded? Don't tell you that you left your friend alone in his dorm? Don't ask Cordelia to help me track you down so you don't go off and get hurt?\"\n\nHe clenched his fists and stared unblinkingly. His thoughts blurred together as adrenaline continued to course through his system for far longer than it should have. It was all too much, murderous professors, vengeful students, heartless parents. He let out a raw growl from the back of his throat.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-22T02:01:37.114000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1419503875869642763",
+    "channel_id": "1419209117712777216",
+    "author": {
+      "id": "278357187246555137",
+      "username": "nemo3267",
+      "avatar": "14453b7d31e10ab8d07ae72652a0364c",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nemo3267",
+      "avatar_decoration_data": {
+        "asset": "a_35e64c0eb789d6019a76b1e95ba13497",
+        "sku_id": "1479191582002516020",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "625953788343091200",
+        "identity_enabled": true,
+        "tag": "FAB",
+        "badge": "4b70e09b6b8ddf55b5f9dc6816636760"
+      },
+      "primary_guild": {
+        "identity_guild_id": "625953788343091200",
+        "identity_enabled": true,
+        "tag": "FAB",
+        "badge": "4b70e09b6b8ddf55b5f9dc6816636760"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 3
+  },
+  {
+    "type": 0,
+    "content": "Zašia's eyes flared with anger as Caspian threw all that at her. \"*Don't!*\" she spat at him again. Questioning her competence cut her deep, and she was already bleeding rapidly. Her eyes danced rapidly between points of visual information. Where his eyes were focused, the tension in his shoulders, the way his fist was balled...\n\nRather than lash out at him, she threw her arms out to her sides. \"Fucking stop me, then!\" She held her chin high, challenging him. \"Because I'll do *what I want*, Caspian!\"",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-22T03:18:32.695000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1419523235019751536",
+    "channel_id": "1419209117712777216",
+    "author": {
+      "id": "128691687169064961",
+      "username": "electrochemistry",
+      "avatar": "15c510b31c8fa3c1333544dd821136c8",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1382845914192023632",
+          "asset": "nameplates/nameplates_v3/aurora/",
+          "label": "COLLECTIBLES_NAMEPLATES_CAT_BEANS_A11Y",
+          "palette": "teal"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 2,
+        "colors": [
+          14963742,
+          16711568
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      },
+      "primary_guild": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 4
+  },
+  {
+    "type": 0,
+    "content": "Caspian didn't flinch at her challenge. The tension in his body didn't go away but rearranged itself across his body, no longer representing anger but preparedness. Both acts were completely instinctual, a sixth sense for conflict that had been honed over hundreds of repetitions. But he didn't budge, she was baiting him and he wasn't going take it, there would be no coming back from that. His thoughts roared in his head like a waterfall, he needed to find somewhere quiet to think to let this frustration abate but that wasn't an option at the moment.\n\n\"Oh I won't stop you, but I will damn well sure make you aware of what a mistake you are making. What even is it that you want? Vengeance?\"\n\nHe managed to force himself to take a few steps to one side starting to pace walking off just a bit of the simmering anger he was feeling.\n\n\"This isn't even about Griffin, if it was you'd be with him right now. This about you having a chip on your shoulder and needing to prove that he didn't get the better of you! You lost this round, start accepting it or you'll be playing directly into both of their hands.\"",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-22T03:56:10.660000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1419532705611255940",
+    "channel_id": "1419209117712777216",
+    "author": {
+      "id": "278357187246555137",
+      "username": "nemo3267",
+      "avatar": "14453b7d31e10ab8d07ae72652a0364c",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nemo3267",
+      "avatar_decoration_data": {
+        "asset": "a_35e64c0eb789d6019a76b1e95ba13497",
+        "sku_id": "1479191582002516020",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "625953788343091200",
+        "identity_enabled": true,
+        "tag": "FAB",
+        "badge": "4b70e09b6b8ddf55b5f9dc6816636760"
+      },
+      "primary_guild": {
+        "identity_guild_id": "625953788343091200",
+        "identity_enabled": true,
+        "tag": "FAB",
+        "badge": "4b70e09b6b8ddf55b5f9dc6816636760"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 5
+  },
+  {
+    "type": 0,
+    "content": "The barbed words he slung wedged themselves into her and he saw the moment they hit home. The shift in her expression, the widening of her eyes and parting of her lips, all of it merely a calm moment before it all screwed up again. Her lips pursed small, brows coming together, nostrils flaring before she started forward again, fuming.\n\n\"You have *no idea* what—\" Zašia sputtered, unsure of exactly what she wanted to say to refute any of the allegations he laid at her feet. Anything *true* would be... Well, to be truthful would be entirely out of the question. She could barely be truthful with herself. \n\nWhat was she supposed to do, anyway? Sit with Griffin and let her anxiety permeate the air around him and make the whole thing *worse?* Zašia glared up at Caspian as she moved to cut off his pacing. \"You wanna talk about chips on shoulders? You've got a whole fucking *quarry!*\" She seethed all the more as she carried on. \"What if it had been Sol out there instead of Griffin? It could just as easily have been me! What then, Cas?\"\n\nIf fierceness could make up for size, the mage without magic would have towered over the fighter, rather than stand a full foot shorter. She was as a satchel-sized dog facing down a dire wolf. \"What if it had been *Cordelia?*\"\n\nWould he be as content to sit and wait? To Zašia's mind, Griffin was the only student on campus she wasn't *trauma-bonded* with that gave her the time of day without it feeling like it was at her own expense. All she could see was the way Sorjin looked right at her without even searching.\n\n*Sorry.*\n\nThe rage swelled in her and Caspian could see it in a renewed tension in her posture. Zašia would make Sorjin say it again and fucking *mean* it next time.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-22T04:44:23.312000+00:00",
+    "edited_timestamp": "2025-09-22T08:47:13.834000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1419544838273241160",
+    "channel_id": "1419209117712777216",
+    "author": {
+      "id": "128691687169064961",
+      "username": "electrochemistry",
+      "avatar": "15c510b31c8fa3c1333544dd821136c8",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1382845914192023632",
+          "asset": "nameplates/nameplates_v3/aurora/",
+          "label": "COLLECTIBLES_NAMEPLATES_CAT_BEANS_A11Y",
+          "palette": "teal"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 2,
+        "colors": [
+          14963742,
+          16711568
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      },
+      "primary_guild": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 6
+  },
+  {
+    "type": 0,
+    "content": "Was she right? It felt that way. His temper had always been his greatest weakness. Provoking him to make rash decisions that only hurt him in the long run. \n\n“Don’t bring Cordelia into this! You know very well what I would do to anyone who hurt her. You also know that she asked me to be better! That’s what I’m doing here!”, he shouted.\n\n“You don’t think that I’m furious that we got played. That I couldn’t get Hallowforge to stop the duel. That I didn’t find a way to take the hit for Griffin. Every instinct I have ever known is screaming at me to do something. But I also have listened to that instinct and when I don’t think and just listen it just brings me more pain.”\n\nHe started to point his finger at her as he spoke.\n\n“I’ve already made this mistake more times than I can count. You’re better than this! Zašia Silverspan doesn’t get baited into brawling with her enemy. She takes care of her friend, plans, and then makes the move that results with her coming out on top.”",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-22T20:41:44.337000+00:00",
+    "edited_timestamp": "2025-09-22T20:42:43.509000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1419785763394158592",
+    "channel_id": "1419209117712777216",
+    "author": {
+      "id": "278357187246555137",
+      "username": "nemo3267",
+      "avatar": "14453b7d31e10ab8d07ae72652a0364c",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nemo3267",
+      "avatar_decoration_data": {
+        "asset": "a_35e64c0eb789d6019a76b1e95ba13497",
+        "sku_id": "1479191582002516020",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "625953788343091200",
+        "identity_enabled": true,
+        "tag": "FAB",
+        "badge": "4b70e09b6b8ddf55b5f9dc6816636760"
+      },
+      "primary_guild": {
+        "identity_guild_id": "625953788343091200",
+        "identity_enabled": true,
+        "tag": "FAB",
+        "badge": "4b70e09b6b8ddf55b5f9dc6816636760"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 7
+  },
+  {
+    "type": 0,
+    "content": "Two responses competed with one another in a race to be the one acknowledged and spoken into the world. It felt like a fracture inside of her, a fault line separating what she is from what she'll admit to being.\n\n\"*Does* she?!\" she shouted back at him, part exasperation and part desperation. The words that had been poised to trip off the tip of her tongue had been words of confidence, but that confidence was exactly why she didn't reach for them.\n\n\"Look at me, Cas!\" Zašia gestured to herself in an up and down motion before dropping her hands down at her sides with a slap. \"I'm *nothing!* I have *nothing!* I couldn't even warn him my*self!*\" The threat of tears caused a prickling feeling at the corners of her eyes, this time from anger rather than fear.\n\nThe wheels turned and she had less than a second to decide if she was going to be everything she warned him she could be and hope he'd understand or if she would yield and try to find another way. Her eyes closed and she breathed out, feeling the weight of her choice settle down on her before she announced it.\n\n\"And I can't even rely on you to make up for what I lack. So I gotta do it all myself.\" Violet eyes locked on Caspian. Not on his eyes, but perhaps the angles made by his cheekbones. Somewhere close *enough* to mimic conviction. \"Thanks for the lesson,\" she growled low, a road paved with coarse gravel and self-loathing. \"I've learned a lot.\"",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-22T21:44:10.078000+00:00",
+    "edited_timestamp": "2025-09-22T22:36:40.419000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1419801474170486884",
+    "channel_id": "1419209117712777216",
+    "author": {
+      "id": "128691687169064961",
+      "username": "electrochemistry",
+      "avatar": "15c510b31c8fa3c1333544dd821136c8",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1382845914192023632",
+          "asset": "nameplates/nameplates_v3/aurora/",
+          "label": "COLLECTIBLES_NAMEPLATES_CAT_BEANS_A11Y",
+          "palette": "teal"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 2,
+        "colors": [
+          14963742,
+          16711568
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      },
+      "primary_guild": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 8
+  },
+  {
+    "type": 0,
+    "content": "Caspian's head shook in disbelief. He hadn't realized just how deeply Zašia's insecurities ran. He saw tears forming in her eyes and for a moment he held back. Collected himself. Enough to think instead of act. The rage flooded back in and but the plan remained. The rage motivated him for what came next.\n\n\"Nothing? No... you have plenty, family, friends, a relationship. Your family has a title and coin. Born with wits, intelligence, and charm. You've had setbacks and hardships but they don't make you nothing you just believe it does so fervently you waste everything you are lucky enough to have. You say you couldn't warn him? Are you kidding me Zašia? You don't have any trouble shouting at me now, what was stopping you then? You keep making excuses for yourself just because you used to have magic like its something superior to everything else. Apparently that's all that matters to you.\"\n\nHe unstrapped his sheathed sword and tossed it to her. He pulled off his jacket and rolled up his sleeves. He stood upright, not assuming any battle stance. The blade wasn't ceremonial or dulled. He had handed her a weapon with which she could do him real harm. It was time to find out what really mattered to her.\n\n\"Fine, you can't rely on me. That's your choice to make. But I don't pass any student without a test. So strike me and Cordelia and I will leave. If you want into those woods you have to get past me, prove to me that you're willing to accept the consequences.\"",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-23T03:50:32.781000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1419893676309614695",
+    "channel_id": "1419209117712777216",
+    "author": {
+      "id": "278357187246555137",
+      "username": "nemo3267",
+      "avatar": "14453b7d31e10ab8d07ae72652a0364c",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nemo3267",
+      "avatar_decoration_data": {
+        "asset": "a_35e64c0eb789d6019a76b1e95ba13497",
+        "sku_id": "1479191582002516020",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "625953788343091200",
+        "identity_enabled": true,
+        "tag": "FAB",
+        "badge": "4b70e09b6b8ddf55b5f9dc6816636760"
+      },
+      "primary_guild": {
+        "identity_guild_id": "625953788343091200",
+        "identity_enabled": true,
+        "tag": "FAB",
+        "badge": "4b70e09b6b8ddf55b5f9dc6816636760"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 9
+  },
+  {
+    "type": 0,
+    "content": "One corner of Zašia's mouth twitched faintly, her eyes finally making contact with his. \"No, no, no... You don't get to hide behind 'I'm going to make you attack me,' so that you get to be big, chivalrous Caspian in his shiny silver armor.\" She leaned in, got up on her toes just a little bit to shore up the distance between them to deliver the aside:\n\n\"Shining like silver, not gold, because *fuck* the place that made you.\"",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-23T04:02:37.938000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1419896717838520321",
+    "channel_id": "1419209117712777216",
+    "author": {
+      "id": "128691687169064961",
+      "username": "electrochemistry",
+      "avatar": "15c510b31c8fa3c1333544dd821136c8",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1382845914192023632",
+          "asset": "nameplates/nameplates_v3/aurora/",
+          "label": "COLLECTIBLES_NAMEPLATES_CAT_BEANS_A11Y",
+          "palette": "teal"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 2,
+        "colors": [
+          14963742,
+          16711568
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      },
+      "primary_guild": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 10
+  },
+  {
+    "type": 0,
+    "content": "So that was her tactic, find a different way to cut him. He stood firm, meeting her gaze. No smile, no frown, just a stoic expression. \n\n\"This isn't chivalry, I'm not your marionette bodyguard who you can make dance with words. You didn't take the steps to do that to me, you decided not to play the game against me. Live with the consequences. I won't back down, so either strike me or walk away.\"",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-23T04:17:39.120000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1419900497669787742",
+    "channel_id": "1419209117712777216",
+    "author": {
+      "id": "278357187246555137",
+      "username": "nemo3267",
+      "avatar": "14453b7d31e10ab8d07ae72652a0364c",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nemo3267",
+      "avatar_decoration_data": {
+        "asset": "a_35e64c0eb789d6019a76b1e95ba13497",
+        "sku_id": "1479191582002516020",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "625953788343091200",
+        "identity_enabled": true,
+        "tag": "FAB",
+        "badge": "4b70e09b6b8ddf55b5f9dc6816636760"
+      },
+      "primary_guild": {
+        "identity_guild_id": "625953788343091200",
+        "identity_enabled": true,
+        "tag": "FAB",
+        "badge": "4b70e09b6b8ddf55b5f9dc6816636760"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 11
+  },
+  {
+    "type": 0,
+    "content": "\"Put my on my ass or watch it as I disappear into the tree line,\" Zašia countered with a similarly stony countenance. She let that linger for only a moment before she broke off to start to move past him, ready to clip shoulders rather than to be cut off in half measures.\n\n*Goddess in Gold*, but she was sorry. She only hoped what they'd started to build could survive what she felt she had to do.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-23T04:20:37.805000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1419901247129129010",
+    "channel_id": "1419209117712777216",
+    "author": {
+      "id": "128691687169064961",
+      "username": "electrochemistry",
+      "avatar": "15c510b31c8fa3c1333544dd821136c8",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1382845914192023632",
+          "asset": "nameplates/nameplates_v3/aurora/",
+          "label": "COLLECTIBLES_NAMEPLATES_CAT_BEANS_A11Y",
+          "palette": "teal"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 2,
+        "colors": [
+          14963742,
+          16711568
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      },
+      "primary_guild": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 12
+  },
+  {
+    "type": 0,
+    "content": "He moved like lightning snapping and grabbing her by the wrist with one hand. It was a weak grip, she could easily slip it. He held out his other hand, summoning in it his rapier. He pressed the hilt into her hand and released her and the sword simultaneously. He barely interrupted her momentum as he had spun her to face back towards the woods, she could get away cleanly if she wanted, now with a sword in hand. \n\nFor his part he didn't wait to watch and see if she went. He leaned down and picked up his sword belt and jacket. Dusting them both off he turned to Cordelia. \n\n\"Time to go I guess.\" His tone was sad, he hoped she would find the answers she was seeking.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-23T04:32:38.534000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1419904270085521469",
+    "channel_id": "1419209117712777216",
+    "author": {
+      "id": "278357187246555137",
+      "username": "nemo3267",
+      "avatar": "14453b7d31e10ab8d07ae72652a0364c",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nemo3267",
+      "avatar_decoration_data": {
+        "asset": "a_35e64c0eb789d6019a76b1e95ba13497",
+        "sku_id": "1479191582002516020",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 3,
+        "colors": [
+          1874155
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "625953788343091200",
+        "identity_enabled": true,
+        "tag": "FAB",
+        "badge": "4b70e09b6b8ddf55b5f9dc6816636760"
+      },
+      "primary_guild": {
+        "identity_guild_id": "625953788343091200",
+        "identity_enabled": true,
+        "tag": "FAB",
+        "badge": "4b70e09b6b8ddf55b5f9dc6816636760"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 13
+  },
+  {
+    "type": 0,
+    "content": "Zašia grasped the hilt of the rapier, prepared to bring it up to defend against an attack, but did not put up resistance when he whirled her 'round, conscious enough to know to remain loose in her poise so as not to lock up and be susceptible to—\n\n...An attack that never comes.\n\nTaking a few staggered steps forward to give herself more distance, she then turned to ascertain Caspian's next move. Her lips pressed together and she gradually let out the breath she didn't realize she'd been holding.\n\nOne wary step back and another, Zašia may have let her feelings slip, but her mask remained until she could no longer be seen among the trees, when she finally let out a ragged sob.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2025-09-23T05:16:33.846000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1419915323385315338",
+    "channel_id": "1419209117712777216",
+    "author": {
+      "id": "128691687169064961",
+      "username": "electrochemistry",
+      "avatar": "15c510b31c8fa3c1333544dd821136c8",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1382845914192023632",
+          "asset": "nameplates/nameplates_v3/aurora/",
+          "label": "COLLECTIBLES_NAMEPLATES_CAT_BEANS_A11Y",
+          "palette": "teal"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 12,
+        "effect_id": 2,
+        "colors": [
+          14963742,
+          16711568
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      },
+      "primary_guild": {
+        "identity_guild_id": "156602778519601152",
+        "identity_enabled": true,
+        "tag": "ST",
+        "badge": "78f4434ffba9c1994553e77aceb9bc50"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 14,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "🔥"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  }
+]

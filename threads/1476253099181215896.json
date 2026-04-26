@@ -1,0 +1,199 @@
+[
+  {
+    "type": 0,
+    "content": "The dorm was quieter than it had any right to be.\n\nWhimsy stood on the back of the sofa, feathers slightly unsettled, head turning in slow, searching arcs toward the hallway and then the door. He gave a soft, questioning click, as if expecting footsteps that didn’t come.\n\nA folded sheet of parchment had been tied around his neck with dark thread. The edges were a little wrinkled, like it had been handled more than once before being secured. One corner was smudged where the ink had dragged beneath a thumb.\n\nThe handwriting pressed harder than usual.\n\n>>> Caspian. Auri. Vornakir. Sunni\n\nI’m leaving this instead of trying to say it out loud.\n\nThe spell duel didn’t go well. I tried my best. I did. Hallowforge wouldn’t listen when I asked for it to stop, and by the time the wardens intervened, it was already too much.\n\nCaspian — I didn’t mean for any of it to go that far. Walking collateral damage strikes again. \n\nSunni — you're closest to Sor’jin. Could you check in? I don’t think I can be near him after what happened. \n\nVornakir — it’s time. I’m going back for a bit. What we talked about. Maybe I can try to be a responsible adult for once. I’ll be back before the Conclave. I just need distance before I make anything worse.\n\nI’m hoping I at least don’t fail Blue. \n\nTell Whimsy to leave my things alone. He won’t, but try. Make sure to feed him while I'm gone. \n\n— Redd\n\nP.S. Auri — Zurr’ka told me what you did. I know your intentions were good. I’m not angry. God knows I don't have the energy to be. I just… need to be honest that it didn’t help.\n\n<@206175579358232578>\n<@278357187246555137>\n<@155436835013656576>\n<@697171541208596510>",
+    "mentions": [
+      {
+        "id": "155436835013656576",
+        "username": "pyroshadow",
+        "avatar": "ed853f9f1777de28c22f287e735ce2b1",
+        "discriminator": "0",
+        "public_flags": 64,
+        "flags": 64,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Nightingale",
+        "avatar_decoration_data": {
+          "asset": "a_670b722e56740d11d1e6fe55b8094013",
+          "sku_id": "1343751617303805983",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1377377712028516443",
+            "asset": "nameplates/nameplates_v2/spirit_moon/",
+            "label": "COLLECTIBLES_NAMEPLATES_V2_SPIRIT_MOON_A11Y",
+            "palette": "violet"
+          }
+        },
+        "display_name_styles": {
+          "font_id": 8,
+          "effect_id": 2,
+          "colors": [
+            3163762,
+            9709528
+          ]
+        },
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "394252141138804736",
+          "identity_enabled": true,
+          "tag": "RVYN",
+          "badge": "6082c2553b03b47ccaea5203567df3cf"
+        },
+        "primary_guild": {
+          "identity_guild_id": "394252141138804736",
+          "identity_enabled": true,
+          "tag": "RVYN",
+          "badge": "6082c2553b03b47ccaea5203567df3cf"
+        }
+      },
+      {
+        "id": "278357187246555137",
+        "username": "nemo3267",
+        "avatar": "14453b7d31e10ab8d07ae72652a0364c",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Nemo3267",
+        "avatar_decoration_data": {
+          "asset": "a_35e64c0eb789d6019a76b1e95ba13497",
+          "sku_id": "1479191582002516020",
+          "expires_at": null
+        },
+        "collectibles": null,
+        "display_name_styles": {
+          "font_id": 12,
+          "effect_id": 3,
+          "colors": [
+            1874155
+          ]
+        },
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "625953788343091200",
+          "identity_enabled": true,
+          "tag": "FAB",
+          "badge": "4b70e09b6b8ddf55b5f9dc6816636760"
+        },
+        "primary_guild": {
+          "identity_guild_id": "625953788343091200",
+          "identity_enabled": true,
+          "tag": "FAB",
+          "badge": "4b70e09b6b8ddf55b5f9dc6816636760"
+        }
+      },
+      {
+        "id": "206175579358232578",
+        "username": ".tsukikage.",
+        "avatar": "a_46c3fb914b80216510fecd78138bfdb7",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Akuma",
+        "avatar_decoration_data": {
+          "asset": "a_35e64c0eb789d6019a76b1e95ba13497",
+          "sku_id": "1479191582002516020",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1349849614102036581",
+            "asset": "nameplates/nameplates/cherry_blossoms/",
+            "label": "COLLECTIBLES_NAMEPLATES_CHERRY_BLOSSOMS_A11Y",
+            "palette": "berry"
+          }
+        },
+        "display_name_styles": {
+          "font_id": 10,
+          "effect_id": 4,
+          "colors": [
+            12189699
+          ]
+        },
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "425124932398350338",
+          "identity_enabled": true,
+          "tag": "UMA",
+          "badge": "31773be45923b9d830659c3b9ec15a2d"
+        },
+        "primary_guild": {
+          "identity_guild_id": "425124932398350338",
+          "identity_enabled": true,
+          "tag": "UMA",
+          "badge": "31773be45923b9d830659c3b9ec15a2d"
+        }
+      },
+      {
+        "id": "697171541208596510",
+        "username": "penny5746",
+        "avatar": "8d191f8254ab5441078bad8c499e1e00",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Penny5746",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-25T16:22:46.301000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1476253099181215896",
+    "channel_id": "1476253099181215896",
+    "author": {
+      "id": "544474001288986624",
+      "username": "zzenonn",
+      "avatar": "19a210d6e2a745062e04fc928b3f7afa",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "zenon",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "😭"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  }
+]

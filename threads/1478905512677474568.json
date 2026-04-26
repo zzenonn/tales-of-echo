@@ -1,0 +1,271 @@
+[
+  {
+    "type": 0,
+    "content": "*A small rolled up piece of parchment dangled freely from the handle of Sol’s door to his bedroom - held together with a thin piece of silver thread. Upon retrieval and unraveling it, a small item would fall into his hand. It was wrapped within a piece of cloth tied off with the same silver thread, and upon the parchment was some of the most elegant script he’d probably read in quite some time. It was regal, and over the top - far too pretty and meticulous to be anyone but Vornakir’s penmanship. It read as follows:*\n\n“Dear Sunni,\n\nI apologize for leaving this hanging from your door handle - I felt it rude to intrude into your room without your permission and given the state of things I feel perhaps at the moment you need and deserve a bit of space to yourself. Otherwise I would have just given you this and said this in person. \n\nI have taken note that in the past few days, perhaps weeks even, you’ve been progressively getting more and more overwhelmed and many of us are to blame for adding to that weight. We rely heavily on you for your advice and just as much for the way you support us when we’ve faced adversity in combat as well. But in doing so, you are being stretched thinner and thinner - and I can tell the thread has gotten frayed. When the time comes that you want someone to lean on, don’t hesitate to knock on my door please. \n\nBut enough about that. I never thanked you the way you deserved for the help you’ve given me, and the outfit you made me for Sponsorship Day. I’m working on a gift for you in addition to this, but it’ll have to wait til beyond the Clash. For now this will have to do. Please remember that though our drives and ambitions, goals and needs may divide us at times…that inversely, it is our bonds and our love and support for one another other that unites us. \n\nTake care of yourself. Allow this, please, to serve as a reminder that no matter what happens — We are more than opponents in the clash. We are more than dorm mates. We are more than Sparkian Protectors. \n\nWe’re family.\n\nYours Most Sincerely,\nVornakir Vanori”\n\n*Within that small cloth was a charm that could fit in his palm with ease. Mostly simple in design, it was a piece of ochre-like gemstone cut into the shape of a heart. Lovely as it may be to look at, knowing Sol’s choices of color and fashion it probably wouldn’t match much that he typically wore. Scrawled posthaste at the bottom clearly after extra thought was a note.*\n\n“P.S. I apologize in advance if Adrien doesn’t like the idea that someone else purchased a heart item for you. I wanted something a little different but unfortunately Po would only make strange noises at me so I just took what I could get. Hopefully this will suffice, Auri told me it would be fine but I was still hesitant.”",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-03-05T00:02:30.958000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1478905512677474568",
+    "channel_id": "1478905512677474568",
+    "author": {
+      "id": "206175579358232578",
+      "username": ".tsukikage.",
+      "avatar": "a_46c3fb914b80216510fecd78138bfdb7",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Akuma",
+      "avatar_decoration_data": {
+        "asset": "a_35e64c0eb789d6019a76b1e95ba13497",
+        "sku_id": "1479191582002516020",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614102036581",
+          "asset": "nameplates/nameplates/cherry_blossoms/",
+          "label": "COLLECTIBLES_NAMEPLATES_CHERRY_BLOSSOMS_A11Y",
+          "palette": "berry"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 4,
+        "colors": [
+          12189699
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      },
+      "primary_guild": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "❤️"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": true,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "<@155436835013656576> [doesn’t require a reply, but at your leisure read as it pertains to you specifically]",
+    "mentions": [
+      {
+        "id": "155436835013656576",
+        "username": "pyroshadow",
+        "avatar": "ed853f9f1777de28c22f287e735ce2b1",
+        "discriminator": "0",
+        "public_flags": 64,
+        "flags": 64,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Nightingale",
+        "avatar_decoration_data": {
+          "asset": "a_670b722e56740d11d1e6fe55b8094013",
+          "sku_id": "1343751617303805983",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1377377712028516443",
+            "asset": "nameplates/nameplates_v2/spirit_moon/",
+            "label": "COLLECTIBLES_NAMEPLATES_V2_SPIRIT_MOON_A11Y",
+            "palette": "violet"
+          }
+        },
+        "display_name_styles": {
+          "font_id": 8,
+          "effect_id": 2,
+          "colors": [
+            3163762,
+            9709528
+          ]
+        },
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "394252141138804736",
+          "identity_enabled": true,
+          "tag": "RVYN",
+          "badge": "6082c2553b03b47ccaea5203567df3cf"
+        },
+        "primary_guild": {
+          "identity_guild_id": "394252141138804736",
+          "identity_enabled": true,
+          "tag": "RVYN",
+          "badge": "6082c2553b03b47ccaea5203567df3cf"
+        }
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-03-05T00:02:52.696000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1478905603853389844",
+    "channel_id": "1478905512677474568",
+    "author": {
+      "id": "206175579358232578",
+      "username": ".tsukikage.",
+      "avatar": "a_46c3fb914b80216510fecd78138bfdb7",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Akuma",
+      "avatar_decoration_data": {
+        "asset": "a_35e64c0eb789d6019a76b1e95ba13497",
+        "sku_id": "1479191582002516020",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614102036581",
+          "asset": "nameplates/nameplates/cherry_blossoms/",
+          "label": "COLLECTIBLES_NAMEPLATES_CHERRY_BLOSSOMS_A11Y",
+          "palette": "berry"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 4,
+        "colors": [
+          12189699
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      },
+      "primary_guild": {
+        "identity_guild_id": "425124932398350338",
+        "identity_enabled": true,
+        "tag": "UMA",
+        "badge": "31773be45923b9d830659c3b9ec15a2d"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 0
+  },
+  {
+    "type": 0,
+    "content": "The hallway was quiet when Sol returned, the still, hollow quiet that followed at the end of a long day. His steps slowed as he reached his door, his glazed-over golden eyes catching the small roll of parchment tied to the handle with silver thread.\n\nHe paused for a moment, staring at it, deciding whether or not he had the energy to deal with whatever waited inside. Eventually, he reached out, untied the thread, and stepped into his room before the door closed softly behind him.\n\nHis room still looked like a breathing constellation, the illusory stars drifting faintly along the ceiling, and prismatic aurora reflecting across the walls and furniture. But normally the space felt warm and like an extension of his own heart; today it felt cold and quiet, like the enchanted breeze regularly blowing through the room had lost all its joy, and the stars above had lost all their spark.\n\nSol leaned against the door and began reading the parchment. His eyes moved slowly across Vornakir’s elegant script; the words were beautiful, every line written with that meticulous, regal care that only Vornakir was capable of. When the small cloth bundle slipped from the parchment, Sol caught it, then resumed reading.\n\nThere was a pause when he finished the letter. Logically, he knew that it was a kind and thoughtful letter, and that Vornakir clearly put effort into both the words and the gift. Sol knew he should feel something: gratitude, warmth, maybe even that quiet, fond amusement that came whenever Vornakir tried to express affection in his overly formal way. But there was nothing, just a distant awareness that those emotions *should * be there. It was like Sol was hearing a song’s melody without harmonies.\n\nHe looked down at the charm; the ochre gemstone caught the light of the room, glinting softly in his palm. It was a lovely gift, Sol knew that, but still nothing.\n\nAfter a moment, Sol pushed himself away from the door and crossed the room. He stopped at his dresser, hands resting on an ornate, navy-blue jewelry box. The box opened with a quiet click, and inside, neatly arranged among several pieces he’d made or modified himself, was a golden charm bracelet. Only one charm currently hung from it, a crescent moon of softly iridescent opal.\n\nSol lifted the new charm again, studying it closely. Then he reached for a small set of tools laid out nearby. His fingers moved with practiced ease: using small pliers and a metal clasp, he carefully adjusted the metal loop to fit snugly on the charm. The work was precise and delicate, the sort of craftsmanship Sol normally found soothing; now it was just something else he needed to do.\n\nWhen he finished, the heart charm clicked gently into place beside the crescent moon. He looked at the two charms for a moment, thinking about how Vornakir would probably be pleased to see the heart charm hanging there. Sol closed the box, then he slid the bracelet onto his right wrist.\n\nThe charms shifted softly as he lowered his hand to his side, the opal crescent and ochre heart resting beside each other in quiet tandem. He stood there for a few seconds, and the illusory stars above him drifted slowly across the ceiling.\n\nSol looked down at the bracelet again. He knew the gift mattered; he knew the letter mattered; he knew Vornakir meant every word; he just couldn’t feel the emotions behind the logic.\n\nAfter a moment, he softly exhaled and moved away from the dresser, the bracelet giving the faintest chime as the charms brushed against each other while he walked.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-03-06T21:38:05.367000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1479593942285811793",
+    "channel_id": "1478905512677474568",
+    "author": {
+      "id": "155436835013656576",
+      "username": "pyroshadow",
+      "avatar": "ed853f9f1777de28c22f287e735ce2b1",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Nightingale",
+      "avatar_decoration_data": {
+        "asset": "a_670b722e56740d11d1e6fe55b8094013",
+        "sku_id": "1343751617303805983",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1377377712028516443",
+          "asset": "nameplates/nameplates_v2/spirit_moon/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_SPIRIT_MOON_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 8,
+        "effect_id": 2,
+        "colors": [
+          3163762,
+          9709528
+        ]
+      },
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      },
+      "primary_guild": {
+        "identity_guild_id": "394252141138804736",
+        "identity_enabled": true,
+        "tag": "RVYN",
+        "badge": "6082c2553b03b47ccaea5203567df3cf"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "position": 1,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "❤️"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  }
+]

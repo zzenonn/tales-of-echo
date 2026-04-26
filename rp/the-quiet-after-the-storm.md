@@ -1,0 +1,395 @@
+---
+layout: default
+title: "The Quiet After the Storm"
+---
+
+<div align="center">
+
+# The Quiet After the Storm
+
+<img src="https://img.shields.io/badge/status-Closed-e74c3c?style=for-the-badge" alt="Closed" />
+
+**Campaign:** The Spark Saga  
+**Writers:** Caspian &bull; Sol/Sunni  
+**Date:** December 15, 2025 &ndash; January 10, 2026
+
+</div>
+
+---
+
+
+### &#x270D; Caspian
+<sub>Dec 15, 2025 &middot; 05:51 PM UTC</sub>
+
+~*One Day After The Quasi Incident*~
+
+The fireplace crackled keeping the common area of the dorm room safe against the chill that lingered over campus. Snapping ashes and cinders flew into the air as Caspian prodded the flame with a poker to keep the logs well positioned. He didn’t flinch at the heat coming off the fire and enjoyed the tickling sensation of the sparks against his skin. Everything had been feeling quite numb since the evening prior. 
+
+Things had gotten blurry towards the end of their fight with Hearne, Vorr, Aelira… whatever she was called. He vividly remembered seeing Cordelia slip over the edge as if she might plummet to her death. The rest was a ragged blur, he remembered the ichor screaming in his ears but it was only with her death that his senses fully returned. 
+
+It was alarming to lose control like that. Even more alarming was that he didn’t feel like he had lost control. A part of him had opened that door and seized the power. That was only the beginning of his complicated feelings about the day prior. Losing Aurum had rocked the group, but for him… he didn’t have the words yet to describe what the golden man had meant to him in the short weeks they had known one another. 
+
+He found his hand had unconsciously risen to trace the pattern of the key that hung around his neck. A parting gift and responsibility packed into a single object. He hadn’t removed the key from his person since.  The golden metal felt sturdy in his hand and at the least provided a comforting stability in the chaotic last thirty-six hours. 
+
+Returning to his seat and his glass of Saintillian red wine. He sat and watched the flames flickering and listened to the wood popping as moisture was released. Part of him felt some guilt, he’d been avoiding the others all day. Caring for his friends never felt like a burden but he simply couldn’t muster the will to check in on them. What good was he to them in this state?
+
+Quietly he sat and contemplated all that had occurred. He carefully put another glass of wine out. Not sure which friend might arrive to take it but luring them as if fishing for company. Even just the presence of another would provide needed reassurance.
+
+
+> *OOC: @user*
+
+
+
+### &#x270D; Sol/Sunni
+<sub>Dec 15, 2025 &middot; 09:03 PM UTC</sub>
+
+The dorm had been abnormally quiet since the Quasi detonated; it was too still, like the apartment itself was holding its breath. Sol stood alone in his room, one hand resting lightly against the cold window as rain traced slow, uneven paths down the glass. The sky was a muted slate, clouds low enough to blur the towers beyond the courtyard.
+
+Rainy days were Sol’s favorite—well, next to snow at least. He loved the patter of raindrops against the ground, the distant whoosh of the wind, and the clean, dewy smell that always followed a storm. Most of all, he loved how rain seemed to soften the world, rounding out its sharper edges.
+
+In the aftermath of the explosion, with investigations underway, High Courts swarming the campus, and rumors passing through the halls faster than truth, it felt like one of the few moments where he could think without being pulled in a dozen directions at once.
+
+After a long moment, Sol turned away from the window. He pulled on a yellow rain jacket over a white shirt, slipped into light blue jeans, and tugged on his black rain boots, the small star-shaped designs along their sides catching the light as he moved. His hair was tied half up, half down, loose strands curling slightly at the ends as he grabbed two umbrellas from the stand by the door: one deep navy, the other a bold maroon.
+
+When Sol stepped out into the common area, the warmth from the fireplace met him first, followed by the quiet crackle of burning logs. Caspian was already there, wine glass in hand. The sight of him made Sol slow without meaning to, and for a brief second, his mind betrayed him.
+
+In a flash, he saw ichor-black tendrils tearing free from Caspian’s arm. The way his aura had violently and overwhelmingly surged was wrong in a way Sol had never felt before. Not even from Sorjin. And the sound? Gods, the sound when he drove the lich into the ground like it was nothing.
+
+Sol swallowed. He had never seen Caspian like that. So aggressive. So unrestrained. So animalistic. For one terrifying moment, Sol hadn’t been sure he’d come back from it at all.
+
+He’d never been afraid of his dormmates before; he’d never even considered it. But that night had put something sharp and instinctive in his chest, and whether he wanted to admit it or not, he’d been avoiding Caspian ever since.
+
+Sol forced himself to move. He crossed the room and stopped a long distance away, fingers tightening briefly around the umbrella handles before he adjusted his grip. A small, tired smile touched his expression as he spoke.
+
+“Hey,” Sol said softly. “It’s raining.”
+
+He winced and scrubbed a hand over his face, muttering under his breath, “Obviously, he knows it’s raining. You idiot. He has eyes.”
+
+Why was this suddenly so hard? He talked to Caspian every day, or he *had* spoke to him every day. Maybe it was exhaustion finally catching up with him. Or perhaps it was…
+
+Sol’s gaze drifted toward the windows at the far end of the room. Outside, rain pooled along the stone paths, reflecting the glow of the enchanted lights hovering above the walkways, turning everything soft and unreal.
+
+He drew in a slow breath and made himself stay. “I was thinking,” he cleared his throat, trying to steady his voice. “It might be a good time to clear our heads. Maybe take a walk, if you’re up for it. You can bring the wine if you want, or we could sit here, whatever you want to do is fine.” Sol realized he was rambling and quickly stopped talking.
+
+A long beat of silence filled the space, “I’ve always liked rainy days,” he said reflectively. “They’re quiet and good for thinking.”
+
+
+### &#x270D; Caspian
+<sub>Dec 16, 2025 &middot; 03:17 PM UTC</sub>
+
+Staring into the fire things around Caspian had fallen away for a moment. He was brought from his reverie at Sunni’s comment about the weather. The chill from the rain had inspired his decision to light the fireplace. 
+
+Caspian wasn’t good at reading people. He simply had an easier time taking people at their word but the distance between  Sunni and him felt off even if he didn’t know why. Normally his friend wouldn’t stand half a room away to speak to him. Then again, he was also not feeling like himself so maybe it was just in his head.
+
+As Sunni muttered to himself Caspian uttered a short reply seeing his friend dressed for the outdoors with two umbrellas.
+
+“Yeah, it’s really coming down out there. Tell Adrien I said hello when you see him.”
+
+When an invitation to go on a walk was extended Caspian was a bit surprised but pleased. 
+
+“I could do a walk, I don’t mind the rain. They are a good chance to slow down and reflect a bit. The fire and the wine will be here when I get back anyways.”
+
+He strode back to the fireplace pressing a small glyph above the mantle. A helpful protection ward engaged that would ensure the fire stayed contained to the fireplace when students couldn’t wait for a fire to burn out naturally. 
+
+He grabbed a jacket that hung on a coat rack by the door. It was heavy brown leather with an interior layer of fleece. He also put on a sturdy pair of boots treated to resist getting wet. 
+
+He made sure to continue to give Sunni his space but opened the door and gestured to the aasimar.
+
+“Lead the way.”
+
+
+### &#x270D; Sol/Sunni
+<sub>Dec 17, 2025 &middot; 04:18 AM UTC</sub>
+
+When Caspian gestured toward the door, Sol flashed him a small smile and held out the blue umbrella.
+
+“Here,” he said. “This one’s sturdier.”
+
+Outside, the rain greeted them immediately, cool and steady, drumming against stone and leaves. Sol stepped out first, lifting his free hand and flicking his fingers in a practiced motion. The umbrella beside him shimmered as magic caught around it; it rose to hover obediently over his shoulder shortly after, keeping pace with him without needing to be held.
+
+He exhaled, shoulders loosening a bit. As they walked, Sol let himself drift closer to the path’s edge, deliberately stepping into shallow puddles as they went. Water splashed up around his boots with each step, catching the glow of the enchanted lanterns lining the walkway. He pretended it was playful, almost absent-minded, but really, it was him grounding himself, trying not to be frozen in place by recent memories.
+
+The campus was much more serene in the rain; it felt softer and much less watchful. They headed in the direction of the illusion school, and for a while, Sol didn’t speak; he just walked, letting the sound of rainfall fill the space where his thoughts wanted to spiral.
+
+Eventually, he glanced over. “So,” he began, voice casual in tone, “how are you holding up? With everything.” He hesitated, then added more quietly, “I know it’s been a lot. Aurum. Your sister—” His breath caught slightly. “How you almost lost her.”
+
+His steps slowed without him realizing it. “And the ichor.” Sunni stopped short.
+
+The word felt too sharp in his mouth, too close to the image he’d been trying not to think about. He swallowed and forced a crooked smile, looking ahead instead of at Caspian.
+
+“Ah,” he said quickly, waving a hand as if brushing the thought aside. “Sorry. That’s…we don’t have to get into that right now.”
+
+He stepped forward again at a noticeably faster pace, splashing deliberately into another puddle.
+
+“Anyway,” Sol continued, tone brighter than before, “I figured walking beats sitting around staring at walls all day. Even though rotting on the couch like a sack of potatoes sounds really good right now.”
+
+
+### &#x270D; Caspian
+<sub>Dec 18, 2025 &middot; 08:13 PM UTC</sub>
+
+“Thank you.” Caspian said as he took the umbrella. 
+
+When he stepped outside he took a moment to feel the rain against his skin and appreciate the coolness of the air before opening the umbrella to block the rain. The rain was an old friend and foe to Caspian. A brutal enemy that made muddy affairs of his youth spent training to fight. Now it was a cleansing, a shift from one stage to the next.
+
+While Sunni stepped in the puddles Caspian stayed to the center of the path. Umbrella rested against his shoulder lazily as he nodded in greeting to any scurrying passersby. By the end of the day before they had been declared Sparkian Protectors and the news seemed to have rushed across campus, they got a few awestruck stares and Caspian didn’t mind a few flirtatious winks he received from a few of the female students they passed. Generally pretty friendly reactions for the day after a major incident. 
+
+Once they hit an empty stretch of path he heard Sunni’s question. Caspian let out a deep sigh he’d been holding in, questions he knew were coming but still wasn’t sure if he was ready to answer. Either way he’d agreed to this walk and he wasn’t going to deny his friend answers.
+
+“To be honest, I feel like shit. Everything is sore and painful from yesterday, my head hurts from answering so many questions and I could barely sleep last night.”
+
+He slowed his pace and fell into step next to Sunni. 
+
+“Cordelia’s ok and the person who hurt her is dust in the wind so that score is settled. She and I have a long conversation coming but that’s a problem for tomorrow’s Caspian not me.”
+
+Then thoughts turned to Aurum and Caspian sagged visibly. He felt so guilty, that he could’ve done so much more. The guardian was gone and it was his fault. Not to mention the prophecy he had heard felt one step closer to truth. 
+
+“I… miss Aurum. He was really important to me. Now that he’s gone I just feel empty, like a part of failed and can never make up for it.”
+
+The silence extended from there for a moment and hung until Sunni spoke the word *ichor*. Caspian stuttered in his pace, a surge of discomfort and fear welling inside of him. Alarmingly even anger at the statement as if it was an accusation which the logical part of his mind knew it wasn’t. 
+
+He felt it rattle within him at recognition of the word. Enjoying the anger that it prompted within Caspian. Memories of smashing Aelira into the Quasi floor flooded his head.
+
+“It…” he started before Sunni continued and he didn’t have to continue. 
+
+He let the aasimar finish his “correction” and continued to walk in silent not replying to the comment. A part of him still disquieted at the wave of emotions the word *ichor* had elicited. Discomfort was written all over his face as he walked staring at the path in front of him avoiding meeting his friend’s eye’s.
+
+
+### &#x270D; Sol/Sunni
+<sub>Dec 19, 2025 &middot; 07:02 AM UTC</sub>
+
+Sol slowed when Caspian did, the playful rhythm of his steps fading as the weight of the words settled between them. The rain filled the silence for a moment.
+
+“I miss Aurum too,” Sol said quietly. 
+
+He huffed a small breath, something almost like a laugh escaped him, but it didn’t have much humor behind it.
+
+“Even after I punched the absolute fuck out of him that one time.” A faint smile tugged at his mouth. “He was strange, and kind, and it always felt like he was there when you needed him.” His gaze dropped to the path. “The gold man was charming, I don’t think I ever told him that,” he said solemnly.
+
+They walked a few more steps before Sol felt something *shift*. The moment the word *ichor* was spoken, Sol could feel emotions that weren’t his flare like heat under his skin. Rage, fear, and pain tightly coiled and buried deep within him, scorching in a way that made his stomach twist. Sol’s breath hitched, his expression tightening as he instinctively drew his hands closer to himself, fingers curling against the fabric of his sleeves.
+
+“Hey,” he said softly, a wince crossing his face. “I’m sorry.”
+
+He glanced sideways, then back ahead, clearly choosing his words with care.
+
+“I know you’re angry,” Sol continued, voice gentle but unflinchingly honest, “and scared, and hurt. You don’t have to tell me about the ichor. Really. I can tell you don’t want to talk about it.” He swallowed, and a small, strained breath escaped him. “I don’t have to look at your aura to figure that out.” He paused. “I can just…feel it.”
+
+He shook his head, curls shifting against his cheek. 
+
+“I think it started during the Quasi battle, or maybe right after. Ever since then, it’s like the world’s volume been turned up too loud.” His hand lifted briefly toward his chest, fingers splaying. “I can still see people’s auras like I always have, but now I can *feel* what’s underneath them too.”
+
+His voice dropped. “I’m having trouble telling where other people end, and I begin.” He let out a quiet, humorless laugh. “Half the time I don’t even know if what I’m feeling is *mine* anymore.”
+
+Sunni didn’t look at Caspian as he went on. His brows knit faintly. “With you, the anger’s the loudest thing there; it runs deep, but it's not out of control, it’s like something is containing it. And beneath that, there’s grief, and guilt, and fear all pulling in different directions.” His shoulders sagged slightly. “I can feel you holding onto a lot of things.”
+
+He slowed his pace, then stopped walking altogether, rain pattering softly around them. Sol turned just enough to speak without fully facing Caspian.
+
+“I need to be honest about something,” he said quietly. “What I saw in the Quasi, what you did to Aelira, it scared me. Not because I think you’d ever hurt me.” He was quick to add that, urgency threading his voice. “I *know* you wouldn’t.”
+
+He exhaled slowly. “But the anger combined with that power…” His fingers twitched at his side. “It made something in me flinch, and I hated that it did.”
+
+Sol lifted his gaze, stray beads of rain catching in his lashes. “That’s why I asked you to come out here,” he finished. “I thought walking and talking might help you let some of that pressure bleed off instead of letting it sit and burn.”
+
+He paused again. “I don’t want to keep being afraid of something I don’t fully understand. Especially when it’s you.”
+
+
+### &#x270D; Caspian
+<sub>Dec 22, 2025 &middot; 03:29 PM UTC</sub>
+
+Caspian slowed his pace to match Sunni. When they drew to a stop he turned to face his companion as the topic of their conversation grew more serious. A grim expression defined Caspian’s normally cheerful visage.
+
+He finished listening calmly to Sunni until he had finished. This moment was coming he knew it was. Time to face the music.
+
+To Sunni who so deeply understood illusion it must be plain to see that Caspian was simply lost, unsure of who and what he was anymore. The path forward had always been clouded for him, a man of so many different identities. Now they all tore him in different directions.
+
+“Nothing makes sense anymore Sunni. I’m sorry that my feelings have unsettled you.   I just…”
+
+He squeezed the umbrella hard, frustration at his inability to find the words he wanted evident.
+
+He leaned back letting the umbrella drop for a moment letting the rain fall onto his face.
+
+“Why does doing the right thing seem to only ever cause me pain. To make me suffer? It just makes me so furious, is it my fate, my curse to know what the right thing is and to know I need to do the right thing only for it to always cut me in return.”
+
+He raised his voice, anger rising . His words not directed at Sunni so much as the gods, the universe, or whatever greater powers may be listening.
+
+“My family, Terra, Aurum. Each time I do what I feel is right and I lose someone. The right thing has only caused me pain Sunni. And you know what, the one time I did the wrong thing. I let the ichor loose, let it empower me. What made you flinch gave me a relief I’ve never felt before.”
+
+The truth admitted. Once spoken could not be taken back. He had let it out of its cage intentionally, the anger of seeing Cordelia fall was the key but he’d turned and opened the lock himself. 
+
+Guilt immediately appeared to replace the indignant rage he felt a moment earlier. He remembered that everything he felt was reflected in his friend. The last thing he would want to share the pain he felt intentionally.
+
+“I’m sorry… I didn’t mean to hurt you. I guess that’s my lesson… I can release my rage, do the wrong thing but it’ll only hurt those I care about.”
+
+He put the umbrella back over his now thoroughly soaked body. He didn’t let his eyes drop from Sunni. Caspian  was a lot of things but he would never not take responsibility for what he did.
+
+
+### &#x270D; Sol/Sunni
+<sub>Dec 25, 2025 &middot; 03:33 AM UTC</sub>
+
+Sol’s focus slipped as he listened to his friend, and the magic holding up his umbrella aloft dissipated. The umbrella crashed onto the wet stone at his feet as the rain beaded onto Sol’s jacket sleeves and hair.
+
+He felt it all. First came the sharp, raw anger, flaring hot like a blazing inferno. Then guilt followed close behind, crashing down like a tidal wave. Finally, grief snuck up beneath it all, vast and hollow, swallowing everything like a black hole, trying to tear Caspian apart.
+
+Sol didn’t know what to say, so he didn’t try. He stepped towards Caspian and wrapped his arms around him, pulling him into a warm hug. He rested his cheek against the damp leather jacket as he held on like he was afraid letting go would make Caspian unravel at the seams.
+
+Sol held him there, breathing slow and steady, unaware that something began to stir around him. At first, it was just a faint teal shimmer at the edges of his body, looking like light refracting across shallow water. It pulsed rhythmically with his heartbeat, as the air between them seemed to warm.
+
+The shimmer stretched forward like it was testing the waters of a mysterious lake before it gently brushed against Caspian. It tethered loosely against him, patiently waiting like it was extending an invitation. If Caspian resisted, it would fade just as quietly as it appeared, but if he leaned into it, a sense like standing near a hearth after being out in the cold too long would follow. The sharp edges of anger would dull and soften enough to help Caspian breathe. Fear would loosen its grip around him just sufficiently for him to feel safe without feeling like something in him was stolen or changed.
+
+Sol didn’t notice any of what he was doing; to him, there was only the rain pelting against his jacket and the steady sound of Caspian’s breathing. For the first time since the Quasi explosion, his head felt quieter; the constant emotional stereo eased, as if his body had finally found a frequency that didn’t hurt.
+
+When he spoke again, his tone was low and steady. “You never have to apologize for how you feel,” Sol murmured. “Not to me.”
+
+He tightened his grip slightly around Caspian. “I can’t tell you how you’re supposed to feel about your choices,” he continued softly. “And I wouldn’t want to. You made them because you thought they were right in that moment.”
+
+He paused, the rain drumming against the stone. “But from what I’ve experienced and seen, it doesn’t matter how carefully you choose; things can still go wrong, and people can still get hurt, but that doesn’t mean the decision itself was cursed and will lead to your suffering.”
+
+He rested his chin lightly against Caspian’s shoulder. “It just means the world can be unpredictable and sometimes cruel,” Sol said quietly. “But that does mean it will always be that way.”
+
+A beat of silence brushed between them. “You don’t have to punish yourself to experience relief and happiness,” he added. “Especially not when you’re already carrying so much.”
+
+He stayed there, arms still around Caspian, rain pelting down, unafraid to hold his friend's weight.
+
+
+### &#x270D; Caspian
+<sub>Dec 29, 2025 &middot; 03:49 PM UTC</sub>
+
+Unprepared for the sudden embrace Caspian needed to steady his balance. He looked at Sunni wrapping his arms around him and slowly returned the gesture. The warmth and comfort soothing his mind and body just a little. 
+
+As whatever magic or ability Sunni had conjured reached out to Caspian he could feel the effect in the back of his mind. The aim was to provide respite, to aid in mending what was broken. Caspian let it in for just a moment, to remind himself of what he was seeking before gently declining its offer. 
+
+Pain was a reminder that he was mortal, it was a reminder that no matter what shared his body that he was himself and not a monster. The promise of relief was tempting but the company of his friend was all he needed in this moment.
+
+“You’re right the world is cruel… you know it as well as I do. It’s just hard to separate what I can and cannot control, and the power both from Aurum and the Ichor makes it harder. Sometimes it makes me feel like I can fix things I really can’t.”
+
+He pats Sunni on the back and splashes some water off them both by being the first to move in a few minutes. He slowly and carefully releases the embrace and picks up his umbrella to cover them both. 
+
+Caspian is still stoic but his eyes and aura show his appreciation. His echo walks over and returns the other discarded umbrella.
+
+“Come on, there’s no sense in both of us getting sick from the cold and rain. We’ve got enough going on to deal with. I’m gonna get through this Sunni, you’ve reminded me what I’m searching for and I thank you for that.”
+
+The human kicked a rock into a large puddle that had formed. Not an angry gesture just someone unsure of what to do with themselves.
+
+“I promise I won’t forget what you’ve told me. I’ll continue to make the right choices, even when they cause me pain. It’s so easy to lose sight of myself, I won’t let it happen again.”
+
+
+### &#x270D; Sol/Sunni
+<sub>Jan 01, 2026 &middot; 04:51 AM UTC</sub>
+
+Sol offered Caspian a warm, slightly crooked smile as they parted. When the echo presented him with the umbrella, Sol lifted his hand and flicked his finger, recalling the umbrella. The umbrella returned to him in a wash of golden light, sparkles of magic threading along its edges, before it lifted back into the air and settled into place, floating above his shoulder. 
+
+The teal calm that had lingered moments before thinned and faded back into Sol like a receding tide. Sol didn’t seem to notice the change, only that the tightness in his chest had eased.
+
+As they started walking again, he fell back into old habits: splashing deliberately through puddles as his boots kicked water up around his ankles. This time, however, there was a playful, almost childlike energy to it. He laughed jubilantly, cutting through the rain.
+
+He kept that up for a few minutes before his expression grew pensive and he quieted. 
+
+He glanced sideways to look at Caspian. “Since we’re being open and honest today,” he began, “there’s still one more thing I wanted to talk to you about.”
+
+He slowed his pace a little. “My dad wrote to me, for the first time in weeks; for the first time since Sponsorship Day.”
+
+He didn’t elaborate right away; his eyes drifted to the slick paths ahead, staring at the way the lantern light refracted in the puddles.
+
+“He’s furious,” Sol continued. “At the Headmaster, at the Academy, at everyone who thought it was acceptable to send students into something so dangerous without telling anyone.” He paused. “He said he wants answers, threatening to engage his lawyers if he needs to.”
+
+He huffed. “But he said he was also worried about me, like genuinely really worried and scared something might have happened to me, and he asked if I was safe.” His voice softened. “I haven’t seen that side of him in a long time.”
+
+They walked a little farther before he spoke again. “He said he was proud of me, you know.” 
+
+The words sat heavy in the air. Sol’s steps slowed again, and his shoulders drew in slightly beneath his jacket.
+
+“He said he doesn’t understand what I do and why I am passionate about design.” He swallowed. “But he said he was willing to try and listen.”
+
+He fell quiet after that, expression distant. “I don’t know how to feel about it,” he admitted, voice low and uneven. “I don’t know if he means it or if he’s just saying it because I almost died.” His fingers curled briefly at his side. “I don’t know if I should write back, or what I’d even say if I did.”
+
+The rain continued to fall around them as Sol was caught somewhere between relief and grief and hope and suspicion, unsure which feeling belonged to now and which belonged to everything that came before.
+
+
+### &#x270D; Caspian
+<sub>Jan 02, 2026 &middot; 08:04 PM UTC</sub>
+
+Feeling more relaxed and a weight off his shoulders Caspian’s walk through the rain was no longer a slog. He didn’t quite partake in splashing about but was more than happy to playfully flick rain off his umbrella at Sunni. 
+
+The walk was more enjoyable for the time being. However he saw the discomfort appear on Sunni’s face only a moment before he spoke. Caspian reacted with plain surprise at the news that Sunni’s father had written. After recounting the letter Caspian thought to himself carefully before responding. 
+
+He tried to imagine if his parents were worried after what had occurred. They were literally on campus so he could have checked in but he was more than happy to give them space. If they had been concerned they would’ve checked on him. Most likely they were planning to find a way to turn that Sparkian Protector status to their own advantage. 
+
+But Sunni’s father, seemed… amiable in a way he hadn’t been on Sponsorship day. Suspicion bubbled up but for his friend’s sake he pushed it away. 
+
+“Maybe there’s some hope for him yet then? I don’t want to see you get hurt if this isn’t what it seems but I think you’d be making a mistake if you don’t see where this goes. You should reply.”
+
+Caspian steps carefully over a large puddle and stops to think for just a moment. 
+
+“Maybe the why doesn’t matter quite yet. If it is cause you almost died is that so bad? Sometimes almost losing something or someone reminds you how much you care about it.”
+
+He continued walking but moved closer to put a hand on Sunni’s shoulder. 
+
+“As for what you should say to him, that’s up to you but I know you’ll figure it out. Just speak your heart, it’s usually spot on in my experience. This particular conversation included.”
+
+Cas smiled warmly, not concerned in the slightest about this letter. Suspicions laid to rest not because he trusted Sunni’s father but because he knew that Sunni could handle it no matter the result.
+
+
+### &#x270D; Sol/Sunni
+<sub>Jan 07, 2026 &middot; 01:59 AM UTC</sub>
+
+Sol listened to Caspian as he spoke, rainfall trickling softly against the umbrella. By the time he finished, the tight knot in Sol’s chest started to loosen a little.
+
+He gave Caspian a small smile. “Yeah, you’re probably right,” he said quietly.
+
+He looked down at the path, watching the water ripple around his boots as he walked, refracting the warm golden lantern lights above.
+
+“I guess it doesn’t hurt to try,” he added. “Worst case scenario, I learn nothing’s changed. Best case…” He shrugged lightly. “Maybe he has changed for the better.”
+
+He breathed, steadier than before, clearly making a decision. “I’ll write him back,” he said to Caspian with quiet confidence.
+
+He bumped his shoulder gently into Caspian’s in a way that said *we’re okay* without needing to be spoken.
+
+“Come on,” Sol said, his familiar warmth returning to his voice. “It’s getting cold, and these wet clothes definitely aren’t helping.”
+
+He gestured back toward the dorms with a tilt of his head, rain-dark curls sticking to his cheek.
+
+“Let’s head back and change into something comfortable, then we can resume our fireside conversation and drinks. I think we’ve earned a little comfort after today, no?”
+
+Sol turned toward the dorms, boots splashing softly through the rain-slick path as they continued heading back the way they’d come. Court banners drifted lazily in the wind, their colors muted by the rain; they didn’t seem to be looming as heavily as they had days before. Sol looked around and noticed that the campus felt different now, not quite healed or whole yet, but somehow things felt calmer.
+
+By the time the dorms came back into view, the warm gold glow from the windows broke up the stormy gray sky, like sunrise peaking through curtains. Sol glanced up, watching the rain fall through the lantern light like falling stars, and then kept walking back toward shelter, back toward something that, for the first time in days, felt a little bit more like home.
+
+
+### &#x270D; Caspian
+<sub>Jan 09, 2026 &middot; 03:29 PM UTC</sub>
+
+“That sounds damn good about now. I need something to warm me up for sure, tea or maybe hot chocolate if we have any.” 
+
+Caspian didn’t feel alone for the first time since everything happened. Things still ached inside him, a conversation couldn’t make those feelings disappear but they ached less. 
+
+Talking about parents made him think of his own. Their request to have him ask Lio to visit Spark Oath. He hadn’t considered helping his parents but he’d realized how he hadn’t written Lio or spoken to him since… well his last hastily written letter at the cabin.
+
+“Can I ask you for some of my own advice? I want to write a letter to my friend Lio, yes the prince one, but my parents want me to do it too. They want him to visit the school for some reason. I’m not sure what to do, writing him could put him in danger but I also can’t just abandon him if he’s in danger.”
+
+It was a dilemma and the answer wasn’t going to be perfect. Before however he’d had no one to talk to about his parents schemes and he’d blundered into them like a bull in a china shop. Now he had people who could help him. Maybe this time he could finally get the better of them.
+
+They arrived at the door to the dormitories and Caspian closed his umbrella and shook off the excess water. He opened and held the door open for Sunni. Then followed him inside.
+
+
+### &#x270D; Sol/Sunni
+<sub>Jan 10, 2026 &middot; 04:20 AM UTC</sub>
+
+Sol thanked Caspian for holding the door open and headed into their dorm. Once inside, he kicked off his rain boots and shrugged out of his jacket at the entrance; he neatly hung the jacket on a nearby coat rack to dry and left his shoes by the door. Sol then shook the remaining beads of rain off his umbrella, folded it shut, and set it into the stand by the door before padding across the common area to the living room. Small embers of the fire were still burning from when they left, and the heat warmed his skin almost immediately. He dropped onto the couch and let out a satisfied sigh, then reached for a familiar cozy blanket resting on the couch’s arm he usually left lying around, pulling it around himself until he was snuggled inside. After settling in, he looked up at Caspian with a thoughtful but heavy expression.
+
+“I don’t know your parents very well,” Sol admitted with a gentle voice. “But I do know patterns.” He tilted his head slightly, fingers fidgeting with the edge of the blanket. “From what you’ve told me about them, I find patterns of them using you to get what they want.” He tried to say the statement less matter-of-factly, but he wasn’t sure it was effective. “I could be wrong, though. I didn’t grow up with them, so my perspective is extremely limited, but I try hard to see the good in people, and it’s just hard to see it in them when all I’ve ever heard or seen from them is manipulative and calculated.”
+
+He sighed quietly, gaze drifting to the fire for a moment as he thought. “If it were me,” he continued, “I’d listen to my heart. He’s your friend, and you never need an excuse to reach out to someone you care about.” His eyes flicked back to Caspian. “Just keep your parents’ scheming tactics in mind while you do it.”
+
+Then, his mood shifted, and a small, mischievous smile curved across his face. He leaned forward slightly and gave Caspian a playful wink.
+
+“Besides,” Sol said lightly, lifting one hand, “there are ways to make sure your parents don’t even *know* you wrote him.”
+
+He wiggled his fingers, and rainbow-hued light spilled between them, dancing like oil on water before fading back into nothing.
+
+“I trust your gut,” Sol finished warmly. “It’s usually right, even when the path gets complicated.”
+
+He settled back into the couch, blanket still wrapped tight around him, firelight flickering across his features.
+
+
+---
+
+<div align="center"><sub>Thread ID: 1450183627034984662 &bull; Fetched from Discord</sub></div>
